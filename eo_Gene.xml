@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="eo_Gene">
+ <entry term="abies balsamea " name="abies balsamea " wikipedia="abies balsamea " id="CM.eo_Gene.0"/>
+ <entry term="abies grandis " name="abies grandis " wikipedia="abies grandis " id="CM.eo_Gene.1"/>
+ <entry term="acer yangbiense" name="acer yangbiense" wikipedia="acer yangbiense" id="CM.eo_Gene.2"/>
+ <entry term="acremonium egyptiacum " name="acremonium egyptiacum " id="CM.eo_Gene.3"/>
+ <entry term="actinidia chinensis var. chinensis " name="actinidia chinensis var. chinensis " id="CM.eo_Gene.4"/>
+ <entry term="aegilops tauschii subsp. strangulata " name="aegilops tauschii subsp. strangulata " id="CM.eo_Gene.5"/>
+ <entry term="agrocybe aegerita " name="agrocybe aegerita " wikipedia="agrocybe aegerita " id="CM.eo_Gene.6"/>
+ <entry term="alicyclobacillus acidocaldarius subsp. acidocaldarius " name="alicyclobacillus acidocaldarius subsp. acidocaldarius " id="CM.eo_Gene.7"/>
+ <entry term="alkalihalobacillus clausii " name="alkalihalobacillus clausii " id="CM.eo_Gene.8"/>
+ <entry term="alternaria brassicicola " name="alternaria brassicicola " wikipedia="alternaria brassicicola " id="CM.eo_Gene.9"/>
+ <entry term="amaranthus hypochondriacus" name="amaranthus hypochondriacus" wikipedia="amaranthus hypochondriacus" id="CM.eo_Gene.10"/>
+ <entry term="amborella trichopoda" name="amborella trichopoda" wikipedia="amborella trichopoda" id="CM.eo_Gene.11"/>
+ <entry term="anacardium occidentale" name="anacardium occidentale" wikipedia="anacardium occidentale" id="CM.eo_Gene.12"/>
+ <entry term="ananas comosus " name="ananas comosus " wikipedia="ananas comosus " id="CM.eo_Gene.13"/>
+ <entry term="antirrhinum majus " name="antirrhinum majus " wikipedia="antirrhinum majus " id="CM.eo_Gene.14"/>
+ <entry term="apostasia shenzhenica" name="apostasia shenzhenica" id="CM.eo_Gene.15"/>
+ <entry term="aquilaria crassna " name="aquilaria crassna " wikipedia="aquilaria crassna " id="CM.eo_Gene.16"/>
+ <entry term="aquilegia coerulea " name="aquilegia coerulea " wikipedia="aquilegia coerulea " id="CM.eo_Gene.17"/>
+ <entry term="arabidopsis halleri" name="arabidopsis halleri" wikipedia="arabidopsis halleri" id="CM.eo_Gene.18"/>
+ <entry term="arabidopsis lyrata subsp. lyrata " name="arabidopsis lyrata subsp. lyrata " wikipedia="arabidopsis lyrata subsp. lyrata " id="CM.eo_Gene.19"/>
+ <entry term="arabidopsis thaliana" name="arabidopsis thaliana" wikipedia="arabidopsis thaliana" id="CM.eo_Gene.20"/>
+ <entry term="arabidopsis thaliana " name="arabidopsis thaliana " wikipedia="arabidopsis thaliana " id="CM.eo_Gene.21"/>
+ <entry term="arabis alpina " name="arabis alpina " wikipedia="arabis alpina " id="CM.eo_Gene.22"/>
+ <entry term="arabis nemorensis" name="arabis nemorensis" id="CM.eo_Gene.23"/>
+ <entry term="arachis hypogaea " name="arachis hypogaea " wikipedia="arachis hypogaea " id="CM.eo_Gene.24"/>
+ <entry term="armillaria gallica " name="armillaria gallica " wikipedia="armillaria gallica " id="CM.eo_Gene.25"/>
+ <entry term="armillaria ostoyae " name="armillaria ostoyae " wikipedia="armillaria ostoyae " id="CM.eo_Gene.26"/>
+ <entry term="artemisia annua " name="artemisia annua " wikipedia="artemisia annua " id="CM.eo_Gene.27"/>
+ <entry term="arthrinium sacchari " name="arthrinium sacchari " id="CM.eo_Gene.28"/>
+ <entry term="arthrinium sp." name="arthrinium sp." id="CM.eo_Gene.29"/>
+ <entry term="arthroderma gypseum " name="arthroderma gypseum " id="CM.eo_Gene.30"/>
+ <entry term="ashbya gossypii " name="ashbya gossypii " wikipedia="ashbya gossypii " id="CM.eo_Gene.31"/>
+ <entry term="asparagus officinalis" name="asparagus officinalis" wikipedia="asparagus officinalis" id="CM.eo_Gene.32"/>
+ <entry term="asparagus officinalis " name="asparagus officinalis " wikipedia="asparagus officinalis " id="CM.eo_Gene.33"/>
+ <entry term="aspergillus aculeatus " name="aspergillus aculeatus " wikipedia="aspergillus aculeatus " id="CM.eo_Gene.34"/>
+ <entry term="aspergillus clavatus " name="aspergillus clavatus " wikipedia="aspergillus clavatus " id="CM.eo_Gene.35"/>
+ <entry term="aspergillus flavus" name="aspergillus flavus" wikipedia="aspergillus flavus" id="CM.eo_Gene.36"/>
+ <entry term="aspergillus novofumigatus " name="aspergillus novofumigatus " wikipedia="aspergillus novofumigatus " id="CM.eo_Gene.37"/>
+ <entry term="aspergillus oryzae " name="aspergillus oryzae " wikipedia="aspergillus oryzae " id="CM.eo_Gene.38"/>
+ <entry term="aspergillus terreus" name="aspergillus terreus" wikipedia="aspergillus terreus" id="CM.eo_Gene.39"/>
+ <entry term="aspergillus terreus " name="aspergillus terreus " wikipedia="aspergillus terreus " id="CM.eo_Gene.40"/>
+ <entry term="aster tataricus " name="aster tataricus " wikipedia="aster tataricus " id="CM.eo_Gene.41"/>
+ <entry term="atalantia buxifolia" name="atalantia buxifolia" wikipedia="atalantia buxifolia" id="CM.eo_Gene.42"/>
+ <entry term="bacillus subtilis " name="bacillus subtilis " wikipedia="bacillus subtilis " id="CM.eo_Gene.43"/>
+ <entry term="barbarea vulgaris " name="barbarea vulgaris " wikipedia="barbarea vulgaris " id="CM.eo_Gene.44"/>
+ <entry term="beta vulgaris subsp. vulgaris " name="beta vulgaris subsp. vulgaris " id="CM.eo_Gene.45"/>
+ <entry term="betula platyphylla " name="betula platyphylla " wikipedia="betula platyphylla " id="CM.eo_Gene.46"/>
+ <entry term="black raspberry" name="black raspberry" wikipedia="black raspberry" id="CM.eo_Gene.47"/>
+ <entry term="boechera stricta" name="boechera stricta" wikipedia="boechera stricta" id="CM.eo_Gene.48"/>
+ <entry term="bos taurus " name="bos taurus " id="CM.eo_Gene.49"/>
+ <entry term="botryotinia fuckeliana " name="botryotinia fuckeliana " wikipedia="botryotinia fuckeliana " id="CM.eo_Gene.50"/>
+ <entry term="bottle gourd usvl1vr-ls" name="bottle gourd usvl1vr-ls" id="CM.eo_Gene.51"/>
+ <entry term="brachypodium distachyon " name="brachypodium distachyon " wikipedia="brachypodium distachyon " id="CM.eo_Gene.52"/>
+ <entry term="brachypodium hybridum" name="brachypodium hybridum" id="CM.eo_Gene.53"/>
+ <entry term="brachypodium stacei" name="brachypodium stacei" id="CM.eo_Gene.54"/>
+ <entry term="brachypodium sylvaticum" name="brachypodium sylvaticum" wikipedia="brachypodium sylvaticum" id="CM.eo_Gene.55"/>
+ <entry term="bradyrhizobium diazoefficiens " name="bradyrhizobium diazoefficiens " wikipedia="bradyrhizobium diazoefficiens " id="CM.eo_Gene.56"/>
+ <entry term="brassica campestris " name="brassica campestris " wikipedia="brassica campestris " id="CM.eo_Gene.57"/>
+ <entry term="brassica cretica " name="brassica cretica " id="CM.eo_Gene.58"/>
+ <entry term="brassica napus " name="brassica napus " wikipedia="brassica napus " id="CM.eo_Gene.59"/>
+ <entry term="brassica oleracea var. oleracea" name="brassica oleracea var. oleracea" id="CM.eo_Gene.60"/>
+ <entry term="brassica rapa subsp. pekinensis " name="brassica rapa subsp. pekinensis " wikipedia="brassica rapa subsp. pekinensis " id="CM.eo_Gene.61"/>
+ <entry term="bruguiera gymnorhiza " name="bruguiera gymnorhiza " wikipedia="bruguiera gymnorhiza " id="CM.eo_Gene.62"/>
+ <entry term="cajanus cajan " name="cajanus cajan " wikipedia="cajanus cajan " id="CM.eo_Gene.63"/>
+ <entry term="cajanus cajan asha" name="cajanus cajan asha" id="CM.eo_Gene.64"/>
+ <entry term="calcarisporium arbuscula " name="calcarisporium arbuscula " id="CM.eo_Gene.65"/>
+ <entry term="camellia brevistyla" name="camellia brevistyla" id="CM.eo_Gene.66"/>
+ <entry term="camellia hiemalis " name="camellia hiemalis " wikipedia="camellia hiemalis " id="CM.eo_Gene.67"/>
+ <entry term="camellia sinensis " name="camellia sinensis " wikipedia="camellia sinensis " id="CM.eo_Gene.68"/>
+ <entry term="camellia sinensis var. sinensis" name="camellia sinensis var. sinensis" id="CM.eo_Gene.69"/>
+ <entry term="candida albicans " name="candida albicans " wikipedia="candida albicans " id="CM.eo_Gene.70"/>
+ <entry term="candida glabrata " name="candida glabrata " wikipedia="candida glabrata " id="CM.eo_Gene.71"/>
+ <entry term="cannabis sativa " name="cannabis sativa " wikipedia="cannabis sativa " id="CM.eo_Gene.72"/>
+ <entry term="capsella rubella" name="capsella rubella" wikipedia="capsella rubella" id="CM.eo_Gene.73"/>
+ <entry term="capsicum annum cv. 334" name="capsicum annum cv. 334" id="CM.eo_Gene.74"/>
+ <entry term="capsicum annum glabriusculum" name="capsicum annum glabriusculum" id="CM.eo_Gene.75"/>
+ <entry term="capsicum annum zunla" name="capsicum annum zunla" id="CM.eo_Gene.76"/>
+ <entry term="capsicum annuum " name="capsicum annuum " wikipedia="capsicum annuum " id="CM.eo_Gene.77"/>
+ <entry term="capsicum baccatum " name="capsicum baccatum " wikipedia="capsicum baccatum " id="CM.eo_Gene.78"/>
+ <entry term="capsicum chinense " name="capsicum chinense " wikipedia="capsicum chinense " id="CM.eo_Gene.79"/>
+ <entry term="carica papaya" name="carica papaya" wikipedia="carica papaya" id="CM.eo_Gene.80"/>
+ <entry term="carpinus fangiana" name="carpinus fangiana" id="CM.eo_Gene.81"/>
+ <entry term="catharanthus roseus " name="catharanthus roseus " wikipedia="catharanthus roseus " id="CM.eo_Gene.82"/>
+ <entry term="cephalotus follicularis " name="cephalotus follicularis " wikipedia="cephalotus follicularis " id="CM.eo_Gene.83"/>
+ <entry term="cerasus x yedoensis somei-yoshino" name="cerasus x yedoensis somei-yoshino" id="CM.eo_Gene.84"/>
+ <entry term="chenopodium quinoa" name="chenopodium quinoa" wikipedia="chenopodium quinoa" id="CM.eo_Gene.85"/>
+ <entry term="chitinophaga japonensis " name="chitinophaga japonensis " id="CM.eo_Gene.86"/>
+ <entry term="chitinophaga pinensis " name="chitinophaga pinensis " id="CM.eo_Gene.87"/>
+ <entry term="cicer arietinum " name="cicer arietinum " wikipedia="cicer arietinum " id="CM.eo_Gene.88"/>
+ <entry term="cicer arietinum icc 4958" name="cicer arietinum icc 4958" id="CM.eo_Gene.89"/>
+ <entry term="cicer reticulatum pi489777" name="cicer reticulatum pi489777" id="CM.eo_Gene.90"/>
+ <entry term="cichorium intybus " name="cichorium intybus " wikipedia="cichorium intybus " id="CM.eo_Gene.91"/>
+ <entry term="cinnamomum micranthum f. kanehirae" name="cinnamomum micranthum f. kanehirae" id="CM.eo_Gene.92"/>
+ <entry term="cinnamomum tenuipile " name="cinnamomum tenuipile " id="CM.eo_Gene.93"/>
+ <entry term="cistus creticus subsp. creticus " name="cistus creticus subsp. creticus " id="CM.eo_Gene.94"/>
+ <entry term="citrus clementina " name="citrus clementina " wikipedia="citrus clementina " id="CM.eo_Gene.95"/>
+ <entry term="citrus junos " name="citrus junos " wikipedia="citrus junos " id="CM.eo_Gene.96"/>
+ <entry term="citrus limon " name="citrus limon " wikipedia="citrus limon " id="CM.eo_Gene.97"/>
+ <entry term="citrus medica" name="citrus medica" wikipedia="citrus medica" id="CM.eo_Gene.98"/>
+ <entry term="citrus reticulata" name="citrus reticulata" wikipedia="citrus reticulata" id="CM.eo_Gene.99"/>
+ <entry term="citrus sinensis " name="citrus sinensis " wikipedia="citrus sinensis " id="CM.eo_Gene.100"/>
+ <entry term="citrus unshiu " name="citrus unshiu " wikipedia="citrus unshiu " id="CM.eo_Gene.101"/>
+ <entry term="clarkia breweri " name="clarkia breweri " wikipedia="clarkia breweri " id="CM.eo_Gene.102"/>
+ <entry term="claviceps paspali " name="claviceps paspali " id="CM.eo_Gene.103"/>
+ <entry term="clitopilus passeckerianus " name="clitopilus passeckerianus " id="CM.eo_Gene.104"/>
+ <entry term="coccomyxa subellipsoidea c-169" name="coccomyxa subellipsoidea c-169" id="CM.eo_Gene.105"/>
+ <entry term="cochliobolus heterostrophus " name="cochliobolus heterostrophus " wikipedia="cochliobolus heterostrophus " id="CM.eo_Gene.106"/>
+ <entry term="cochliobolus lunatus " name="cochliobolus lunatus " wikipedia="cochliobolus lunatus " id="CM.eo_Gene.107"/>
+ <entry term="coffea arabica" name="coffea arabica" wikipedia="coffea arabica" id="CM.eo_Gene.108"/>
+ <entry term="coffea canephora " name="coffea canephora " wikipedia="coffea canephora " id="CM.eo_Gene.109"/>
+ <entry term="colletotrichum gloeosporioides " name="colletotrichum gloeosporioides " wikipedia="colletotrichum gloeosporioides " id="CM.eo_Gene.110"/>
+ <entry term="colletotrichum higginsianum " name="colletotrichum higginsianum " wikipedia="colletotrichum higginsianum " id="CM.eo_Gene.111"/>
+ <entry term="conradina grandiflora" name="conradina grandiflora" wikipedia="conradina grandiflora" id="CM.eo_Gene.112"/>
+ <entry term="coprinopsis cinerea " name="coprinopsis cinerea " wikipedia="coprinopsis cinerea " id="CM.eo_Gene.113"/>
+ <entry term="corchorus capsularis " name="corchorus capsularis " wikipedia="corchorus capsularis " id="CM.eo_Gene.114"/>
+ <entry term="corchorus olitorius" name="corchorus olitorius" wikipedia="corchorus olitorius" id="CM.eo_Gene.115"/>
+ <entry term="cucumber " name="cucumber " wikipedia="cucumber " id="CM.eo_Gene.116"/>
+ <entry term="cucumis melo " name="cucumis melo " wikipedia="cucumis melo " id="CM.eo_Gene.117"/>
+ <entry term="cucumis melo var. makuwa" name="cucumis melo var. makuwa" wikipedia="cucumis melo var. makuwa" id="CM.eo_Gene.118"/>
+ <entry term="cucumis sativus " name="cucumis sativus " wikipedia="cucumis sativus " id="CM.eo_Gene.119"/>
+ <entry term="cucurbita maxima" name="cucurbita maxima" wikipedia="cucurbita maxima" id="CM.eo_Gene.120"/>
+ <entry term="cucurbita maxima " name="cucurbita maxima " wikipedia="cucurbita maxima " id="CM.eo_Gene.121"/>
+ <entry term="cucurbita moschata" name="cucurbita moschata" wikipedia="cucurbita moschata" id="CM.eo_Gene.122"/>
+ <entry term="cucurbita pepo " name="cucurbita pepo " wikipedia="cucurbita pepo " id="CM.eo_Gene.123"/>
+ <entry term="cuscuta australis" name="cuscuta australis" wikipedia="cuscuta australis" id="CM.eo_Gene.124"/>
+ <entry term="cyberlindnera jadinii " name="cyberlindnera jadinii " wikipedia="cyberlindnera jadinii " id="CM.eo_Gene.125"/>
+ <entry term="cynara cardunculus var. scolymus " name="cynara cardunculus var. scolymus " wikipedia="cynara cardunculus var. scolymus " id="CM.eo_Gene.126"/>
+ <entry term="daucus carota subsp. sativus " name="daucus carota subsp. sativus " wikipedia="daucus carota subsp. sativus " id="CM.eo_Gene.127"/>
+ <entry term="dendrobium catenatum" name="dendrobium catenatum" id="CM.eo_Gene.128"/>
+ <entry term="dendrothele bispora " name="dendrothele bispora " id="CM.eo_Gene.129"/>
+ <entry term="dianthus caryophyllus" name="dianthus caryophyllus" wikipedia="dianthus caryophyllus" id="CM.eo_Gene.130"/>
+ <entry term="dichanthelium oligosanthes" name="dichanthelium oligosanthes" wikipedia="dichanthelium oligosanthes" id="CM.eo_Gene.131"/>
+ <entry term="dictyostelium discoideum " name="dictyostelium discoideum " wikipedia="dictyostelium discoideum " id="CM.eo_Gene.132"/>
+ <entry term="dorcoceras hygrometricum" name="dorcoceras hygrometricum" id="CM.eo_Gene.133"/>
+ <entry term="dryopteris crassirhizoma " name="dryopteris crassirhizoma " wikipedia="dryopteris crassirhizoma " id="CM.eo_Gene.134"/>
+ <entry term="emericella nidulans " name="emericella nidulans " wikipedia="emericella nidulans " id="CM.eo_Gene.135"/>
+ <entry term="emericella variicolor " name="emericella variicolor " id="CM.eo_Gene.136"/>
+ <entry term="ensete glaucum" name="ensete glaucum" wikipedia="ensete glaucum" id="CM.eo_Gene.137"/>
+ <entry term="ensete ventricosum " name="ensete ventricosum " wikipedia="ensete ventricosum " id="CM.eo_Gene.138"/>
+ <entry term="epichloe festucae var. lolii " name="epichloe festucae var. lolii " id="CM.eo_Gene.139"/>
+ <entry term="eragrostis curvula " name="eragrostis curvula " wikipedia="eragrostis curvula " id="CM.eo_Gene.140"/>
+ <entry term="erythranthe guttata " name="erythranthe guttata " wikipedia="erythranthe guttata " id="CM.eo_Gene.141"/>
+ <entry term="escherichia coli " name="escherichia coli " wikipedia="escherichia coli " id="CM.eo_Gene.142"/>
+ <entry term="eucalyptus grandis " name="eucalyptus grandis " wikipedia="eucalyptus grandis " id="CM.eo_Gene.143"/>
+ <entry term="eutrema salsugineum" name="eutrema salsugineum" id="CM.eo_Gene.144"/>
+ <entry term="eutrema salsugineum " name="eutrema salsugineum " id="CM.eo_Gene.145"/>
+ <entry term="fortunella hindsii" name="fortunella hindsii" wikipedia="fortunella hindsii" id="CM.eo_Gene.146"/>
+ <entry term="fragaria ananassa" name="fragaria ananassa" wikipedia="fragaria ananassa" id="CM.eo_Gene.147"/>
+ <entry term="fragaria ananassa " name="fragaria ananassa " wikipedia="fragaria ananassa " id="CM.eo_Gene.148"/>
+ <entry term="fragaria vesca " name="fragaria vesca " wikipedia="fragaria vesca " id="CM.eo_Gene.149"/>
+ <entry term="fusarium acaciae-mearnsii" name="fusarium acaciae-mearnsii" wikipedia="fusarium acaciae-mearnsii" id="CM.eo_Gene.150"/>
+ <entry term="fusarium asiaticum" name="fusarium asiaticum" id="CM.eo_Gene.151"/>
+ <entry term="fusarium austroamericanum" name="fusarium austroamericanum" id="CM.eo_Gene.152"/>
+ <entry term="fusarium boothii" name="fusarium boothii" id="CM.eo_Gene.153"/>
+ <entry term="fusarium cerealis " name="fusarium cerealis " id="CM.eo_Gene.154"/>
+ <entry term="fusarium cortaderiae" name="fusarium cortaderiae" id="CM.eo_Gene.155"/>
+ <entry term="fusarium culmorum" name="fusarium culmorum" wikipedia="fusarium culmorum" id="CM.eo_Gene.156"/>
+ <entry term="fusarium langsethiae" name="fusarium langsethiae" wikipedia="fusarium langsethiae" id="CM.eo_Gene.157"/>
+ <entry term="fusarium mangiferae " name="fusarium mangiferae " wikipedia="fusarium mangiferae " id="CM.eo_Gene.158"/>
+ <entry term="fusarium meridionale" name="fusarium meridionale" id="CM.eo_Gene.159"/>
+ <entry term="fusarium mesoamericanum" name="fusarium mesoamericanum" id="CM.eo_Gene.160"/>
+ <entry term="fusarium poae" name="fusarium poae" id="CM.eo_Gene.161"/>
+ <entry term="fusarium proliferatum " name="fusarium proliferatum " wikipedia="fusarium proliferatum " id="CM.eo_Gene.162"/>
+ <entry term="fusarium pseudograminearum " name="fusarium pseudograminearum " wikipedia="fusarium pseudograminearum " id="CM.eo_Gene.163"/>
+ <entry term="fusarium sporotrichioides" name="fusarium sporotrichioides" wikipedia="fusarium sporotrichioides" id="CM.eo_Gene.164"/>
+ <entry term="galerina marginata " name="galerina marginata " wikipedia="galerina marginata " id="CM.eo_Gene.165"/>
+ <entry term="genlisea aurea" name="genlisea aurea" wikipedia="genlisea aurea" id="CM.eo_Gene.166"/>
+ <entry term="gibberella fujikuroi " name="gibberella fujikuroi " wikipedia="gibberella fujikuroi " id="CM.eo_Gene.167"/>
+ <entry term="gibberella pulicaris" name="gibberella pulicaris" wikipedia="gibberella pulicaris" id="CM.eo_Gene.168"/>
+ <entry term="gibberella zeae " name="gibberella zeae " wikipedia="gibberella zeae " id="CM.eo_Gene.169"/>
+ <entry term="ginkgo biloba " name="ginkgo biloba " wikipedia="ginkgo biloba " id="CM.eo_Gene.170"/>
+ <entry term="glycine max " name="glycine max " wikipedia="glycine max " id="CM.eo_Gene.171"/>
+ <entry term="glycine soja " name="glycine soja " wikipedia="glycine soja " id="CM.eo_Gene.172"/>
+ <entry term="glycyrrhiza glabra " name="glycyrrhiza glabra " id="CM.eo_Gene.173"/>
+ <entry term="gossypium arboreum " name="gossypium arboreum " wikipedia="gossypium arboreum " id="CM.eo_Gene.174"/>
+ <entry term="gossypium australe" name="gossypium australe" wikipedia="gossypium australe" id="CM.eo_Gene.175"/>
+ <entry term="gossypium barbadense " name="gossypium barbadense " wikipedia="gossypium barbadense " id="CM.eo_Gene.176"/>
+ <entry term="gossypium hirsutum " name="gossypium hirsutum " wikipedia="gossypium hirsutum " id="CM.eo_Gene.177"/>
+ <entry term="gossypium mustelinum " name="gossypium mustelinum " id="CM.eo_Gene.178"/>
+ <entry term="gossypium raimondii " name="gossypium raimondii " wikipedia="gossypium raimondii " id="CM.eo_Gene.179"/>
+ <entry term="handroanthus impetiginosus" name="handroanthus impetiginosus" wikipedia="handroanthus impetiginosus" id="CM.eo_Gene.180"/>
+ <entry term="helianthus annuus " name="helianthus annuus " id="CM.eo_Gene.181"/>
+ <entry term="herpetosiphon aurantiacus " name="herpetosiphon aurantiacus " id="CM.eo_Gene.182"/>
+ <entry term="heterobasidion irregulare " name="heterobasidion irregulare " wikipedia="heterobasidion irregulare " id="CM.eo_Gene.183"/>
+ <entry term="hevea brasiliensis " name="hevea brasiliensis " wikipedia="hevea brasiliensis " id="CM.eo_Gene.184"/>
+ <entry term="hibiscus syriacus " name="hibiscus syriacus " wikipedia="hibiscus syriacus " id="CM.eo_Gene.185"/>
+ <entry term="homo sapiens " name="homo sapiens " wikipedia="homo sapiens " id="CM.eo_Gene.186"/>
+ <entry term="hordeum vulgare subsp. vulgare " name="hordeum vulgare subsp. vulgare " wikipedia="hordeum vulgare subsp. vulgare " id="CM.eo_Gene.187"/>
+ <entry term="humulus lupulus " name="humulus lupulus " wikipedia="humulus lupulus " id="CM.eo_Gene.188"/>
+ <entry term="hyoscyamus muticus " name="hyoscyamus muticus " wikipedia="hyoscyamus muticus " id="CM.eo_Gene.189"/>
+ <entry term="hypholoma sublateritium " name="hypholoma sublateritium " wikipedia="hypholoma sublateritium " id="CM.eo_Gene.190"/>
+ <entry term="hypocrea atroviridis " name="hypocrea atroviridis " id="CM.eo_Gene.191"/>
+ <entry term="hypoxylon pulicicidum" name="hypoxylon pulicicidum" id="CM.eo_Gene.192"/>
+ <entry term="inula hupehensis " name="inula hupehensis " id="CM.eo_Gene.193"/>
+ <entry term="isodon eriocalyx " name="isodon eriocalyx " id="CM.eo_Gene.194"/>
+ <entry term="isodon japonicus " name="isodon japonicus " id="CM.eo_Gene.195"/>
+ <entry term="isodon rubescens " name="isodon rubescens " id="CM.eo_Gene.196"/>
+ <entry term="jatropha curcas " name="jatropha curcas " wikipedia="jatropha curcas " id="CM.eo_Gene.197"/>
+ <entry term="juglans regia " name="juglans regia " wikipedia="juglans regia " id="CM.eo_Gene.198"/>
+ <entry term="kalanchoe daigremontiana " name="kalanchoe daigremontiana " wikipedia="kalanchoe daigremontiana " id="CM.eo_Gene.199"/>
+ <entry term="kalanchoe fedtschenkoi" name="kalanchoe fedtschenkoi" wikipedia="kalanchoe fedtschenkoi" id="CM.eo_Gene.200"/>
+ <entry term="kalanchoe laxiflora" name="kalanchoe laxiflora" id="CM.eo_Gene.201"/>
+ <entry term="kalopanax septemlobus " name="kalopanax septemlobus " wikipedia="kalopanax septemlobus " id="CM.eo_Gene.202"/>
+ <entry term="kitasatospora griseola " name="kitasatospora griseola " id="CM.eo_Gene.203"/>
+ <entry term="kitasatospora setae " name="kitasatospora setae " id="CM.eo_Gene.204"/>
+ <entry term="lactuca sativa " name="lactuca sativa " wikipedia="lactuca sativa " id="CM.eo_Gene.205"/>
+ <entry term="lavandula angustifolia " name="lavandula angustifolia " wikipedia="lavandula angustifolia " id="CM.eo_Gene.206"/>
+ <entry term="leersia perrieri" name="leersia perrieri" wikipedia="leersia perrieri" id="CM.eo_Gene.207"/>
+ <entry term="linum usitatissimum" name="linum usitatissimum" wikipedia="linum usitatissimum" id="CM.eo_Gene.208"/>
+ <entry term="lotus japonicus" name="lotus japonicus" wikipedia="lotus japonicus" id="CM.eo_Gene.209"/>
+ <entry term="lotus japonicus " name="lotus japonicus " wikipedia="lotus japonicus " id="CM.eo_Gene.210"/>
+ <entry term="luffa aegyptiaca " name="luffa aegyptiaca " wikipedia="luffa aegyptiaca " id="CM.eo_Gene.211"/>
+ <entry term="lupinus albus " name="lupinus albus " wikipedia="lupinus albus " id="CM.eo_Gene.212"/>
+ <entry term="lupinus angustifolius " name="lupinus angustifolius " wikipedia="lupinus angustifolius " id="CM.eo_Gene.213"/>
+ <entry term="lupinus angustifolius tanjil" name="lupinus angustifolius tanjil" id="CM.eo_Gene.214"/>
+ <entry term="lycopodium clavatum " name="lycopodium clavatum " wikipedia="lycopodium clavatum " id="CM.eo_Gene.215"/>
+ <entry term="macleaya cordata" name="macleaya cordata" wikipedia="macleaya cordata" id="CM.eo_Gene.216"/>
+ <entry term="macrophomina phaseolina " name="macrophomina phaseolina " wikipedia="macrophomina phaseolina " id="CM.eo_Gene.217"/>
+ <entry term="magnolia grandiflora " name="magnolia grandiflora " wikipedia="magnolia grandiflora " id="CM.eo_Gene.218"/>
+ <entry term="malus baccata " name="malus baccata " wikipedia="malus baccata " id="CM.eo_Gene.219"/>
+ <entry term="malus domestica " name="malus domestica " id="CM.eo_Gene.220"/>
+ <entry term="manihot esculenta " name="manihot esculenta " wikipedia="manihot esculenta " id="CM.eo_Gene.221"/>
+ <entry term="marchantia polymorpha " name="marchantia polymorpha " wikipedia="marchantia polymorpha " id="CM.eo_Gene.222"/>
+ <entry term="marchantia polymorpha subsp. ruderalis" name="marchantia polymorpha subsp. ruderalis" id="CM.eo_Gene.223"/>
+ <entry term="marrubium vulgare " name="marrubium vulgare " wikipedia="marrubium vulgare " id="CM.eo_Gene.224"/>
+ <entry term="matricaria chamomilla var. recutita " name="matricaria chamomilla var. recutita " id="CM.eo_Gene.225"/>
+ <entry term="medicago truncatula " name="medicago truncatula " wikipedia="medicago truncatula " id="CM.eo_Gene.226"/>
+ <entry term="melon " name="melon " wikipedia="melon " id="CM.eo_Gene.227"/>
+ <entry term="mentha aquatica " name="mentha aquatica " wikipedia="mentha aquatica " id="CM.eo_Gene.228"/>
+ <entry term="mentha piperita " name="mentha piperita " wikipedia="mentha piperita " id="CM.eo_Gene.229"/>
+ <entry term="metarhizium acridum " name="metarhizium acridum " wikipedia="metarhizium acridum " id="CM.eo_Gene.230"/>
+ <entry term="metarhizium anisopliae " name="metarhizium anisopliae " wikipedia="metarhizium anisopliae " id="CM.eo_Gene.231"/>
+ <entry term="metarhizium brunneum " name="metarhizium brunneum " wikipedia="metarhizium brunneum " id="CM.eo_Gene.232"/>
+ <entry term="metarhizium guizhouense " name="metarhizium guizhouense " id="CM.eo_Gene.233"/>
+ <entry term="metarhizium majus " name="metarhizium majus " wikipedia="metarhizium majus " id="CM.eo_Gene.234"/>
+ <entry term="metarhizium robertsii " name="metarhizium robertsii " id="CM.eo_Gene.235"/>
+ <entry term="micromonas sp. rcc299" name="micromonas sp. rcc299" id="CM.eo_Gene.236"/>
+ <entry term="microthlaspi erraticum" name="microthlaspi erraticum" id="CM.eo_Gene.237"/>
+ <entry term="mikania micrantha" name="mikania micrantha" wikipedia="mikania micrantha" id="CM.eo_Gene.238"/>
+ <entry term="morus notabilis" name="morus notabilis" wikipedia="morus notabilis" id="CM.eo_Gene.239"/>
+ <entry term="morus notabilis�c.k. schneid " name="morus notabilis�c.k. schneid " wikipedia="morus notabilis�c.k. schneid " id="CM.eo_Gene.240"/>
+ <entry term="mus musculus " name="mus musculus " wikipedia="mus musculus " id="CM.eo_Gene.241"/>
+ <entry term="musa acuminata dh-pahang" name="musa acuminata dh-pahang" id="CM.eo_Gene.242"/>
+ <entry term="musa acuminata subsp. malaccensis " name="musa acuminata subsp. malaccensis " id="CM.eo_Gene.243"/>
+ <entry term="musa balbisiana " name="musa balbisiana " id="CM.eo_Gene.244"/>
+ <entry term="musa balbisiana dh-pkw" name="musa balbisiana dh-pkw" id="CM.eo_Gene.245"/>
+ <entry term="musa schizocarpa" name="musa schizocarpa" wikipedia="musa schizocarpa" id="CM.eo_Gene.246"/>
+ <entry term="mycobacterium tuberculosis " name="mycobacterium tuberculosis " wikipedia="mycobacterium tuberculosis " id="CM.eo_Gene.247"/>
+ <entry term="nectria sp." name="nectria sp." id="CM.eo_Gene.248"/>
+ <entry term="nelumbo nucifera " name="nelumbo nucifera " wikipedia="nelumbo nucifera " id="CM.eo_Gene.249"/>
+ <entry term="neosartorya fischeri " name="neosartorya fischeri " wikipedia="neosartorya fischeri " id="CM.eo_Gene.250"/>
+ <entry term="neosartorya fumigata " name="neosartorya fumigata " wikipedia="neosartorya fumigata " id="CM.eo_Gene.251"/>
+ <entry term="neurospora crassa " name="neurospora crassa " wikipedia="neurospora crassa " id="CM.eo_Gene.252"/>
+ <entry term="nicotiana attenuata " name="nicotiana attenuata " wikipedia="nicotiana attenuata " id="CM.eo_Gene.253"/>
+ <entry term="nicotiana benthamiana" name="nicotiana benthamiana" wikipedia="nicotiana benthamiana" id="CM.eo_Gene.254"/>
+ <entry term="nicotiana sylvestris " name="nicotiana sylvestris " wikipedia="nicotiana sylvestris " id="CM.eo_Gene.255"/>
+ <entry term="nicotiana tabacum " name="nicotiana tabacum " wikipedia="nicotiana tabacum " id="CM.eo_Gene.256"/>
+ <entry term="nicotiana tomentosiformis" name="nicotiana tomentosiformis" wikipedia="nicotiana tomentosiformis" id="CM.eo_Gene.257"/>
+ <entry term="nostoc punctiforme " name="nostoc punctiforme " wikipedia="nostoc punctiforme " id="CM.eo_Gene.258"/>
+ <entry term="nyssa sinensis" name="nyssa sinensis" wikipedia="nyssa sinensis" id="CM.eo_Gene.259"/>
+ <entry term="ocimum basilicum " name="ocimum basilicum " wikipedia="ocimum basilicum " id="CM.eo_Gene.260"/>
+ <entry term="olea europaea" name="olea europaea" id="CM.eo_Gene.261"/>
+ <entry term="origanum vulgare " name="origanum vulgare " wikipedia="origanum vulgare " id="CM.eo_Gene.262"/>
+ <entry term="oropetium thomaeum" name="oropetium thomaeum" id="CM.eo_Gene.263"/>
+ <entry term="oryza barthii" name="oryza barthii" wikipedia="oryza barthii" id="CM.eo_Gene.264"/>
+ <entry term="oryza brachyantha" name="oryza brachyantha" wikipedia="oryza brachyantha" id="CM.eo_Gene.265"/>
+ <entry term="oryza glumipatula" name="oryza glumipatula" wikipedia="oryza glumipatula" id="CM.eo_Gene.266"/>
+ <entry term="oryza meridionalis" name="oryza meridionalis" wikipedia="oryza meridionalis" id="CM.eo_Gene.267"/>
+ <entry term="oryza meyeriana var. granulata" name="oryza meyeriana var. granulata" id="CM.eo_Gene.268"/>
+ <entry term="oryza nivara " name="oryza nivara " wikipedia="oryza nivara " id="CM.eo_Gene.269"/>
+ <entry term="oryza punctata " name="oryza punctata " wikipedia="oryza punctata " id="CM.eo_Gene.270"/>
+ <entry term="oryza rufipogon " name="oryza rufipogon " wikipedia="oryza rufipogon " id="CM.eo_Gene.271"/>
+ <entry term="oryza sativa subsp. indica " name="oryza sativa subsp. indica " id="CM.eo_Gene.272"/>
+ <entry term="oryza sativa subsp. japonica " name="oryza sativa subsp. japonica " wikipedia="oryza sativa subsp. japonica " id="CM.eo_Gene.273"/>
+ <entry term="ostreococcus lucimarinus" name="ostreococcus lucimarinus" wikipedia="ostreococcus lucimarinus" id="CM.eo_Gene.274"/>
+ <entry term="panax ginseng " name="panax ginseng " wikipedia="panax ginseng " id="CM.eo_Gene.275"/>
+ <entry term="panicum hallii var. hallii" name="panicum hallii var. hallii" id="CM.eo_Gene.276"/>
+ <entry term="panicum miliaceum " name="panicum miliaceum " wikipedia="panicum miliaceum " id="CM.eo_Gene.277"/>
+ <entry term="panicum virgatum" name="panicum virgatum" wikipedia="panicum virgatum" id="CM.eo_Gene.278"/>
+ <entry term="papaver somniferum " name="papaver somniferum " wikipedia="papaver somniferum " id="CM.eo_Gene.279"/>
+ <entry term="paramyrothecium roridum " name="paramyrothecium roridum " id="CM.eo_Gene.280"/>
+ <entry term="parasponia andersonii " name="parasponia andersonii " id="CM.eo_Gene.281"/>
+ <entry term="penicillium aethiopicum" name="penicillium aethiopicum" wikipedia="penicillium aethiopicum" id="CM.eo_Gene.282"/>
+ <entry term="penicillium brasilianum" name="penicillium brasilianum" wikipedia="penicillium brasilianum" id="CM.eo_Gene.283"/>
+ <entry term="penicillium crustosum " name="penicillium crustosum " wikipedia="penicillium crustosum " id="CM.eo_Gene.284"/>
+ <entry term="penicillium janthinellum " name="penicillium janthinellum " wikipedia="penicillium janthinellum " id="CM.eo_Gene.285"/>
+ <entry term="penicillium paxilli" name="penicillium paxilli" wikipedia="penicillium paxilli" id="CM.eo_Gene.286"/>
+ <entry term="penicillium roqueforti" name="penicillium roqueforti" wikipedia="penicillium roqueforti" id="CM.eo_Gene.287"/>
+ <entry term="penicillium roqueforti " name="penicillium roqueforti " wikipedia="penicillium roqueforti " id="CM.eo_Gene.288"/>
+ <entry term="penicillium rubens " name="penicillium rubens " wikipedia="penicillium rubens " id="CM.eo_Gene.289"/>
+ <entry term="penicillium simplicissimum" name="penicillium simplicissimum" wikipedia="penicillium simplicissimum" id="CM.eo_Gene.290"/>
+ <entry term="persicaria hydropiper " name="persicaria hydropiper " wikipedia="persicaria hydropiper " id="CM.eo_Gene.291"/>
+ <entry term="phaeosphaeria sp. " name="phaeosphaeria sp. " id="CM.eo_Gene.292"/>
+ <entry term="phaseolus angularis " name="phaseolus angularis " wikipedia="phaseolus angularis " id="CM.eo_Gene.293"/>
+ <entry term="phaseolus vulgaris " name="phaseolus vulgaris " wikipedia="phaseolus vulgaris " id="CM.eo_Gene.294"/>
+ <entry term="phoma sp." name="phoma sp." id="CM.eo_Gene.295"/>
+ <entry term="phoma sp. " name="phoma sp. " id="CM.eo_Gene.296"/>
+ <entry term="phomopsis amygdali " name="phomopsis amygdali " wikipedia="phomopsis amygdali " id="CM.eo_Gene.297"/>
+ <entry term="phyla dulcis " name="phyla dulcis " wikipedia="phyla dulcis " id="CM.eo_Gene.298"/>
+ <entry term="physarum polycephalum " name="physarum polycephalum " wikipedia="physarum polycephalum " id="CM.eo_Gene.299"/>
+ <entry term="physcomitrium patens " name="physcomitrium patens " wikipedia="physcomitrium patens " id="CM.eo_Gene.300"/>
+ <entry term="picea abies " name="picea abies " wikipedia="picea abies " id="CM.eo_Gene.301"/>
+ <entry term="picea glauca " name="picea glauca " wikipedia="picea glauca " id="CM.eo_Gene.302"/>
+ <entry term="picea sitchensis " name="picea sitchensis " wikipedia="picea sitchensis " id="CM.eo_Gene.303"/>
+ <entry term="piloderma croceum " name="piloderma croceum " id="CM.eo_Gene.304"/>
+ <entry term="pinus banksiana " name="pinus banksiana " wikipedia="pinus banksiana " id="CM.eo_Gene.305"/>
+ <entry term="pinus contorta " name="pinus contorta " wikipedia="pinus contorta " id="CM.eo_Gene.306"/>
+ <entry term="pinus taeda " name="pinus taeda " wikipedia="pinus taeda " id="CM.eo_Gene.307"/>
+ <entry term="pisum sativum " name="pisum sativum " id="CM.eo_Gene.308"/>
+ <entry term="pisum sativum cameor v1a " name="pisum sativum cameor v1a " id="CM.eo_Gene.309"/>
+ <entry term="pleospora betae " name="pleospora betae " wikipedia="pleospora betae " id="CM.eo_Gene.310"/>
+ <entry term="pneumocystis carinii" name="pneumocystis carinii" wikipedia="pneumocystis carinii" id="CM.eo_Gene.311"/>
+ <entry term="pogostemon cablin " name="pogostemon cablin " wikipedia="pogostemon cablin " id="CM.eo_Gene.312"/>
+ <entry term="poncirus trifoliata" name="poncirus trifoliata" wikipedia="poncirus trifoliata" id="CM.eo_Gene.313"/>
+ <entry term="pongo abelii " name="pongo abelii " wikipedia="pongo abelii " id="CM.eo_Gene.314"/>
+ <entry term="populus alba " name="populus alba " wikipedia="populus alba " id="CM.eo_Gene.315"/>
+ <entry term="populus canescens " name="populus canescens " wikipedia="populus canescens " id="CM.eo_Gene.316"/>
+ <entry term="populus deltoides wv94" name="populus deltoides wv94" id="CM.eo_Gene.317"/>
+ <entry term="populus tremuloides " name="populus tremuloides " wikipedia="populus tremuloides " id="CM.eo_Gene.318"/>
+ <entry term="populus trichocarpa" name="populus trichocarpa" wikipedia="populus trichocarpa" id="CM.eo_Gene.319"/>
+ <entry term="populus trichocarpa " name="populus trichocarpa " wikipedia="populus trichocarpa " id="CM.eo_Gene.320"/>
+ <entry term="postia placenta " name="postia placenta " wikipedia="postia placenta " id="CM.eo_Gene.321"/>
+ <entry term="potentilla micrantha" name="potentilla micrantha" wikipedia="potentilla micrantha" id="CM.eo_Gene.322"/>
+ <entry term="prunus dulcis " name="prunus dulcis " wikipedia="prunus dulcis " id="CM.eo_Gene.323"/>
+ <entry term="prunus persica" name="prunus persica" wikipedia="prunus persica" id="CM.eo_Gene.324"/>
+ <entry term="prunus persica " name="prunus persica " wikipedia="prunus persica " id="CM.eo_Gene.325"/>
+ <entry term="prunus persica chinese cling" name="prunus persica chinese cling" id="CM.eo_Gene.326"/>
+ <entry term="prunus salicina sanyueli " name="prunus salicina sanyueli " id="CM.eo_Gene.327"/>
+ <entry term="prunus sibirica ch320_5" name="prunus sibirica ch320_5" id="CM.eo_Gene.328"/>
+ <entry term="prunus yedoensis" name="prunus yedoensis" wikipedia="prunus yedoensis" id="CM.eo_Gene.329"/>
+ <entry term="prunus yedoensis var. nudiflora" name="prunus yedoensis var. nudiflora" id="CM.eo_Gene.330"/>
+ <entry term="pseudolarix amabilis " name="pseudolarix amabilis " wikipedia="pseudolarix amabilis " id="CM.eo_Gene.331"/>
+ <entry term="pseudomonas putida " name="pseudomonas putida " wikipedia="pseudomonas putida " id="CM.eo_Gene.332"/>
+ <entry term="pseudotsuga menziesii " name="pseudotsuga menziesii " wikipedia="pseudotsuga menziesii " id="CM.eo_Gene.333"/>
+ <entry term="pueraria montana var. lobata " name="pueraria montana var. lobata " id="CM.eo_Gene.334"/>
+ <entry term="punica granatum " name="punica granatum " wikipedia="punica granatum " id="CM.eo_Gene.335"/>
+ <entry term="pyrus betulifolia" name="pyrus betulifolia" wikipedia="pyrus betulifolia" id="CM.eo_Gene.336"/>
+ <entry term="pyrus bretschneideri" name="pyrus bretschneideri" wikipedia="pyrus bretschneideri" id="CM.eo_Gene.337"/>
+ <entry term="pyrus communis" name="pyrus communis" wikipedia="pyrus communis" id="CM.eo_Gene.338"/>
+ <entry term="pyrus communis bartlett dh" name="pyrus communis bartlett dh" id="CM.eo_Gene.339"/>
+ <entry term="pyrus pyrifolia" name="pyrus pyrifolia" id="CM.eo_Gene.340"/>
+ <entry term="pyrus ussuriensis x communis zhongai 1" name="pyrus ussuriensis x communis zhongai 1" id="CM.eo_Gene.341"/>
+ <entry term="pyrus ussuriensis x communis zhongai 1 " name="pyrus ussuriensis x communis zhongai 1 " id="CM.eo_Gene.342"/>
+ <entry term="pyrus ussuriensis x pyrus communis" name="pyrus ussuriensis x pyrus communis" id="CM.eo_Gene.343"/>
+ <entry term="quercus ilex " name="quercus ilex " wikipedia="quercus ilex " id="CM.eo_Gene.344"/>
+ <entry term="raphanus sativus" name="raphanus sativus" wikipedia="raphanus sativus" id="CM.eo_Gene.345"/>
+ <entry term="rattus norvegicus " name="rattus norvegicus " wikipedia="rattus norvegicus " id="CM.eo_Gene.346"/>
+ <entry term="rhizophora stylosa " name="rhizophora stylosa " wikipedia="rhizophora stylosa " id="CM.eo_Gene.347"/>
+ <entry term="ricinus communis " name="ricinus communis " wikipedia="ricinus communis " id="CM.eo_Gene.348"/>
+ <entry term="rosa chinensis " name="rosa chinensis " wikipedia="rosa chinensis " id="CM.eo_Gene.349"/>
+ <entry term="rosa chinensis old blush" name="rosa chinensis old blush" id="CM.eo_Gene.350"/>
+ <entry term="rosa hybrid cultivar" name="rosa hybrid cultivar" id="CM.eo_Gene.351"/>
+ <entry term="rosa multiflora" name="rosa multiflora" wikipedia="rosa multiflora" id="CM.eo_Gene.352"/>
+ <entry term="roseiflexus castenholzii " name="roseiflexus castenholzii " wikipedia="roseiflexus castenholzii " id="CM.eo_Gene.353"/>
+ <entry term="rubus chingii hu" name="rubus chingii hu" id="CM.eo_Gene.354"/>
+ <entry term="rubus occidentalis" name="rubus occidentalis" wikipedia="rubus occidentalis" id="CM.eo_Gene.355"/>
+ <entry term="saccharomyces cerevisiae " name="saccharomyces cerevisiae " wikipedia="saccharomyces cerevisiae " id="CM.eo_Gene.356"/>
+ <entry term="saccharopolyspora erythraea " name="saccharopolyspora erythraea " wikipedia="saccharopolyspora erythraea " id="CM.eo_Gene.357"/>
+ <entry term="saccharothrix espanaensis " name="saccharothrix espanaensis " id="CM.eo_Gene.358"/>
+ <entry term="salix brachista" name="salix brachista" id="CM.eo_Gene.359"/>
+ <entry term="salvia divinorum " name="salvia divinorum " wikipedia="salvia divinorum " id="CM.eo_Gene.360"/>
+ <entry term="salvia miltiorrhiza " name="salvia miltiorrhiza " wikipedia="salvia miltiorrhiza " id="CM.eo_Gene.361"/>
+ <entry term="salvia officinalis " name="salvia officinalis " wikipedia="salvia officinalis " id="CM.eo_Gene.362"/>
+ <entry term="salvia sclarea " name="salvia sclarea " wikipedia="salvia sclarea " id="CM.eo_Gene.363"/>
+ <entry term="salvia splendens " name="salvia splendens " wikipedia="salvia splendens " id="CM.eo_Gene.364"/>
+ <entry term="santalum album " name="santalum album " wikipedia="santalum album " id="CM.eo_Gene.365"/>
+ <entry term="santalum austrocaledonicum " name="santalum austrocaledonicum " wikipedia="santalum austrocaledonicum " id="CM.eo_Gene.366"/>
+ <entry term="santalum murrayanum " name="santalum murrayanum " wikipedia="santalum murrayanum " id="CM.eo_Gene.367"/>
+ <entry term="santalum spicatum " name="santalum spicatum " wikipedia="santalum spicatum " id="CM.eo_Gene.368"/>
+ <entry term="sarocladium schorii " name="sarocladium schorii " id="CM.eo_Gene.369"/>
+ <entry term="sarracenia purpurea" name="sarracenia purpurea" wikipedia="sarracenia purpurea" id="CM.eo_Gene.370"/>
+ <entry term="schizosaccharomyces pombe " name="schizosaccharomyces pombe " wikipedia="schizosaccharomyces pombe " id="CM.eo_Gene.371"/>
+ <entry term="selaginella moellendorffii" name="selaginella moellendorffii" wikipedia="selaginella moellendorffii" id="CM.eo_Gene.372"/>
+ <entry term="selaginella moellendorffii " name="selaginella moellendorffii " wikipedia="selaginella moellendorffii " id="CM.eo_Gene.373"/>
+ <entry term="setaria italica " name="setaria italica " wikipedia="setaria italica " id="CM.eo_Gene.374"/>
+ <entry term="setaria viridis " name="setaria viridis " wikipedia="setaria viridis " id="CM.eo_Gene.375"/>
+ <entry term="silver seed gourd" name="silver seed gourd" id="CM.eo_Gene.376"/>
+ <entry term="sinorhizobium fredii " name="sinorhizobium fredii " wikipedia="sinorhizobium fredii " id="CM.eo_Gene.377"/>
+ <entry term="siraitia grosvenorii " name="siraitia grosvenorii " wikipedia="siraitia grosvenorii " id="CM.eo_Gene.378"/>
+ <entry term="solanum chilense" name="solanum chilense" wikipedia="solanum chilense" id="CM.eo_Gene.379"/>
+ <entry term="solanum habrochaites " name="solanum habrochaites " id="CM.eo_Gene.380"/>
+ <entry term="solanum lycopersicum " name="solanum lycopersicum " wikipedia="solanum lycopersicum " id="CM.eo_Gene.381"/>
+ <entry term="solanum melongena" name="solanum melongena" wikipedia="solanum melongena" id="CM.eo_Gene.382"/>
+ <entry term="solanum pennellii" name="solanum pennellii" id="CM.eo_Gene.383"/>
+ <entry term="solanum pimpinellifolium" name="solanum pimpinellifolium" wikipedia="solanum pimpinellifolium" id="CM.eo_Gene.384"/>
+ <entry term="solanum tuberosum " name="solanum tuberosum " id="CM.eo_Gene.385"/>
+ <entry term="sorangium cellulosum " name="sorangium cellulosum " wikipedia="sorangium cellulosum " id="CM.eo_Gene.386"/>
+ <entry term="sordaria araneosa " name="sordaria araneosa " id="CM.eo_Gene.387"/>
+ <entry term="sorghum bicolor " name="sorghum bicolor " wikipedia="sorghum bicolor " id="CM.eo_Gene.388"/>
+ <entry term="sphaerobolus stellatus " name="sphaerobolus stellatus " id="CM.eo_Gene.389"/>
+ <entry term="sphagnum fallax" name="sphagnum fallax" wikipedia="sphagnum fallax" id="CM.eo_Gene.390"/>
+ <entry term="spinacia oleracea " name="spinacia oleracea " wikipedia="spinacia oleracea " id="CM.eo_Gene.391"/>
+ <entry term="spirodela polyrhiza" name="spirodela polyrhiza" wikipedia="spirodela polyrhiza" id="CM.eo_Gene.392"/>
+ <entry term="stachybotrys chartarum " name="stachybotrys chartarum " wikipedia="stachybotrys chartarum " id="CM.eo_Gene.393"/>
+ <entry term="stachybotrys chlorohalonata " name="stachybotrys chlorohalonata " id="CM.eo_Gene.394"/>
+ <entry term="stereum hirsutum " name="stereum hirsutum " wikipedia="stereum hirsutum " id="CM.eo_Gene.395"/>
+ <entry term="stevia rebaudiana " name="stevia rebaudiana " wikipedia="stevia rebaudiana " id="CM.eo_Gene.396"/>
+ <entry term="streptomyces ambofaciens " name="streptomyces ambofaciens " wikipedia="streptomyces ambofaciens " id="CM.eo_Gene.397"/>
+ <entry term="streptomyces anulatus " name="streptomyces anulatus " wikipedia="streptomyces anulatus " id="CM.eo_Gene.398"/>
+ <entry term="streptomyces arenae" name="streptomyces arenae" wikipedia="streptomyces arenae" id="CM.eo_Gene.399"/>
+ <entry term="streptomyces avermitilis " name="streptomyces avermitilis " wikipedia="streptomyces avermitilis " id="CM.eo_Gene.400"/>
+ <entry term="streptomyces clavuligerus" name="streptomyces clavuligerus" wikipedia="streptomyces clavuligerus" id="CM.eo_Gene.401"/>
+ <entry term="streptomyces coelicolor " name="streptomyces coelicolor " wikipedia="streptomyces coelicolor " id="CM.eo_Gene.402"/>
+ <entry term="streptomyces cyslabdanicus" name="streptomyces cyslabdanicus" wikipedia="streptomyces cyslabdanicus" id="CM.eo_Gene.403"/>
+ <entry term="streptomyces exfoliatus " name="streptomyces exfoliatus " wikipedia="streptomyces exfoliatus " id="CM.eo_Gene.404"/>
+ <entry term="streptomyces griseus" name="streptomyces griseus" wikipedia="streptomyces griseus" id="CM.eo_Gene.405"/>
+ <entry term="streptomyces griseus subsp. griseus " name="streptomyces griseus subsp. griseus " id="CM.eo_Gene.406"/>
+ <entry term="streptomyces lasalocidi " name="streptomyces lasalocidi " id="CM.eo_Gene.407"/>
+ <entry term="streptomyces malaysiensis" name="streptomyces malaysiensis" wikipedia="streptomyces malaysiensis" id="CM.eo_Gene.408"/>
+ <entry term="streptomyces melanosporofaciens" name="streptomyces melanosporofaciens" wikipedia="streptomyces melanosporofaciens" id="CM.eo_Gene.409"/>
+ <entry term="streptomyces pratensis " name="streptomyces pratensis " wikipedia="streptomyces pratensis " id="CM.eo_Gene.410"/>
+ <entry term="streptomyces pristinaespiralis " name="streptomyces pristinaespiralis " id="CM.eo_Gene.411"/>
+ <entry term="streptomyces sp." name="streptomyces sp." id="CM.eo_Gene.412"/>
+ <entry term="streptomyces sp. " name="streptomyces sp. " id="CM.eo_Gene.413"/>
+ <entry term="streptomyces tsukubensis " name="streptomyces tsukubensis " wikipedia="streptomyces tsukubensis " id="CM.eo_Gene.414"/>
+ <entry term="streptomyces violaceusniger " name="streptomyces violaceusniger " wikipedia="streptomyces violaceusniger " id="CM.eo_Gene.415"/>
+ <entry term="streptomyces violens " name="streptomyces violens " wikipedia="streptomyces violens " id="CM.eo_Gene.416"/>
+ <entry term="streptomyces viridochromogenes " name="streptomyces viridochromogenes " wikipedia="streptomyces viridochromogenes " id="CM.eo_Gene.417"/>
+ <entry term="streptosporangium roseum " name="streptosporangium roseum " id="CM.eo_Gene.418"/>
+ <entry term="striga asiatica " name="striga asiatica " wikipedia="striga asiatica " id="CM.eo_Gene.419"/>
+ <entry term="t. aestivum early-release" name="t. aestivum early-release" id="CM.eo_Gene.420"/>
+ <entry term="talaromyces verruculosus " name="talaromyces verruculosus " wikipedia="talaromyces verruculosus " id="CM.eo_Gene.421"/>
+ <entry term="talaromyces wortmannii " name="talaromyces wortmannii " id="CM.eo_Gene.422"/>
+ <entry term="tanacetum cinerariifolium " name="tanacetum cinerariifolium " wikipedia="tanacetum cinerariifolium " id="CM.eo_Gene.423"/>
+ <entry term="tanacetum parthenium " name="tanacetum parthenium " wikipedia="tanacetum parthenium " id="CM.eo_Gene.424"/>
+ <entry term="taxus baccata " name="taxus baccata " wikipedia="taxus baccata " id="CM.eo_Gene.425"/>
+ <entry term="taxus brevifolia " name="taxus brevifolia " wikipedia="taxus brevifolia " id="CM.eo_Gene.426"/>
+ <entry term="taxus wallichiana var. chinensis " name="taxus wallichiana var. chinensis " id="CM.eo_Gene.427"/>
+ <entry term="thapsia garganica " name="thapsia garganica " wikipedia="thapsia garganica " id="CM.eo_Gene.428"/>
+ <entry term="theobroma cacao " name="theobroma cacao " wikipedia="theobroma cacao " id="CM.eo_Gene.429"/>
+ <entry term="tps" name="tps" wikipedia="tps" id="CM.eo_Gene.430"/>
+ <entry term="tps1" name="tps1" id="CM.eo_Gene.431"/>
+ <entry term="tps10" name="tps10" id="CM.eo_Gene.432"/>
+ <entry term="tps100" name="tps100" id="CM.eo_Gene.433"/>
+ <entry term="tps101" name="tps101" id="CM.eo_Gene.434"/>
+ <entry term="tps102" name="tps102" id="CM.eo_Gene.435"/>
+ <entry term="tps103" name="tps103" id="CM.eo_Gene.436"/>
+ <entry term="tps104" name="tps104" id="CM.eo_Gene.437"/>
+ <entry term="tps105" name="tps105" id="CM.eo_Gene.438"/>
+ <entry term="tps106" name="tps106" id="CM.eo_Gene.439"/>
+ <entry term="tps107" name="tps107" id="CM.eo_Gene.440"/>
+ <entry term="tps108" name="tps108" id="CM.eo_Gene.441"/>
+ <entry term="tps109" name="tps109" id="CM.eo_Gene.442"/>
+ <entry term="tps11" name="tps11" id="CM.eo_Gene.443"/>
+ <entry term="tps110" name="tps110" id="CM.eo_Gene.444"/>
+ <entry term="tps111" name="tps111" id="CM.eo_Gene.445"/>
+ <entry term="tps112" name="tps112" id="CM.eo_Gene.446"/>
+ <entry term="tps113" name="tps113" id="CM.eo_Gene.447"/>
+ <entry term="tps114" name="tps114" id="CM.eo_Gene.448"/>
+ <entry term="tps115" name="tps115" id="CM.eo_Gene.449"/>
+ <entry term="tps116" name="tps116" id="CM.eo_Gene.450"/>
+ <entry term="tps117" name="tps117" id="CM.eo_Gene.451"/>
+ <entry term="tps118" name="tps118" id="CM.eo_Gene.452"/>
+ <entry term="tps119" name="tps119" id="CM.eo_Gene.453"/>
+ <entry term="tps12" name="tps12" id="CM.eo_Gene.454"/>
+ <entry term="tps120" name="tps120" id="CM.eo_Gene.455"/>
+ <entry term="tps121" name="tps121" id="CM.eo_Gene.456"/>
+ <entry term="tps122" name="tps122" id="CM.eo_Gene.457"/>
+ <entry term="tps123" name="tps123" id="CM.eo_Gene.458"/>
+ <entry term="tps124" name="tps124" id="CM.eo_Gene.459"/>
+ <entry term="tps125" name="tps125" id="CM.eo_Gene.460"/>
+ <entry term="tps126" name="tps126" id="CM.eo_Gene.461"/>
+ <entry term="tps127" name="tps127" id="CM.eo_Gene.462"/>
+ <entry term="tps128" name="tps128" id="CM.eo_Gene.463"/>
+ <entry term="tps129" name="tps129" id="CM.eo_Gene.464"/>
+ <entry term="tps13" name="tps13" id="CM.eo_Gene.465"/>
+ <entry term="tps130" name="tps130" id="CM.eo_Gene.466"/>
+ <entry term="tps131" name="tps131" id="CM.eo_Gene.467"/>
+ <entry term="tps132" name="tps132" id="CM.eo_Gene.468"/>
+ <entry term="tps133" name="tps133" id="CM.eo_Gene.469"/>
+ <entry term="tps134" name="tps134" id="CM.eo_Gene.470"/>
+ <entry term="tps135" name="tps135" id="CM.eo_Gene.471"/>
+ <entry term="tps136" name="tps136" id="CM.eo_Gene.472"/>
+ <entry term="tps137" name="tps137" id="CM.eo_Gene.473"/>
+ <entry term="tps138" name="tps138" id="CM.eo_Gene.474"/>
+ <entry term="tps139" name="tps139" id="CM.eo_Gene.475"/>
+ <entry term="tps14" name="tps14" id="CM.eo_Gene.476"/>
+ <entry term="tps140" name="tps140" id="CM.eo_Gene.477"/>
+ <entry term="tps141" name="tps141" id="CM.eo_Gene.478"/>
+ <entry term="tps142" name="tps142" id="CM.eo_Gene.479"/>
+ <entry term="tps143" name="tps143" id="CM.eo_Gene.480"/>
+ <entry term="tps144" name="tps144" id="CM.eo_Gene.481"/>
+ <entry term="tps145" name="tps145" id="CM.eo_Gene.482"/>
+ <entry term="tps146" name="tps146" id="CM.eo_Gene.483"/>
+ <entry term="tps147" name="tps147" id="CM.eo_Gene.484"/>
+ <entry term="tps148" name="tps148" id="CM.eo_Gene.485"/>
+ <entry term="tps149" name="tps149" id="CM.eo_Gene.486"/>
+ <entry term="tps15" name="tps15" id="CM.eo_Gene.487"/>
+ <entry term="tps150" name="tps150" id="CM.eo_Gene.488"/>
+ <entry term="tps151" name="tps151" id="CM.eo_Gene.489"/>
+ <entry term="tps152" name="tps152" id="CM.eo_Gene.490"/>
+ <entry term="tps153" name="tps153" id="CM.eo_Gene.491"/>
+ <entry term="tps154" name="tps154" id="CM.eo_Gene.492"/>
+ <entry term="tps155" name="tps155" id="CM.eo_Gene.493"/>
+ <entry term="tps156" name="tps156" id="CM.eo_Gene.494"/>
+ <entry term="tps157" name="tps157" id="CM.eo_Gene.495"/>
+ <entry term="tps158" name="tps158" id="CM.eo_Gene.496"/>
+ <entry term="tps159" name="tps159" id="CM.eo_Gene.497"/>
+ <entry term="tps16" name="tps16" id="CM.eo_Gene.498"/>
+ <entry term="tps160" name="tps160" id="CM.eo_Gene.499"/>
+ <entry term="tps161" name="tps161" id="CM.eo_Gene.500"/>
+ <entry term="tps162" name="tps162" id="CM.eo_Gene.501"/>
+ <entry term="tps163" name="tps163" id="CM.eo_Gene.502"/>
+ <entry term="tps164" name="tps164" id="CM.eo_Gene.503"/>
+ <entry term="tps165" name="tps165" id="CM.eo_Gene.504"/>
+ <entry term="tps166" name="tps166" id="CM.eo_Gene.505"/>
+ <entry term="tps167" name="tps167" id="CM.eo_Gene.506"/>
+ <entry term="tps168" name="tps168" id="CM.eo_Gene.507"/>
+ <entry term="tps169" name="tps169" id="CM.eo_Gene.508"/>
+ <entry term="tps17" name="tps17" id="CM.eo_Gene.509"/>
+ <entry term="tps170" name="tps170" id="CM.eo_Gene.510"/>
+ <entry term="tps171" name="tps171" id="CM.eo_Gene.511"/>
+ <entry term="tps172" name="tps172" id="CM.eo_Gene.512"/>
+ <entry term="tps173" name="tps173" id="CM.eo_Gene.513"/>
+ <entry term="tps174" name="tps174" id="CM.eo_Gene.514"/>
+ <entry term="tps175" name="tps175" id="CM.eo_Gene.515"/>
+ <entry term="tps176" name="tps176" id="CM.eo_Gene.516"/>
+ <entry term="tps177" name="tps177" id="CM.eo_Gene.517"/>
+ <entry term="tps178" name="tps178" id="CM.eo_Gene.518"/>
+ <entry term="tps179" name="tps179" id="CM.eo_Gene.519"/>
+ <entry term="tps18" name="tps18" id="CM.eo_Gene.520"/>
+ <entry term="tps180" name="tps180" id="CM.eo_Gene.521"/>
+ <entry term="tps181" name="tps181" id="CM.eo_Gene.522"/>
+ <entry term="tps182" name="tps182" id="CM.eo_Gene.523"/>
+ <entry term="tps183" name="tps183" id="CM.eo_Gene.524"/>
+ <entry term="tps184" name="tps184" id="CM.eo_Gene.525"/>
+ <entry term="tps185" name="tps185" id="CM.eo_Gene.526"/>
+ <entry term="tps186" name="tps186" id="CM.eo_Gene.527"/>
+ <entry term="tps187" name="tps187" id="CM.eo_Gene.528"/>
+ <entry term="tps188" name="tps188" id="CM.eo_Gene.529"/>
+ <entry term="tps189" name="tps189" id="CM.eo_Gene.530"/>
+ <entry term="tps19" name="tps19" id="CM.eo_Gene.531"/>
+ <entry term="tps190" name="tps190" id="CM.eo_Gene.532"/>
+ <entry term="tps191" name="tps191" id="CM.eo_Gene.533"/>
+ <entry term="tps192" name="tps192" id="CM.eo_Gene.534"/>
+ <entry term="tps193" name="tps193" id="CM.eo_Gene.535"/>
+ <entry term="tps194" name="tps194" id="CM.eo_Gene.536"/>
+ <entry term="tps195" name="tps195" id="CM.eo_Gene.537"/>
+ <entry term="tps196" name="tps196" id="CM.eo_Gene.538"/>
+ <entry term="tps197" name="tps197" id="CM.eo_Gene.539"/>
+ <entry term="tps198" name="tps198" id="CM.eo_Gene.540"/>
+ <entry term="tps199" name="tps199" id="CM.eo_Gene.541"/>
+ <entry term="tps2" name="tps2" id="CM.eo_Gene.542"/>
+ <entry term="tps20" name="tps20" id="CM.eo_Gene.543"/>
+ <entry term="tps200" name="tps200" id="CM.eo_Gene.544"/>
+ <entry term="tps201" name="tps201" id="CM.eo_Gene.545"/>
+ <entry term="tps202" name="tps202" id="CM.eo_Gene.546"/>
+ <entry term="tps203" name="tps203" id="CM.eo_Gene.547"/>
+ <entry term="tps204" name="tps204" id="CM.eo_Gene.548"/>
+ <entry term="tps205" name="tps205" id="CM.eo_Gene.549"/>
+ <entry term="tps206" name="tps206" id="CM.eo_Gene.550"/>
+ <entry term="tps207" name="tps207" id="CM.eo_Gene.551"/>
+ <entry term="tps208" name="tps208" id="CM.eo_Gene.552"/>
+ <entry term="tps209" name="tps209" id="CM.eo_Gene.553"/>
+ <entry term="tps21" name="tps21" id="CM.eo_Gene.554"/>
+ <entry term="tps210" name="tps210" id="CM.eo_Gene.555"/>
+ <entry term="tps211" name="tps211" id="CM.eo_Gene.556"/>
+ <entry term="tps212" name="tps212" id="CM.eo_Gene.557"/>
+ <entry term="tps213" name="tps213" id="CM.eo_Gene.558"/>
+ <entry term="tps214" name="tps214" id="CM.eo_Gene.559"/>
+ <entry term="tps215" name="tps215" id="CM.eo_Gene.560"/>
+ <entry term="tps216" name="tps216" id="CM.eo_Gene.561"/>
+ <entry term="tps217" name="tps217" id="CM.eo_Gene.562"/>
+ <entry term="tps218" name="tps218" id="CM.eo_Gene.563"/>
+ <entry term="tps219" name="tps219" id="CM.eo_Gene.564"/>
+ <entry term="tps22" name="tps22" id="CM.eo_Gene.565"/>
+ <entry term="tps220" name="tps220" id="CM.eo_Gene.566"/>
+ <entry term="tps221" name="tps221" id="CM.eo_Gene.567"/>
+ <entry term="tps222" name="tps222" id="CM.eo_Gene.568"/>
+ <entry term="tps223" name="tps223" id="CM.eo_Gene.569"/>
+ <entry term="tps224" name="tps224" id="CM.eo_Gene.570"/>
+ <entry term="tps225" name="tps225" id="CM.eo_Gene.571"/>
+ <entry term="tps226" name="tps226" id="CM.eo_Gene.572"/>
+ <entry term="tps227" name="tps227" id="CM.eo_Gene.573"/>
+ <entry term="tps228" name="tps228" id="CM.eo_Gene.574"/>
+ <entry term="tps229" name="tps229" id="CM.eo_Gene.575"/>
+ <entry term="tps23" name="tps23" id="CM.eo_Gene.576"/>
+ <entry term="tps230" name="tps230" id="CM.eo_Gene.577"/>
+ <entry term="tps231" name="tps231" id="CM.eo_Gene.578"/>
+ <entry term="tps232" name="tps232" id="CM.eo_Gene.579"/>
+ <entry term="tps233" name="tps233" id="CM.eo_Gene.580"/>
+ <entry term="tps234" name="tps234" id="CM.eo_Gene.581"/>
+ <entry term="tps235" name="tps235" id="CM.eo_Gene.582"/>
+ <entry term="tps236" name="tps236" id="CM.eo_Gene.583"/>
+ <entry term="tps237" name="tps237" id="CM.eo_Gene.584"/>
+ <entry term="tps238" name="tps238" id="CM.eo_Gene.585"/>
+ <entry term="tps239" name="tps239" id="CM.eo_Gene.586"/>
+ <entry term="tps24" name="tps24" id="CM.eo_Gene.587"/>
+ <entry term="tps240" name="tps240" id="CM.eo_Gene.588"/>
+ <entry term="tps241" name="tps241" id="CM.eo_Gene.589"/>
+ <entry term="tps242" name="tps242" id="CM.eo_Gene.590"/>
+ <entry term="tps243" name="tps243" id="CM.eo_Gene.591"/>
+ <entry term="tps244" name="tps244" id="CM.eo_Gene.592"/>
+ <entry term="tps245" name="tps245" id="CM.eo_Gene.593"/>
+ <entry term="tps246" name="tps246" id="CM.eo_Gene.594"/>
+ <entry term="tps247" name="tps247" id="CM.eo_Gene.595"/>
+ <entry term="tps248" name="tps248" id="CM.eo_Gene.596"/>
+ <entry term="tps249" name="tps249" id="CM.eo_Gene.597"/>
+ <entry term="tps25" name="tps25" id="CM.eo_Gene.598"/>
+ <entry term="tps250" name="tps250" id="CM.eo_Gene.599"/>
+ <entry term="tps251" name="tps251" id="CM.eo_Gene.600"/>
+ <entry term="tps26" name="tps26" id="CM.eo_Gene.601"/>
+ <entry term="tps27" name="tps27" id="CM.eo_Gene.602"/>
+ <entry term="tps28" name="tps28" id="CM.eo_Gene.603"/>
+ <entry term="tps29" name="tps29" id="CM.eo_Gene.604"/>
+ <entry term="tps3" name="tps3" id="CM.eo_Gene.605"/>
+ <entry term="tps30" name="tps30" id="CM.eo_Gene.606"/>
+ <entry term="tps31" name="tps31" id="CM.eo_Gene.607"/>
+ <entry term="tps32" name="tps32" id="CM.eo_Gene.608"/>
+ <entry term="tps33" name="tps33" id="CM.eo_Gene.609"/>
+ <entry term="tps34" name="tps34" id="CM.eo_Gene.610"/>
+ <entry term="tps35" name="tps35" id="CM.eo_Gene.611"/>
+ <entry term="tps36" name="tps36" id="CM.eo_Gene.612"/>
+ <entry term="tps37" name="tps37" id="CM.eo_Gene.613"/>
+ <entry term="tps38" name="tps38" id="CM.eo_Gene.614"/>
+ <entry term="tps39" name="tps39" id="CM.eo_Gene.615"/>
+ <entry term="tps4" name="tps4" id="CM.eo_Gene.616"/>
+ <entry term="tps40" name="tps40" id="CM.eo_Gene.617"/>
+ <entry term="tps41" name="tps41" id="CM.eo_Gene.618"/>
+ <entry term="tps42" name="tps42" id="CM.eo_Gene.619"/>
+ <entry term="tps43" name="tps43" id="CM.eo_Gene.620"/>
+ <entry term="tps44" name="tps44" id="CM.eo_Gene.621"/>
+ <entry term="tps45" name="tps45" id="CM.eo_Gene.622"/>
+ <entry term="tps46" name="tps46" id="CM.eo_Gene.623"/>
+ <entry term="tps47" name="tps47" id="CM.eo_Gene.624"/>
+ <entry term="tps48" name="tps48" id="CM.eo_Gene.625"/>
+ <entry term="tps49" name="tps49" id="CM.eo_Gene.626"/>
+ <entry term="tps5" name="tps5" id="CM.eo_Gene.627"/>
+ <entry term="tps50" name="tps50" id="CM.eo_Gene.628"/>
+ <entry term="tps51" name="tps51" id="CM.eo_Gene.629"/>
+ <entry term="tps52" name="tps52" id="CM.eo_Gene.630"/>
+ <entry term="tps53" name="tps53" id="CM.eo_Gene.631"/>
+ <entry term="tps54" name="tps54" id="CM.eo_Gene.632"/>
+ <entry term="tps55" name="tps55" id="CM.eo_Gene.633"/>
+ <entry term="tps56" name="tps56" id="CM.eo_Gene.634"/>
+ <entry term="tps57" name="tps57" id="CM.eo_Gene.635"/>
+ <entry term="tps58" name="tps58" id="CM.eo_Gene.636"/>
+ <entry term="tps59" name="tps59" id="CM.eo_Gene.637"/>
+ <entry term="tps6" name="tps6" id="CM.eo_Gene.638"/>
+ <entry term="tps60" name="tps60" id="CM.eo_Gene.639"/>
+ <entry term="tps61" name="tps61" id="CM.eo_Gene.640"/>
+ <entry term="tps62" name="tps62" id="CM.eo_Gene.641"/>
+ <entry term="tps63" name="tps63" id="CM.eo_Gene.642"/>
+ <entry term="tps64" name="tps64" id="CM.eo_Gene.643"/>
+ <entry term="tps65" name="tps65" id="CM.eo_Gene.644"/>
+ <entry term="tps66" name="tps66" id="CM.eo_Gene.645"/>
+ <entry term="tps67" name="tps67" id="CM.eo_Gene.646"/>
+ <entry term="tps68" name="tps68" id="CM.eo_Gene.647"/>
+ <entry term="tps69" name="tps69" id="CM.eo_Gene.648"/>
+ <entry term="tps7" name="tps7" id="CM.eo_Gene.649"/>
+ <entry term="tps70" name="tps70" id="CM.eo_Gene.650"/>
+ <entry term="tps71" name="tps71" id="CM.eo_Gene.651"/>
+ <entry term="tps72" name="tps72" id="CM.eo_Gene.652"/>
+ <entry term="tps73" name="tps73" id="CM.eo_Gene.653"/>
+ <entry term="tps74" name="tps74" id="CM.eo_Gene.654"/>
+ <entry term="tps75" name="tps75" id="CM.eo_Gene.655"/>
+ <entry term="tps76" name="tps76" id="CM.eo_Gene.656"/>
+ <entry term="tps77" name="tps77" id="CM.eo_Gene.657"/>
+ <entry term="tps78" name="tps78" id="CM.eo_Gene.658"/>
+ <entry term="tps79" name="tps79" id="CM.eo_Gene.659"/>
+ <entry term="tps8" name="tps8" id="CM.eo_Gene.660"/>
+ <entry term="tps80" name="tps80" id="CM.eo_Gene.661"/>
+ <entry term="tps81" name="tps81" id="CM.eo_Gene.662"/>
+ <entry term="tps82" name="tps82" id="CM.eo_Gene.663"/>
+ <entry term="tps83" name="tps83" id="CM.eo_Gene.664"/>
+ <entry term="tps84" name="tps84" id="CM.eo_Gene.665"/>
+ <entry term="tps85" name="tps85" id="CM.eo_Gene.666"/>
+ <entry term="tps86" name="tps86" id="CM.eo_Gene.667"/>
+ <entry term="tps87" name="tps87" id="CM.eo_Gene.668"/>
+ <entry term="tps88" name="tps88" id="CM.eo_Gene.669"/>
+ <entry term="tps89" name="tps89" id="CM.eo_Gene.670"/>
+ <entry term="tps9" name="tps9" id="CM.eo_Gene.671"/>
+ <entry term="tps90" name="tps90" id="CM.eo_Gene.672"/>
+ <entry term="tps91" name="tps91" id="CM.eo_Gene.673"/>
+ <entry term="tps92" name="tps92" id="CM.eo_Gene.674"/>
+ <entry term="tps93" name="tps93" id="CM.eo_Gene.675"/>
+ <entry term="tps94" name="tps94" id="CM.eo_Gene.676"/>
+ <entry term="tps95" name="tps95" id="CM.eo_Gene.677"/>
+ <entry term="tps96" name="tps96" id="CM.eo_Gene.678"/>
+ <entry term="tps97" name="tps97" id="CM.eo_Gene.679"/>
+ <entry term="tps98" name="tps98" id="CM.eo_Gene.680"/>
+ <entry term="tps99" name="tps99" id="CM.eo_Gene.681"/>
+ <entry term="trema orientale " name="trema orientale " id="CM.eo_Gene.682"/>
+ <entry term="trichoderma harzianum " name="trichoderma harzianum " wikipedia="trichoderma harzianum " id="CM.eo_Gene.683"/>
+ <entry term="trifolium medium" name="trifolium medium" wikipedia="trifolium medium" id="CM.eo_Gene.684"/>
+ <entry term="trifolium pratense " name="trifolium pratense " wikipedia="trifolium pratense " id="CM.eo_Gene.685"/>
+ <entry term="tripterygium wilfordii " name="tripterygium wilfordii " wikipedia="tripterygium wilfordii " id="CM.eo_Gene.686"/>
+ <entry term="triticum aestivum " name="triticum aestivum " wikipedia="triticum aestivum " id="CM.eo_Gene.687"/>
+ <entry term="triticum turgidum subsp. durum " name="triticum turgidum subsp. durum " wikipedia="triticum turgidum subsp. durum " id="CM.eo_Gene.688"/>
+ <entry term="triticum urartu " name="triticum urartu " wikipedia="triticum urartu " id="CM.eo_Gene.689"/>
+ <entry term="ustilago maydis " name="ustilago maydis " wikipedia="ustilago maydis " id="CM.eo_Gene.690"/>
+ <entry term="valeriana officinalis " name="valeriana officinalis " wikipedia="valeriana officinalis " id="CM.eo_Gene.691"/>
+ <entry term="vigna angularis" name="vigna angularis" wikipedia="vigna angularis" id="CM.eo_Gene.692"/>
+ <entry term="vigna angularis var. angularis" name="vigna angularis var. angularis" id="CM.eo_Gene.693"/>
+ <entry term="vigna exilis" name="vigna exilis" id="CM.eo_Gene.694"/>
+ <entry term="vigna indica" name="vigna indica" id="CM.eo_Gene.695"/>
+ <entry term="vigna marina" name="vigna marina" wikipedia="vigna marina" id="CM.eo_Gene.696"/>
+ <entry term="vigna minima" name="vigna minima" id="CM.eo_Gene.697"/>
+ <entry term="vigna mungo" name="vigna mungo" wikipedia="vigna mungo" id="CM.eo_Gene.698"/>
+ <entry term="vigna mungo cv. ni1135" name="vigna mungo cv. ni1135" id="CM.eo_Gene.699"/>
+ <entry term="vigna radiata var. radiata " name="vigna radiata var. radiata " id="CM.eo_Gene.700"/>
+ <entry term="vigna riukiuensis" name="vigna riukiuensis" id="CM.eo_Gene.701"/>
+ <entry term="vigna stipulacea" name="vigna stipulacea" id="CM.eo_Gene.702"/>
+ <entry term="vigna trilobata" name="vigna trilobata" wikipedia="vigna trilobata" id="CM.eo_Gene.703"/>
+ <entry term="vigna unguiculata" name="vigna unguiculata" wikipedia="vigna unguiculata" id="CM.eo_Gene.704"/>
+ <entry term="vigna unguiculata " name="vigna unguiculata " wikipedia="vigna unguiculata " id="CM.eo_Gene.705"/>
+ <entry term="vigna vexillata" name="vigna vexillata" wikipedia="vigna vexillata" id="CM.eo_Gene.706"/>
+ <entry term="vitex agnus-castus " name="vitex agnus-castus " wikipedia="vitex agnus-castus " id="CM.eo_Gene.707"/>
+ <entry term="vitis vinifera " name="vitis vinifera " wikipedia="vitis vinifera " id="CM.eo_Gene.708"/>
+ <entry term="watermelon " name="watermelon " wikipedia="watermelon " id="CM.eo_Gene.709"/>
+ <entry term="wax gourd" name="wax gourd" wikipedia="wax gourd" id="CM.eo_Gene.710"/>
+ <entry term="yarrowia lipolytica " name="yarrowia lipolytica " wikipedia="yarrowia lipolytica " id="CM.eo_Gene.711"/>
+ <entry term="zea diploperennis " name="zea diploperennis " wikipedia="zea diploperennis " id="CM.eo_Gene.712"/>
+ <entry term="zea mays " name="zea mays " wikipedia="zea mays " id="CM.eo_Gene.713"/>
+ <entry term="zea mays ph207" name="zea mays ph207" id="CM.eo_Gene.714"/>
+ <entry term="zea mays subsp. huehuetenangensis " name="zea mays subsp. huehuetenangensis " id="CM.eo_Gene.715"/>
+ <entry term="zea mays subsp. mexicana " name="zea mays subsp. mexicana " wikipedia="zea mays subsp. mexicana " id="CM.eo_Gene.716"/>
+ <entry term="zea perennis " name="zea perennis " wikipedia="zea perennis " id="CM.eo_Gene.717"/>
+ <entry term="zingiber officinale " name="zingiber officinale " wikipedia="zingiber officinale " id="CM.eo_Gene.718"/>
+ <entry term="zingiber zerumbet " name="zingiber zerumbet " wikipedia="zingiber zerumbet " id="CM.eo_Gene.719"/>
+ <entry term="zostera marina " name="zostera marina " wikipedia="zostera marina " id="CM.eo_Gene.720"/>
+ <entry term="zymomonas mobilis subsp. mobilis " name="zymomonas mobilis subsp. mobilis " id="CM.eo_Gene.721"/>
+</dictionary>
