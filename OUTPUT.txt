@@ -1,0 +1,34 @@
+ examples args: ['examples.py', 'pd']
+
+
+
++++++++++++++++++++++++++++++++++++++++
+                    pd
++++++++++++++++++++++++++++++++++++++++
+
+====================example_pdf2txt==================
+====================               ==================
+file None False
+
+Traceback (most recent call last):
+  File "C:\Users\user\pyami\pyami\examples.py", line 230, in <module>
+    main()
+  File "C:\Users\user\pyami\pyami\examples.py", line 227, in main
+    examples.run_examples(sys.argv[1:])
+  File "C:\Users\user\pyami\pyami\examples.py", line 208, in run_examples
+    self.run_example_list(example_dict, example_list)
+  File "C:\Users\user\pyami\pyami\examples.py", line 217, in run_example_list
+    example_dict[example][0]()
+  File "C:\Users\user\pyami\pyami\examples.py", line 172, in example_pdf2txt
+    self.pyamix.run_commands([
+  File "C:\Users\user\pyami\pyami\pyami.py", line 167, in run_commands
+    self.parse_and_run_args(arglist)
+  File "C:\Users\user\pyami\pyami\pyami.py", line 181, in parse_and_run_args
+    self.args = self.extract_parsed_arg_tuples(arglist, parser)
+  File "C:\Users\user\pyami\pyami\pyami.py", line 270, in extract_parsed_arg_tuples
+    new_item = self.make_substitutions(item)
+  File "C:\Users\user\pyami\pyami\pyami.py", line 226, in make_substitutions
+    new_val = self.symbol_ini.replace_symbols_in_arg(val_item)
+  File "C:\Users\user\pyami\pyami\symbol.py", line 254, in replace_symbols_in_arg
+    while SYM_START in arg[start:]:
+TypeError: 'NoneType' object is not subscriptable
