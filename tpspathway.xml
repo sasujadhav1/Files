@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="tpspathway">
+ <entry term="&quot;(e,e)-fpp&quot;" name="&quot;(e,e)-fpp&quot;" id="CM.tpspathway.0"/>
+ <entry term="&quot;(z,z)-fpp &quot;" name="&quot;(z,z)-fpp &quot;" id="CM.tpspathway.1"/>
+ <entry term="&quot;(z,z)-fpp synthase&quot;" name="&quot;(z,z)-fpp synthase&quot;" id="CM.tpspathway.2"/>
+ <entry term="&quot;2-c-methyl-d-ery- thritol-2,4-cyclodiphosphate synthase&quot;" name="&quot;2-c-methyl-d-ery- thritol-2,4-cyclodiphosphate synthase&quot;" id="CM.tpspathway.3"/>
+ <entry term="&quot;2-c-methyl-d-erythritol 2,4- cyclodiphosphate synthase&quot;" name="&quot;2-c-methyl-d-erythritol 2,4- cyclodiphosphate synthase&quot;" id="CM.tpspathway.4"/>
+ <entry term="&quot;2-c-methyl-d-erythritol 2,4-cyclod- iphosphate reductase &quot;" name="&quot;2-c-methyl-d-erythritol 2,4-cyclod- iphosphate reductase &quot;" id="CM.tpspathway.5"/>
+ <entry term="&quot;2-c-methyl-d-erythritol 2,4-cyclodi- phosphate &quot;" name="&quot;2-c-methyl-d-erythritol 2,4-cyclodi- phosphate &quot;" id="CM.tpspathway.6"/>
+ <entry term="&quot;4,8-dimethylnona-1,3,7-triene&quot;" name="&quot;4,8-dimethylnona-1,3,7-triene&quot;" id="CM.tpspathway.7"/>
+ <entry term="&quot;g8h,&quot;" name="&quot;g8h,&quot;" id="CM.tpspathway.8"/>
+ <entry term="&quot;trans,trans-farnesyl diphosphate&quot;" name="&quot;trans,trans-farnesyl diphosphate&quot;" id="CM.tpspathway.9"/>
+ <entry term="&quot;z,z-fpp&quot;" name="&quot;z,z-fpp&quot;" id="CM.tpspathway.10"/>
+ <entry term="(e)-4-hydroxy-3-methylbut-2-enyl diphosphate" name="(e)-4-hydroxy-3-methylbut-2-enyl diphosphate" id="CM.tpspathway.11"/>
+ <entry term="1-deoxy- d-xylulose-5-p reductoisomerase" name="1-deoxy- d-xylulose-5-p reductoisomerase" id="CM.tpspathway.12"/>
+ <entry term="1-deoxy-d- xylulose-5-p synthase" name="1-deoxy-d- xylulose-5-p synthase" id="CM.tpspathway.13"/>
+ <entry term="1-deoxy-d-xylulose 5-phosphate" name="1-deoxy-d-xylulose 5-phosphate" id="CM.tpspathway.14"/>
+ <entry term="1-deoxy-d-xylulose 5-phosphate reductoisomerase " name="1-deoxy-d-xylulose 5-phosphate reductoisomerase " id="CM.tpspathway.15"/>
+ <entry term="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate reductase" name="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate reductase" id="CM.tpspathway.16"/>
+ <entry term="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate synthase" name="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate synthase" id="CM.tpspathway.17"/>
+ <entry term="2-c-methyl-d-erythritol-4-p cytidylyltransferase" name="2-c-methyl-d-erythritol-4-p cytidylyltransferase" id="CM.tpspathway.18"/>
+ <entry term="3-hydroxy-3-methylglutaryl-coa" name="3-hydroxy-3-methylglutaryl-coa" id="CM.tpspathway.19"/>
+ <entry term="4-(cytidine 5?-diphospho)- 2-c-methyl-d-erythritol phosphate" name="4-(cytidine 5?-diphospho)- 2-c-methyl-d-erythritol phosphate" id="CM.tpspathway.20"/>
+ <entry term="4-(cytidine 5?-diphospho)-2-c-methyl-d-erythritol" name="4-(cytidine 5?-diphospho)-2-c-methyl-d-erythritol" id="CM.tpspathway.21"/>
+ <entry term="4-diphos- phocytidyl-2-c-methyl-d-erythritol kinase" name="4-diphos- phocytidyl-2-c-methyl-d-erythritol kinase" id="CM.tpspathway.22"/>
+ <entry term="4-diphosphocytidyl-2- c-methyl-d-erythritol" name="4-diphosphocytidyl-2- c-methyl-d-erythritol" id="CM.tpspathway.23"/>
+ <entry term="4-diphosphocytidyl-2-c-methyl-d- erythritol synthase" name="4-diphosphocytidyl-2-c-methyl-d- erythritol synthase" id="CM.tpspathway.24"/>
+ <entry term="4-diphosphocytidyl-2-c-methyl-d-erythritol 2-phosphate" name="4-diphosphocytidyl-2-c-methyl-d-erythritol 2-phosphate" id="CM.tpspathway.25"/>
+ <entry term="4-diphosphocytidyl-2-c-methyl-d-erythritol kinase" name="4-diphosphocytidyl-2-c-methyl-d-erythritol kinase" id="CM.tpspathway.26"/>
+ <entry term="4-hydroxy-3-methylbut-2-enyl diphosphate " name="4-hydroxy-3-methylbut-2-enyl diphosphate " id="CM.tpspathway.27"/>
+ <entry term="4-hydroxy-3-methylbut-2-enyl diphosphate reductase" name="4-hydroxy-3-methylbut-2-enyl diphosphate reductase" id="CM.tpspathway.28"/>
+ <entry term="4-hydroxy-3-methylbut-2-enyl diphosphate synthase" name="4-hydroxy-3-methylbut-2-enyl diphosphate synthase" id="CM.tpspathway.29"/>
+ <entry term="7-epizingiberene synthase " name="7-epizingiberene synthase " id="CM.tpspathway.30"/>
+ <entry term="aact" name="aact" wikipedia="aact" id="CM.tpspathway.31"/>
+ <entry term="acac-coa" name="acac-coa" id="CM.tpspathway.32"/>
+ <entry term="acetoacetyl-coa" name="acetoacetyl-coa" id="CM.tpspathway.33"/>
+ <entry term="acetoacetyl-coa thiolase" name="acetoacetyl-coa thiolase" id="CM.tpspathway.34"/>
+ <entry term="acetyl-coa" name="acetyl-coa" wikipedia="acetyl-coa" id="CM.tpspathway.35"/>
+ <entry term="ads" name="ads" wikipedia="ads" id="CM.tpspathway.36"/>
+ <entry term="all-e-ggpp" name="all-e-ggpp" id="CM.tpspathway.37"/>
+ <entry term="all-trans-geranylgeranyl diphosphate" name="all-trans-geranylgeranyl diphosphate" id="CM.tpspathway.38"/>
+ <entry term="all-trans-ggpp" name="all-trans-ggpp" id="CM.tpspathway.39"/>
+ <entry term="all-trans-ggpp " name="all-trans-ggpp " id="CM.tpspathway.40"/>
+ <entry term="all-z-ggpp" name="all-z-ggpp" id="CM.tpspathway.41"/>
+ <entry term="c10-geranyl diphosphate" name="c10-geranyl diphosphate" id="CM.tpspathway.42"/>
+ <entry term="cas" name="cas" wikipedia="cas" id="CM.tpspathway.43"/>
+ <entry term="cdp- me2p " name="cdp- me2p " id="CM.tpspathway.44"/>
+ <entry term="cdp-me" name="cdp-me" id="CM.tpspathway.45"/>
+ <entry term="cdp-me " name="cdp-me " id="CM.tpspathway.46"/>
+ <entry term="cdp-me kinase" name="cdp-me kinase" id="CM.tpspathway.47"/>
+ <entry term="cdp-me2p" name="cdp-me2p" id="CM.tpspathway.48"/>
+ <entry term="cdp-mep" name="cdp-mep" id="CM.tpspathway.49"/>
+ <entry term="chpp" name="chpp" id="CM.tpspathway.50"/>
+ <entry term="chpps" name="chpps" id="CM.tpspathway.51"/>
+ <entry term="chrysanthemyl diphosphate" name="chrysanthemyl diphosphate" id="CM.tpspathway.52"/>
+ <entry term="chrysanthemyl diphosphate synthase" name="chrysanthemyl diphosphate synthase" wikipedia="chrysanthemyl diphosphate synthase" id="CM.tpspathway.53"/>
+ <entry term="cmk" name="cmk" id="CM.tpspathway.54"/>
+ <entry term="cmk " name="cmk " id="CM.tpspathway.55"/>
+ <entry term="cms" name="cms" wikipedia="cms" id="CM.tpspathway.56"/>
+ <entry term="cpp" name="cpp" wikipedia="cpp" id="CM.tpspathway.57"/>
+ <entry term="cycloartenol synthase" name="cycloartenol synthase" id="CM.tpspathway.58"/>
+ <entry term="dimethylallyl diphosphate" name="dimethylallyl diphosphate" wikipedia="dimethylallyl diphosphate" id="CM.tpspathway.59"/>
+ <entry term="diterpene synthase" name="diterpene synthase" id="CM.tpspathway.60"/>
+ <entry term="dmadp" name="dmadp" id="CM.tpspathway.61"/>
+ <entry term="dmapp" name="dmapp" id="CM.tpspathway.62"/>
+ <entry term="dxp" name="dxp" id="CM.tpspathway.63"/>
+ <entry term="dxp " name="dxp " id="CM.tpspathway.64"/>
+ <entry term="dxp synthase" name="dxp synthase" id="CM.tpspathway.65"/>
+ <entry term="dxps" name="dxps" id="CM.tpspathway.66"/>
+ <entry term="dxr" name="dxr" id="CM.tpspathway.67"/>
+ <entry term="dxs" name="dxs" id="CM.tpspathway.68"/>
+ <entry term="ent-kaurene" name="ent-kaurene" id="CM.tpspathway.69"/>
+ <entry term="fdp" name="fdp" id="CM.tpspathway.70"/>
+ <entry term="fpp" name="fpp" wikipedia="fpp" id="CM.tpspathway.71"/>
+ <entry term="fpps" name="fpps" id="CM.tpspathway.72"/>
+ <entry term="fps " name="fps " wikipedia="fps " id="CM.tpspathway.73"/>
+ <entry term="g3p" name="g3p" id="CM.tpspathway.74"/>
+ <entry term="gap" name="gap" wikipedia="gap" id="CM.tpspathway.75"/>
+ <entry term="gdp" name="gdp" wikipedia="gdp" id="CM.tpspathway.76"/>
+ <entry term="geraniol-8-hydroxylase" name="geraniol-8-hydroxylase" id="CM.tpspathway.77"/>
+ <entry term="geranyl diphosphate" name="geranyl diphosphate" wikipedia="geranyl diphosphate" id="CM.tpspathway.78"/>
+ <entry term="geranyl diphosphate synthase" name="geranyl diphosphate synthase" id="CM.tpspathway.79"/>
+ <entry term="geranylfarnesyl diphosphate" name="geranylfarnesyl diphosphate" wikipedia="geranylfarnesyl diphosphate" id="CM.tpspathway.80"/>
+ <entry term="geranylgeranyl reductase" name="geranylgeranyl reductase" id="CM.tpspathway.81"/>
+ <entry term="ges" name="ges" wikipedia="ges" id="CM.tpspathway.82"/>
+ <entry term="gfdps" name="gfdps" id="CM.tpspathway.83"/>
+ <entry term="gfpps" name="gfpps" id="CM.tpspathway.84"/>
+ <entry term="ggdp" name="ggdp" id="CM.tpspathway.85"/>
+ <entry term="ggpp" name="ggpp" id="CM.tpspathway.86"/>
+ <entry term="ggpp synthases " name="ggpp synthases " id="CM.tpspathway.87"/>
+ <entry term="ggpps" name="ggpps" id="CM.tpspathway.88"/>
+ <entry term="ggps " name="ggps " id="CM.tpspathway.89"/>
+ <entry term="glyceraldehyde-3-phosphate " name="glyceraldehyde-3-phosphate " wikipedia="glyceraldehyde-3-phosphate " id="CM.tpspathway.90"/>
+ <entry term="gpp" name="gpp" id="CM.tpspathway.91"/>
+ <entry term="gpp synthase " name="gpp synthase " id="CM.tpspathway.92"/>
+ <entry term="gps" name="gps" id="CM.tpspathway.93"/>
+ <entry term="grr" name="grr" wikipedia="grr" id="CM.tpspathway.94"/>
+ <entry term="hdr" name="hdr" wikipedia="hdr" id="CM.tpspathway.95"/>
+ <entry term="hdr " name="hdr " wikipedia="hdr " id="CM.tpspathway.96"/>
+ <entry term="hds" name="hds" wikipedia="hds" id="CM.tpspathway.97"/>
+ <entry term="hds " name="hds " wikipedia="hds " id="CM.tpspathway.98"/>
+ <entry term="hmbpp" name="hmbpp" wikipedia="hmbpp" id="CM.tpspathway.99"/>
+ <entry term="hmg-coa" name="hmg-coa" id="CM.tpspathway.100"/>
+ <entry term="hmgr" name="hmgr" id="CM.tpspathway.101"/>
+ <entry term="hmgr " name="hmgr " id="CM.tpspathway.102"/>
+ <entry term="hmgs" name="hmgs" id="CM.tpspathway.103"/>
+ <entry term="hmgs " name="hmgs " id="CM.tpspathway.104"/>
+ <entry term="ipk" name="ipk" id="CM.tpspathway.105"/>
+ <entry term="ipp" name="ipp" wikipedia="ipp" id="CM.tpspathway.106"/>
+ <entry term="ippi" name="ippi" id="CM.tpspathway.107"/>
+ <entry term="ips" name="ips" wikipedia="ips" id="CM.tpspathway.108"/>
+ <entry term="ipsd " name="ipsd " id="CM.tpspathway.109"/>
+ <entry term="isopentenyl diphosphate" name="isopentenyl diphosphate" wikipedia="isopentenyl diphosphate" id="CM.tpspathway.110"/>
+ <entry term="isopentenyl diphosphate/ dimethylallyl diphosphate isomerase" name="isopentenyl diphosphate/ dimethylallyl diphosphate isomerase" id="CM.tpspathway.111"/>
+ <entry term="isopentenyl phosphate kinase" name="isopentenyl phosphate kinase" id="CM.tpspathway.112"/>
+ <entry term="isoprene synthase" name="isoprene synthase" id="CM.tpspathway.113"/>
+ <entry term="ispe" name="ispe" id="CM.tpspathway.114"/>
+ <entry term="ispf" name="ispf" id="CM.tpspathway.115"/>
+ <entry term="ispg" name="ispg" id="CM.tpspathway.116"/>
+ <entry term="isph" name="isph" id="CM.tpspathway.117"/>
+ <entry term="isps" name="isps" id="CM.tpspathway.118"/>
+ <entry term="lavandulyl" name="lavandulyl" id="CM.tpspathway.119"/>
+ <entry term="lavandulyl diphosphate" name="lavandulyl diphosphate" id="CM.tpspathway.120"/>
+ <entry term="lpp" name="lpp" id="CM.tpspathway.121"/>
+ <entry term="lpps" name="lpps" id="CM.tpspathway.122"/>
+ <entry term="lpps " name="lpps " id="CM.tpspathway.123"/>
+ <entry term="ls" name="ls" wikipedia="ls" id="CM.tpspathway.124"/>
+ <entry term="mcs" name="mcs" wikipedia="mcs" id="CM.tpspathway.125"/>
+ <entry term="mct" name="mct" id="CM.tpspathway.126"/>
+ <entry term="mdd" name="mdd" id="CM.tpspathway.127"/>
+ <entry term="mds " name="mds " wikipedia="mds " id="CM.tpspathway.128"/>
+ <entry term="me-cdp" name="me-cdp" id="CM.tpspathway.129"/>
+ <entry term="mecdp " name="mecdp " id="CM.tpspathway.130"/>
+ <entry term="mecpp" name="mecpp" id="CM.tpspathway.131"/>
+ <entry term="mep" name="mep" id="CM.tpspathway.132"/>
+ <entry term="mevalonate" name="mevalonate" wikipedia="mevalonate" id="CM.tpspathway.133"/>
+ <entry term="mevalonate 5-phosphate" name="mevalonate 5-phosphate" id="CM.tpspathway.134"/>
+ <entry term="mevalonate diphosphate decarboxylase" name="mevalonate diphosphate decarboxylase" id="CM.tpspathway.135"/>
+ <entry term="mevalonate diphosphate decarboxylase " name="mevalonate diphosphate decarboxylase " id="CM.tpspathway.136"/>
+ <entry term="mevalonate-5-phosphate" name="mevalonate-5-phosphate" id="CM.tpspathway.137"/>
+ <entry term="mevalonate-diphosphate" name="mevalonate-diphosphate" id="CM.tpspathway.138"/>
+ <entry term="mk" name="mk" wikipedia="mk" id="CM.tpspathway.139"/>
+ <entry term="monoterpene synthase" name="monoterpene synthase" id="CM.tpspathway.140"/>
+ <entry term="mpdc" name="mpdc" id="CM.tpspathway.141"/>
+ <entry term="mpdc " name="mpdc " id="CM.tpspathway.142"/>
+ <entry term="mtps" name="mtps" id="CM.tpspathway.143"/>
+ <entry term="mvap" name="mvap" id="CM.tpspathway.144"/>
+ <entry term="mvd " name="mvd " wikipedia="mvd " id="CM.tpspathway.145"/>
+ <entry term="ndps1 " name="ndps1 " id="CM.tpspathway.146"/>
+ <entry term="neryl diphosphate " name="neryl diphosphate " id="CM.tpspathway.147"/>
+ <entry term="neryldiphosphate" name="neryldiphosphate" id="CM.tpspathway.148"/>
+ <entry term="nerylneryl diphosphate " name="nerylneryl diphosphate " id="CM.tpspathway.149"/>
+ <entry term="nerylneryl diphosphate synthase " name="nerylneryl diphosphate synthase " id="CM.tpspathway.150"/>
+ <entry term="nes" name="nes" wikipedia="nes" id="CM.tpspathway.151"/>
+ <entry term="nndps " name="nndps " id="CM.tpspathway.152"/>
+ <entry term="nnpp" name="nnpp" id="CM.tpspathway.153"/>
+ <entry term="nnpp " name="nnpp " id="CM.tpspathway.154"/>
+ <entry term="npp" name="npp" id="CM.tpspathway.155"/>
+ <entry term="npp synthase" name="npp synthase" id="CM.tpspathway.156"/>
+ <entry term="nudx1" name="nudx1" id="CM.tpspathway.157"/>
+ <entry term="o-methyltransferase" name="o-methyltransferase" wikipedia="o-methyltransferase" id="CM.tpspathway.158"/>
+ <entry term="oligoprenyl diphosphate" name="oligoprenyl diphosphate" id="CM.tpspathway.159"/>
+ <entry term="omt" name="omt" id="CM.tpspathway.160"/>
+ <entry term="opp" name="opp" wikipedia="opp" id="CM.tpspathway.161"/>
+ <entry term="opp synthase" name="opp synthase" id="CM.tpspathway.162"/>
+ <entry term="ops" name="ops" wikipedia="ops" id="CM.tpspathway.163"/>
+ <entry term="oxidosqualene" name="oxidosqualene" id="CM.tpspathway.164"/>
+ <entry term="phytoene synthase" name="phytoene synthase" id="CM.tpspathway.165"/>
+ <entry term="pmk" name="pmk" id="CM.tpspathway.166"/>
+ <entry term="polyprenyl di(pyro)phosphate synthase " name="polyprenyl di(pyro)phosphate synthase " id="CM.tpspathway.167"/>
+ <entry term="ppase" name="ppase" id="CM.tpspathway.168"/>
+ <entry term="ppp" name="ppp" wikipedia="ppp" id="CM.tpspathway.169"/>
+ <entry term="pps" name="pps" wikipedia="pps" id="CM.tpspathway.170"/>
+ <entry term="pps " name="pps " wikipedia="pps " id="CM.tpspathway.171"/>
+ <entry term="prenyltransferase" name="prenyltransferase" wikipedia="prenyltransferase" id="CM.tpspathway.172"/>
+ <entry term="prenytransferase" name="prenytransferase" id="CM.tpspathway.173"/>
+ <entry term="pt" name="pt" wikipedia="pt" id="CM.tpspathway.174"/>
+ <entry term="ptase" name="ptase" id="CM.tpspathway.175"/>
+ <entry term="pyrophosphatase; " name="pyrophosphatase; " wikipedia="pyrophosphatase; " id="CM.tpspathway.176"/>
+ <entry term="pyruvate" name="pyruvate" wikipedia="pyruvate" id="CM.tpspathway.177"/>
+ <entry term="pys" name="pys" wikipedia="pys" id="CM.tpspathway.178"/>
+ <entry term="sesterterpene synthase " name="sesterterpene synthase " id="CM.tpspathway.179"/>
+ <entry term="slcpt" name="slcpt" id="CM.tpspathway.180"/>
+ <entry term="solanesyl diphosphate synthase" name="solanesyl diphosphate synthase" wikipedia="solanesyl diphosphate synthase" id="CM.tpspathway.181"/>
+ <entry term="spp" name="spp" wikipedia="spp" id="CM.tpspathway.182"/>
+ <entry term="sps" name="sps" wikipedia="sps" id="CM.tpspathway.183"/>
+ <entry term="sqe" name="sqe" id="CM.tpspathway.184"/>
+ <entry term="sqs" name="sqs" id="CM.tpspathway.185"/>
+ <entry term="squalence" name="squalence" id="CM.tpspathway.186"/>
+ <entry term="squalene" name="squalene" wikipedia="squalene" id="CM.tpspathway.187"/>
+ <entry term="squalene synthase " name="squalene synthase " wikipedia="squalene synthase " id="CM.tpspathway.188"/>
+ <entry term="srtps" name="srtps" id="CM.tpspathway.189"/>
+ <entry term="trans-fpp synthases" name="trans-fpp synthases" id="CM.tpspathway.190"/>
+ <entry term="txs" name="txs" id="CM.tpspathway.191"/>
+</dictionary>
