@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="entpspathway">
+ <entry term="( )-delta-cadinene synthase" name="( )-delta-cadinene synthase" id="CM.entpspathway.0"/>
+ <entry term="(+)-alpha-barbatene synthase " name="(+)-alpha-barbatene synthase " id="CM.entpspathway.1"/>
+ <entry term="(+)-alpha-pinene synthase" name="(+)-alpha-pinene synthase" id="CM.entpspathway.2"/>
+ <entry term="(+)-alpha-terpineol synthase" name="(+)-alpha-terpineol synthase" id="CM.entpspathway.3"/>
+ <entry term="(+)-bornyl diphosphate synthase" name="(+)-bornyl diphosphate synthase" id="CM.entpspathway.4"/>
+ <entry term="(+)-car-3-ene synthase " name="(+)-car-3-ene synthase " id="CM.entpspathway.5"/>
+ <entry term="(+)-copalyl diphosphate synthase 3" name="(+)-copalyl diphosphate synthase 3" id="CM.entpspathway.6"/>
+ <entry term="(+)-corvol ether a synthase" name="(+)-corvol ether a synthase" id="CM.entpspathway.7"/>
+ <entry term="(+)-corvol ether b synthase" name="(+)-corvol ether b synthase" id="CM.entpspathway.8"/>
+ <entry term="(+)-delta-cadinene synthase" name="(+)-delta-cadinene synthase" id="CM.entpspathway.9"/>
+ <entry term="(+)-delta-cadinene synthase isozyme a os" name="(+)-delta-cadinene synthase isozyme a os" id="CM.entpspathway.10"/>
+ <entry term="(+)-gamma-cadinene synthase" name="(+)-gamma-cadinene synthase" id="CM.entpspathway.11"/>
+ <entry term="(+)-gamma-cadinene synthase-like" name="(+)-gamma-cadinene synthase-like" id="CM.entpspathway.12"/>
+ <entry term="(+)-germacrene d synthase" name="(+)-germacrene d synthase" id="CM.entpspathway.13"/>
+ <entry term="(+)-limonene synthase" name="(+)-limonene synthase" id="CM.entpspathway.14"/>
+ <entry term="(+)-sabinene synthase" name="(+)-sabinene synthase" id="CM.entpspathway.15"/>
+ <entry term="(+)-t-muurolol synthase" name="(+)-t-muurolol synthase" id="CM.entpspathway.16"/>
+ <entry term="(-)-(e)-beta-caryophyllene synthase" name="(-)-(e)-beta-caryophyllene synthase" id="CM.entpspathway.17"/>
+ <entry term="(-)-a-terpineol synthase" name="(-)-a-terpineol synthase" id="CM.entpspathway.18"/>
+ <entry term="(-)-alpha-amorphene synthase" name="(-)-alpha-amorphene synthase" id="CM.entpspathway.19"/>
+ <entry term="(-)-alpha-pinene synthase" name="(-)-alpha-pinene synthase" id="CM.entpspathway.20"/>
+ <entry term="(-)-alpha-pinene synthase " name="(-)-alpha-pinene synthase " id="CM.entpspathway.21"/>
+ <entry term="(-)-alpha-pinene synthase-like" name="(-)-alpha-pinene synthase-like" id="CM.entpspathway.22"/>
+ <entry term="(-)-alpha-terpineol synthase" name="(-)-alpha-terpineol synthase" id="CM.entpspathway.23"/>
+ <entry term="(-)-alpha-terpineol synthase-like" name="(-)-alpha-terpineol synthase-like" id="CM.entpspathway.24"/>
+ <entry term="(-)-beta-caryophyllene synthase" name="(-)-beta-caryophyllene synthase" id="CM.entpspathway.25"/>
+ <entry term="(-)-beta-pinene synthase" name="(-)-beta-pinene synthase" id="CM.entpspathway.26"/>
+ <entry term="(-)-camphenetricyclene synthase" name="(-)-camphenetricyclene synthase" id="CM.entpspathway.27"/>
+ <entry term="(-)-endo-fenchol synthase" name="(-)-endo-fenchol synthase" id="CM.entpspathway.28"/>
+ <entry term="(-)-gamma-cadinene synthase" name="(-)-gamma-cadinene synthase" id="CM.entpspathway.29"/>
+ <entry term="(-)-germacrene d synthase" name="(-)-germacrene d synthase" id="CM.entpspathway.30"/>
+ <entry term="(-)-germacrene d synthase os" name="(-)-germacrene d synthase os" id="CM.entpspathway.31"/>
+ <entry term="(-)-germacrene d synthase'length" name="(-)-germacrene d synthase'length" id="CM.entpspathway.32"/>
+ <entry term="(-)-germacrene d synthase-like" name="(-)-germacrene d synthase-like" id="CM.entpspathway.33"/>
+ <entry term="(-)-kolavenyl diphosphate synthase" name="(-)-kolavenyl diphosphate synthase" id="CM.entpspathway.34"/>
+ <entry term="(-)-limonene synthase" name="(-)-limonene synthase" id="CM.entpspathway.35"/>
+ <entry term="(3s)-linalool synthase" name="(3s)-linalool synthase" id="CM.entpspathway.36"/>
+ <entry term="(3s-6e)-nerolidol synthase" name="(3s-6e)-nerolidol synthase" id="CM.entpspathway.37"/>
+ <entry term="(e)-4-hydroxy-3-methylbut-2-enyl diphosphate" name="(e)-4-hydroxy-3-methylbut-2-enyl diphosphate" id="CM.entpspathway.38"/>
+ <entry term="(e)-beta-farnesene synthase" name="(e)-beta-farnesene synthase" id="CM.entpspathway.39"/>
+ <entry term="(e)-beta-ocimene synthase" name="(e)-beta-ocimene synthase" id="CM.entpspathway.40"/>
+ <entry term="(e)-nerolidol synthase" name="(e)-nerolidol synthase" id="CM.entpspathway.41"/>
+ <entry term="(e,e)-fpp" name="(e,e)-fpp" id="CM.entpspathway.42"/>
+ <entry term="(ee)-geranyl linalool synthase" name="(ee)-geranyl linalool synthase" id="CM.entpspathway.43"/>
+ <entry term="(r)-limonene synthase" name="(r)-limonene synthase" id="CM.entpspathway.44"/>
+ <entry term="(r)-limonene synthase 1" name="(r)-limonene synthase 1" id="CM.entpspathway.45"/>
+ <entry term="(r)-linalool synthase" name="(r)-linalool synthase" id="CM.entpspathway.46"/>
+ <entry term="(s)-beta-bisabolene synthase" name="(s)-beta-bisabolene synthase" id="CM.entpspathway.47"/>
+ <entry term="(s)-beta-macrocarpene synthase" name="(s)-beta-macrocarpene synthase" id="CM.entpspathway.48"/>
+ <entry term="(z,z)-fpp " name="(z,z)-fpp " id="CM.entpspathway.49"/>
+ <entry term="(z,z)-fpp synthase" name="(z,z)-fpp synthase" id="CM.entpspathway.50"/>
+ <entry term="(z-gamma-bisabolene synthase" name="(z-gamma-bisabolene synthase" id="CM.entpspathway.51"/>
+ <entry term="- (+)-delta-cadinene synthase " name="- (+)-delta-cadinene synthase " id="CM.entpspathway.52"/>
+ <entry term="- (r)-limonene synthase " name="- (r)-limonene synthase " id="CM.entpspathway.53"/>
+ <entry term="04 - alpha-humulene synthase " name="04 - alpha-humulene synthase " id="CM.entpspathway.54"/>
+ <entry term="1,8-cineole synthase" name="1,8-cineole synthase" id="CM.entpspathway.55"/>
+ <entry term="1-deoxy- d-xylulose-5-p reductoisomerase" name="1-deoxy- d-xylulose-5-p reductoisomerase" id="CM.entpspathway.56"/>
+ <entry term="1-deoxy-d- xylulose-5-p synthase" name="1-deoxy-d- xylulose-5-p synthase" id="CM.entpspathway.57"/>
+ <entry term="1-deoxy-d-xylulose 5-phosphate" name="1-deoxy-d-xylulose 5-phosphate" id="CM.entpspathway.58"/>
+ <entry term="1-deoxy-d-xylulose 5-phosphate reductoisomerase " name="1-deoxy-d-xylulose 5-phosphate reductoisomerase " id="CM.entpspathway.59"/>
+ <entry term="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate reductase" name="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate reductase" id="CM.entpspathway.60"/>
+ <entry term="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate synthase" name="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate synthase" id="CM.entpspathway.61"/>
+ <entry term="10-epi-junenol synthase" name="10-epi-junenol synthase" id="CM.entpspathway.62"/>
+ <entry term="2-c-methyl-d-ery- thritol-2,4-cyclodiphosphate synthase" name="2-c-methyl-d-ery- thritol-2,4-cyclodiphosphate synthase" id="CM.entpspathway.63"/>
+ <entry term="2-c-methyl-d-erythritol 2,4- cyclodiphosphate synthase" name="2-c-methyl-d-erythritol 2,4- cyclodiphosphate synthase" id="CM.entpspathway.64"/>
+ <entry term="2-c-methyl-d-erythritol 2,4-cyclod- iphosphate reductase " name="2-c-methyl-d-erythritol 2,4-cyclod- iphosphate reductase " id="CM.entpspathway.65"/>
+ <entry term="2-c-methyl-d-erythritol 2,4-cyclodi- phosphate " name="2-c-methyl-d-erythritol 2,4-cyclodi- phosphate " id="CM.entpspathway.66"/>
+ <entry term="2-c-methyl-d-erythritol-4-p cytidylyltransferase" name="2-c-methyl-d-erythritol-4-p cytidylyltransferase" id="CM.entpspathway.67"/>
+ <entry term="3 - copal-8-ol diphosphate hydratase" name="3 - copal-8-ol diphosphate hydratase" id="CM.entpspathway.68"/>
+ <entry term="3-hydroxy-3-methylglutaryl-coa" name="3-hydroxy-3-methylglutaryl-coa" id="CM.entpspathway.69"/>
+ <entry term="3car" name="3car" id="CM.entpspathway.70"/>
+ <entry term="3r-linalool synthase" name="3r-linalool synthase" id="CM.entpspathway.71"/>
+ <entry term="4 - geranyllinalool synthase" name="4 - geranyllinalool synthase" id="CM.entpspathway.72"/>
+ <entry term="4,8-dimethylnona-1,3,7-triene" name="4,8-dimethylnona-1,3,7-triene" id="CM.entpspathway.73"/>
+ <entry term="4-(cytidine 5?-diphospho)- 2-c-methyl-d-erythritol phosphate" name="4-(cytidine 5?-diphospho)- 2-c-methyl-d-erythritol phosphate" id="CM.entpspathway.74"/>
+ <entry term="4-(cytidine 5?-diphospho)-2-c-methyl-d-erythritol" name="4-(cytidine 5?-diphospho)-2-c-methyl-d-erythritol" id="CM.entpspathway.75"/>
+ <entry term="4-diphos- phocytidyl-2-c-methyl-d-erythritol kinase" name="4-diphos- phocytidyl-2-c-methyl-d-erythritol kinase" id="CM.entpspathway.76"/>
+ <entry term="4-diphosphocytidyl-2- c-methyl-d-erythritol" name="4-diphosphocytidyl-2- c-methyl-d-erythritol" id="CM.entpspathway.77"/>
+ <entry term="4-diphosphocytidyl-2-c-methyl-d- erythritol synthase" name="4-diphosphocytidyl-2-c-methyl-d- erythritol synthase" id="CM.entpspathway.78"/>
+ <entry term="4-diphosphocytidyl-2-c-methyl-d-erythritol 2-phosphate" name="4-diphosphocytidyl-2-c-methyl-d-erythritol 2-phosphate" id="CM.entpspathway.79"/>
+ <entry term="4-diphosphocytidyl-2-c-methyl-d-erythritol kinase" name="4-diphosphocytidyl-2-c-methyl-d-erythritol kinase" id="CM.entpspathway.80"/>
+ <entry term="4-epi-cubebol synthase" name="4-epi-cubebol synthase" id="CM.entpspathway.81"/>
+ <entry term="4-hydroxy-3-methylbut-2-enyl diphosphate " name="4-hydroxy-3-methylbut-2-enyl diphosphate " id="CM.entpspathway.82"/>
+ <entry term="4-hydroxy-3-methylbut-2-enyl diphosphate reductase" name="4-hydroxy-3-methylbut-2-enyl diphosphate reductase" id="CM.entpspathway.83"/>
+ <entry term="4-hydroxy-3-methylbut-2-enyl diphosphate synthase" name="4-hydroxy-3-methylbut-2-enyl diphosphate synthase" id="CM.entpspathway.84"/>
+ <entry term="5 - (-)-germacrene d synthase" name="5 - (-)-germacrene d synthase" id="CM.entpspathway.85"/>
+ <entry term="5 - tricyclene synthase" name="5 - tricyclene synthase" id="CM.entpspathway.86"/>
+ <entry term="5-epi-aristolochene synthase" name="5-epi-aristolochene synthase" id="CM.entpspathway.87"/>
+ <entry term="5-epi-aristolochene synthase os" name="5-epi-aristolochene synthase os" id="CM.entpspathway.88"/>
+ <entry term="5-epiaristolochene synthase" name="5-epiaristolochene synthase" id="CM.entpspathway.89"/>
+ <entry term="5-epiaristolochene synthase " name="5-epiaristolochene synthase " id="CM.entpspathway.90"/>
+ <entry term="5-epiaristolochene synthase os" name="5-epiaristolochene synthase os" id="CM.entpspathway.91"/>
+ <entry term="5eas2_0" name="5eas2_0" id="CM.entpspathway.92"/>
+ <entry term="5eas2_1" name="5eas2_1" id="CM.entpspathway.93"/>
+ <entry term="5eas3" name="5eas3" id="CM.entpspathway.94"/>
+ <entry term="5eas4_0" name="5eas4_0" id="CM.entpspathway.95"/>
+ <entry term="5eas4_1" name="5eas4_1" id="CM.entpspathway.96"/>
+ <entry term="6 - gamma-muurolene synthase" name="6 - gamma-muurolene synthase" id="CM.entpspathway.97"/>
+ <entry term="6 - terpene synthase family" name="6 - terpene synthase family" id="CM.entpspathway.98"/>
+ <entry term="7 - terpene synthase" name="7 - terpene synthase" id="CM.entpspathway.99"/>
+ <entry term="7-epi-alpha-eudesmol synthase" name="7-epi-alpha-eudesmol synthase" id="CM.entpspathway.100"/>
+ <entry term="7-epi-alpha-selinene synthase" name="7-epi-alpha-selinene synthase" id="CM.entpspathway.101"/>
+ <entry term="7-epi-sesquithujene synthase" name="7-epi-sesquithujene synthase" id="CM.entpspathway.102"/>
+ <entry term="7-epizingiberene synthase " name="7-epizingiberene synthase " id="CM.entpspathway.103"/>
+ <entry term="8 - (+)-epi-alpha-bisabolol synthase" name="8 - (+)-epi-alpha-bisabolol synthase" id="CM.entpspathway.104"/>
+ <entry term="8 - beta-cubebene synthase" name="8 - beta-cubebene synthase" id="CM.entpspathway.105"/>
+ <entry term="aact" name="aact" wikipedia="aact" id="CM.entpspathway.106"/>
+ <entry term="aatps2" name="aatps2" id="CM.entpspathway.107"/>
+ <entry term="abietadiene synthase" name="abietadiene synthase" id="CM.entpspathway.108"/>
+ <entry term="abs_1" name="abs_1" id="CM.entpspathway.109"/>
+ <entry term="abs_3" name="abs_3" id="CM.entpspathway.110"/>
+ <entry term="abs_4" name="abs_4" id="CM.entpspathway.111"/>
+ <entry term="acac-coa" name="acac-coa" id="CM.entpspathway.112"/>
+ <entry term="acetoacetyl-coa" name="acetoacetyl-coa" id="CM.entpspathway.113"/>
+ <entry term="acetoacetyl-coa thiolase" name="acetoacetyl-coa thiolase" id="CM.entpspathway.114"/>
+ <entry term="acetyl-coa" name="acetyl-coa" wikipedia="acetyl-coa" id="CM.entpspathway.115"/>
+ <entry term="acnes1" name="acnes1" id="CM.entpspathway.116"/>
+ <entry term="acyclic sesquiterpene synthase" name="acyclic sesquiterpene synthase" id="CM.entpspathway.117"/>
+ <entry term="ads" name="ads" wikipedia="ads" id="CM.entpspathway.118"/>
+ <entry term="afar" name="afar" wikipedia="afar" id="CM.entpspathway.119"/>
+ <entry term="afs1" name="afs1" id="CM.entpspathway.120"/>
+ <entry term="ag2.2" name="ag2.2" id="CM.entpspathway.121"/>
+ <entry term="ag3.18" name="ag3.18" id="CM.entpspathway.122"/>
+ <entry term="ag6.5" name="ag6.5" id="CM.entpspathway.123"/>
+ <entry term="ajtps2" name="ajtps2" id="CM.entpspathway.124"/>
+ <entry term="alcars" name="alcars" id="CM.entpspathway.125"/>
+ <entry term="all-e-ggpp" name="all-e-ggpp" id="CM.entpspathway.126"/>
+ <entry term="all-trans-geranylgeranyl diphosphate" name="all-trans-geranylgeranyl diphosphate" id="CM.entpspathway.127"/>
+ <entry term="all-trans-ggpp" name="all-trans-ggpp" id="CM.entpspathway.128"/>
+ <entry term="all-trans-ggpp " name="all-trans-ggpp " id="CM.entpspathway.129"/>
+ <entry term="all-z-ggpp" name="all-z-ggpp" id="CM.entpspathway.130"/>
+ <entry term="alpha-bisabolol synthase" name="alpha-bisabolol synthase" id="CM.entpspathway.131"/>
+ <entry term="alpha-copaene synthase" name="alpha-copaene synthase" id="CM.entpspathway.132"/>
+ <entry term="alpha-farnesene synthase" name="alpha-farnesene synthase" id="CM.entpspathway.133"/>
+ <entry term="alpha-farnesene synthase " name="alpha-farnesene synthase " id="CM.entpspathway.134"/>
+ <entry term="alpha-humulene synthase" name="alpha-humulene synthase" id="CM.entpspathway.135"/>
+ <entry term="alpha-humulene synthase " name="alpha-humulene synthase " id="CM.entpspathway.136"/>
+ <entry term="alpha-isocomene synthase" name="alpha-isocomene synthase" id="CM.entpspathway.137"/>
+ <entry term="alpha-phellandrene synthase" name="alpha-phellandrene synthase" id="CM.entpspathway.138"/>
+ <entry term="alpha-pinene synthase" name="alpha-pinene synthase" id="CM.entpspathway.139"/>
+ <entry term="alpha-terpineol synthase" name="alpha-terpineol synthase" id="CM.entpspathway.140"/>
+ <entry term="alpha-thujene synthase" name="alpha-thujene synthase" id="CM.entpspathway.141"/>
+ <entry term="alstrotps" name="alstrotps" id="CM.entpspathway.142"/>
+ <entry term="amgas" name="amgas" id="CM.entpspathway.143"/>
+ <entry term="amino-terminal domain terpene synthase" name="amino-terminal domain terpene synthase" id="CM.entpspathway.144"/>
+ <entry term="amnes/lis-1/-2" name="amnes/lis-1/-2" id="CM.entpspathway.145"/>
+ <entry term="ams1" name="ams1" id="CM.entpspathway.146"/>
+ <entry term="an1" name="an1" id="CM.entpspathway.147"/>
+ <entry term="aristolochene synthase" name="aristolochene synthase" id="CM.entpspathway.148"/>
+ <entry term="atesy_0" name="atesy_0" id="CM.entpspathway.149"/>
+ <entry term="atesy_1" name="atesy_1" id="CM.entpspathway.150"/>
+ <entry term="atr13" name="atr13" id="CM.entpspathway.151"/>
+ <entry term="atr6" name="atr6" id="CM.entpspathway.152"/>
+ <entry term="attps03" name="attps03" id="CM.entpspathway.153"/>
+ <entry term="avtps1" name="avtps1" id="CM.entpspathway.154"/>
+ <entry term="bas" name="bas" wikipedia="bas" id="CM.entpspathway.155"/>
+ <entry term="bas1" name="bas1" id="CM.entpspathway.156"/>
+ <entry term="beta selinene synthase" name="beta selinene synthase" id="CM.entpspathway.157"/>
+ <entry term="beta-caryophyllene synthase" name="beta-caryophyllene synthase" id="CM.entpspathway.158"/>
+ <entry term="beta-cubebene synthase" name="beta-cubebene synthase" id="CM.entpspathway.159"/>
+ <entry term="beta-eudesmol synthase" name="beta-eudesmol synthase" id="CM.entpspathway.160"/>
+ <entry term="beta-farnesene synthase" name="beta-farnesene synthase" id="CM.entpspathway.161"/>
+ <entry term="beta-farnesene synthase " name="beta-farnesene synthase " id="CM.entpspathway.162"/>
+ <entry term="beta-myrcene synthase" name="beta-myrcene synthase" id="CM.entpspathway.163"/>
+ <entry term="beta-ocimene synthase" name="beta-ocimene synthase" id="CM.entpspathway.164"/>
+ <entry term="beta-ocimene synthase'length" name="beta-ocimene synthase'length" id="CM.entpspathway.165"/>
+ <entry term="beta-phellandrene synthase" name="beta-phellandrene synthase" id="CM.entpspathway.166"/>
+ <entry term="beta-phellandrene synthase (neryl-diphosphate-cyclizing)" name="beta-phellandrene synthase (neryl-diphosphate-cyclizing)" id="CM.entpspathway.167"/>
+ <entry term="beta-sesquiphellandrene synthase" name="beta-sesquiphellandrene synthase" id="CM.entpspathway.168"/>
+ <entry term="beta-sesquiphellandrene synthase " name="beta-sesquiphellandrene synthase " id="CM.entpspathway.169"/>
+ <entry term="c10-geranyl diphosphate" name="c10-geranyl diphosphate" id="CM.entpspathway.170"/>
+ <entry term="cadinol synthase" name="cadinol synthase" id="CM.entpspathway.171"/>
+ <entry term="camphene synthase" name="camphene synthase" id="CM.entpspathway.172"/>
+ <entry term="cams1" name="cams1" id="CM.entpspathway.173"/>
+ <entry term="carene synthase" name="carene synthase" id="CM.entpspathway.174"/>
+ <entry term="carene synthase 1" name="carene synthase 1" id="CM.entpspathway.175"/>
+ <entry term="carene synthase 2" name="carene synthase 2" id="CM.entpspathway.176"/>
+ <entry term="carene synthase 3" name="carene synthase 3" id="CM.entpspathway.177"/>
+ <entry term="cars" name="cars" wikipedia="cars" id="CM.entpspathway.178"/>
+ <entry term="caryophyllene synthase" name="caryophyllene synthase" id="CM.entpspathway.179"/>
+ <entry term="cas" name="cas" wikipedia="cas" id="CM.entpspathway.180"/>
+ <entry term="cas1" name="cas1" wikipedia="cas1" id="CM.entpspathway.181"/>
+ <entry term="casbene synthase" name="casbene synthase" id="CM.entpspathway.182"/>
+ <entry term="casbene synthase " name="casbene synthase " id="CM.entpspathway.183"/>
+ <entry term="casbene synthase 2" name="casbene synthase 2" id="CM.entpspathway.184"/>
+ <entry term="casbene synthase 3" name="casbene synthase 3" id="CM.entpspathway.185"/>
+ <entry term="cascarilladiene synthase" name="cascarilladiene synthase" id="CM.entpspathway.186"/>
+ <entry term="cbs" name="cbs" wikipedia="cbs" id="CM.entpspathway.187"/>
+ <entry term="cctps1" name="cctps1" id="CM.entpspathway.188"/>
+ <entry term="cctps2" name="cctps2" id="CM.entpspathway.189"/>
+ <entry term="cctps3" name="cctps3" id="CM.entpspathway.190"/>
+ <entry term="cctps4" name="cctps4" id="CM.entpspathway.191"/>
+ <entry term="cctps5" name="cctps5" id="CM.entpspathway.192"/>
+ <entry term="cdp- me2p " name="cdp- me2p " id="CM.entpspathway.193"/>
+ <entry term="cdp-me" name="cdp-me" id="CM.entpspathway.194"/>
+ <entry term="cdp-me " name="cdp-me " id="CM.entpspathway.195"/>
+ <entry term="cdp-me kinase" name="cdp-me kinase" id="CM.entpspathway.196"/>
+ <entry term="cdp-me2p" name="cdp-me2p" id="CM.entpspathway.197"/>
+ <entry term="cdp-mep" name="cdp-mep" id="CM.entpspathway.198"/>
+ <entry term="cellulose synthase-like" name="cellulose synthase-like" id="CM.entpspathway.199"/>
+ <entry term="cembratrienol synthase" name="cembratrienol synthase" id="CM.entpspathway.200"/>
+ <entry term="cembratrienol synthase 2b" name="cembratrienol synthase 2b" id="CM.entpspathway.201"/>
+ <entry term="cembratrienol synthase 3" name="cembratrienol synthase 3" id="CM.entpspathway.202"/>
+ <entry term="chpp" name="chpp" id="CM.entpspathway.203"/>
+ <entry term="chpps" name="chpps" id="CM.entpspathway.204"/>
+ <entry term="chrysanthemol synthase" name="chrysanthemol synthase" id="CM.entpspathway.205"/>
+ <entry term="chrysanthemyl diphosphate" name="chrysanthemyl diphosphate" id="CM.entpspathway.206"/>
+ <entry term="chrysanthemyl diphosphate synthase" name="chrysanthemyl diphosphate synthase" wikipedia="chrysanthemyl diphosphate synthase" id="CM.entpspathway.207"/>
+ <entry term="cineol synthase" name="cineol synthase" id="CM.entpspathway.208"/>
+ <entry term="cis-abienol synthase" name="cis-abienol synthase" id="CM.entpspathway.209"/>
+ <entry term="cis-muuroladiene synthase" name="cis-muuroladiene synthase" id="CM.entpspathway.210"/>
+ <entry term="citmtse1" name="citmtse1" id="CM.entpspathway.211"/>
+ <entry term="cittps16" name="cittps16" id="CM.entpspathway.212"/>
+ <entry term="clade-c terpene synthase" name="clade-c terpene synthase" id="CM.entpspathway.213"/>
+ <entry term="clade-e terpene synthase" name="clade-e terpene synthase" id="CM.entpspathway.214"/>
+ <entry term="class i diterpene synthase 2" name="class i diterpene synthase 2" id="CM.entpspathway.215"/>
+ <entry term="class i diterpene synthase tps6" name="class i diterpene synthase tps6" id="CM.entpspathway.216"/>
+ <entry term="clds" name="clds" id="CM.entpspathway.217"/>
+ <entry term="clm1" name="clm1" id="CM.entpspathway.218"/>
+ <entry term="clm2" name="clm2" id="CM.entpspathway.219"/>
+ <entry term="cls" name="cls" wikipedia="cls" id="CM.entpspathway.220"/>
+ <entry term="cmk" name="cmk" id="CM.entpspathway.221"/>
+ <entry term="cmk " name="cmk " id="CM.entpspathway.222"/>
+ <entry term="cms" name="cms" wikipedia="cms" id="CM.entpspathway.223"/>
+ <entry term="cmtpsdul" name="cmtpsdul" id="CM.entpspathway.224"/>
+ <entry term="cmtpsny" name="cmtpsny" id="CM.entpspathway.225"/>
+ <entry term="cnd15" name="cnd15" id="CM.entpspathway.226"/>
+ <entry term="cop3" name="cop3" id="CM.entpspathway.227"/>
+ <entry term="cop4" name="cop4" wikipedia="cop4" id="CM.entpspathway.228"/>
+ <entry term="copal-8-ol diphosphate hydratase" name="copal-8-ol diphosphate hydratase" id="CM.entpspathway.229"/>
+ <entry term="copalyl diphosphate synthase" name="copalyl diphosphate synthase" id="CM.entpspathway.230"/>
+ <entry term="copalyl diphosphate synthase 1" name="copalyl diphosphate synthase 1" id="CM.entpspathway.231"/>
+ <entry term="copalyl diphosphate synthase 2" name="copalyl diphosphate synthase 2" id="CM.entpspathway.232"/>
+ <entry term="copalyl pyrophosphate synthase 2" name="copalyl pyrophosphate synthase 2" id="CM.entpspathway.233"/>
+ <entry term="copalyldiphosphate synthase" name="copalyldiphosphate synthase" id="CM.entpspathway.234"/>
+ <entry term="cotps1" name="cotps1" id="CM.entpspathway.235"/>
+ <entry term="cpp" name="cpp" wikipedia="cpp" id="CM.entpspathway.236"/>
+ <entry term="cps" name="cps" wikipedia="cps" id="CM.entpspathway.237"/>
+ <entry term="cps/ks" name="cps/ks" id="CM.entpspathway.238"/>
+ <entry term="cps1" name="cps1" id="CM.entpspathway.239"/>
+ <entry term="cps2" name="cps2" id="CM.entpspathway.240"/>
+ <entry term="cps3" name="cps3" id="CM.entpspathway.241"/>
+ <entry term="cps4" name="cps4" id="CM.entpspathway.242"/>
+ <entry term="cpt2" name="cpt2" id="CM.entpspathway.243"/>
+ <entry term="cs" name="cs" wikipedia="cs" id="CM.entpspathway.244"/>
+ <entry term="csks1" name="csks1" id="CM.entpspathway.245"/>
+ <entry term="cssesquitps3" name="cssesquitps3" id="CM.entpspathway.246"/>
+ <entry term="cstps1" name="cstps1" id="CM.entpspathway.247"/>
+ <entry term="cstps2" name="cstps2" id="CM.entpspathway.248"/>
+ <entry term="cstps3" name="cstps3" id="CM.entpspathway.249"/>
+ <entry term="cstps4" name="cstps4" id="CM.entpspathway.250"/>
+ <entry term="cstps5" name="cstps5" id="CM.entpspathway.251"/>
+ <entry term="ctvd" name="ctvd" id="CM.entpspathway.252"/>
+ <entry term="cyc2" name="cyc2" wikipedia="cyc2" id="CM.entpspathway.253"/>
+ <entry term="cycloaraneosene synthase" name="cycloaraneosene synthase" id="CM.entpspathway.254"/>
+ <entry term="cycloartenol synthase" name="cycloartenol synthase" id="CM.entpspathway.255"/>
+ <entry term="d-cadinene synthase" name="d-cadinene synthase" id="CM.entpspathway.256"/>
+ <entry term="d-limonene synthase" name="d-limonene synthase" id="CM.entpspathway.257"/>
+ <entry term="delta-cadinene synthase" name="delta-cadinene synthase" id="CM.entpspathway.258"/>
+ <entry term="delta-cadinene synthase isozyme xc1" name="delta-cadinene synthase isozyme xc1" id="CM.entpspathway.259"/>
+ <entry term="delta-cadinene synthase isozyme xc14" name="delta-cadinene synthase isozyme xc14" id="CM.entpspathway.260"/>
+ <entry term="delta-guaiene synthase" name="delta-guaiene synthase" id="CM.entpspathway.261"/>
+ <entry term="dimethylallyl diphosphate" name="dimethylallyl diphosphate" wikipedia="dimethylallyl diphosphate" id="CM.entpspathway.262"/>
+ <entry term="dimethylallylcistransferase" name="dimethylallylcistransferase" id="CM.entpspathway.263"/>
+ <entry term="diterpene geranyllinalool synthase" name="diterpene geranyllinalool synthase" id="CM.entpspathway.264"/>
+ <entry term="diterpene synthase" name="diterpene synthase" id="CM.entpspathway.265"/>
+ <entry term="diterpene synthase 3" name="diterpene synthase 3" id="CM.entpspathway.266"/>
+ <entry term="dmadp" name="dmadp" id="CM.entpspathway.267"/>
+ <entry term="dmapp" name="dmapp" id="CM.entpspathway.268"/>
+ <entry term="dolabradiene synthase" name="dolabradiene synthase" id="CM.entpspathway.269"/>
+ <entry term="dxp" name="dxp" id="CM.entpspathway.270"/>
+ <entry term="dxp " name="dxp " id="CM.entpspathway.271"/>
+ <entry term="dxp synthase" name="dxp synthase" id="CM.entpspathway.272"/>
+ <entry term="dxps" name="dxps" id="CM.entpspathway.273"/>
+ <entry term="dxr" name="dxr" id="CM.entpspathway.274"/>
+ <entry term="dxs" name="dxs" id="CM.entpspathway.275"/>
+ <entry term="e-beta-caryophyllene synthase" name="e-beta-caryophyllene synthase" id="CM.entpspathway.276"/>
+ <entry term="e-beta-farnesene synthase" name="e-beta-farnesene synthase" id="CM.entpspathway.277"/>
+ <entry term="e-beta-farnesene synthase 1" name="e-beta-farnesene synthase 1" id="CM.entpspathway.278"/>
+ <entry term="e-beta-farnesene synthase 2" name="e-beta-farnesene synthase 2" id="CM.entpspathway.279"/>
+ <entry term="e-beta-ocimene synthase 2" name="e-beta-ocimene synthase 2" id="CM.entpspathway.280"/>
+ <entry term="eas3_0" name="eas3_0" id="CM.entpspathway.281"/>
+ <entry term="eas3_1" name="eas3_1" id="CM.entpspathway.282"/>
+ <entry term="eas3_2a4a49_57779" name="eas3_2a4a49_57779" id="CM.entpspathway.283"/>
+ <entry term="eas3_3" name="eas3_3" id="CM.entpspathway.284"/>
+ <entry term="eas3_4" name="eas3_4" id="CM.entpspathway.285"/>
+ <entry term="eas_0" name="eas_0" id="CM.entpspathway.286"/>
+ <entry term="eas_1" name="eas_1" id="CM.entpspathway.287"/>
+ <entry term="ebos" name="ebos" id="CM.entpspathway.288"/>
+ <entry term="ent-13-epi-manoyl oxide synthase" name="ent-13-epi-manoyl oxide synthase" id="CM.entpspathway.289"/>
+ <entry term="ent-8-alpha-hydroxylabd-13-en-15-yl diphosphate synthase" name="ent-8-alpha-hydroxylabd-13-en-15-yl diphosphate synthase" id="CM.entpspathway.290"/>
+ <entry term="ent-atiserene synthase" name="ent-atiserene synthase" id="CM.entpspathway.291"/>
+ <entry term="ent-copalyl diphosphate synthase" name="ent-copalyl diphosphate synthase" wikipedia="ent-copalyl diphosphate synthase" id="CM.entpspathway.292"/>
+ <entry term="ent-copalyl diphosphate synthase " name="ent-copalyl diphosphate synthase " wikipedia="ent-copalyl diphosphate synthase " id="CM.entpspathway.293"/>
+ <entry term="ent-kaur-16-ene synthase" name="ent-kaur-16-ene synthase" id="CM.entpspathway.294"/>
+ <entry term="ent-kaurene" name="ent-kaurene" id="CM.entpspathway.295"/>
+ <entry term="ent-kaurene synthase" name="ent-kaurene synthase" id="CM.entpspathway.296"/>
+ <entry term="ent-kaurene synthase " name="ent-kaurene synthase " id="CM.entpspathway.297"/>
+ <entry term="ent-kaurene synthase'length" name="ent-kaurene synthase'length" id="CM.entpspathway.298"/>
+ <entry term="ent-kaurene synthase-like" name="ent-kaurene synthase-like" id="CM.entpspathway.299"/>
+ <entry term="ent-kaurene synthase-like protein 1'length" name="ent-kaurene synthase-like protein 1'length" id="CM.entpspathway.300"/>
+ <entry term="ent-sandaracopimaradiene synthase " name="ent-sandaracopimaradiene synthase " id="CM.entpspathway.301"/>
+ <entry term="eot1" name="eot1" id="CM.entpspathway.302"/>
+ <entry term="epi-cedrol synthase" name="epi-cedrol synthase" id="CM.entpspathway.303"/>
+ <entry term="epi-sesquithujene synthase " name="epi-sesquithujene synthase " id="CM.entpspathway.304"/>
+ <entry term="epidermal germacrene c synthase" name="epidermal germacrene c synthase" id="CM.entpspathway.305"/>
+ <entry term="erg-6ncu654" name="erg-6ncu654" id="CM.entpspathway.306"/>
+ <entry term="erg7" name="erg7" id="CM.entpspathway.307"/>
+ <entry term="erg9" name="erg9" id="CM.entpspathway.308"/>
+ <entry term="farnesene synthase" name="farnesene synthase" id="CM.entpspathway.309"/>
+ <entry term="farnesol synthase" name="farnesol synthase" id="CM.entpspathway.310"/>
+ <entry term="fars" name="fars" wikipedia="fars" id="CM.entpspathway.311"/>
+ <entry term="fctps1" name="fctps1" id="CM.entpspathway.312"/>
+ <entry term="fctps2" name="fctps2" id="CM.entpspathway.313"/>
+ <entry term="fctps3" name="fctps3" id="CM.entpspathway.314"/>
+ <entry term="fctps4" name="fctps4" id="CM.entpspathway.315"/>
+ <entry term="fctps5" name="fctps5" id="CM.entpspathway.316"/>
+ <entry term="fctps6" name="fctps6" id="CM.entpspathway.317"/>
+ <entry term="fdp" name="fdp" id="CM.entpspathway.318"/>
+ <entry term="fds" name="fds" id="CM.entpspathway.319"/>
+ <entry term="fpp" name="fpp" wikipedia="fpp" id="CM.entpspathway.320"/>
+ <entry term="fpps" name="fpps" id="CM.entpspathway.321"/>
+ <entry term="fps " name="fps " wikipedia="fps " id="CM.entpspathway.322"/>
+ <entry term="fusicoccadiene synthase" name="fusicoccadiene synthase" id="CM.entpspathway.323"/>
+ <entry term="g3p" name="g3p" id="CM.entpspathway.324"/>
+ <entry term="g8h," name="g8h," id="CM.entpspathway.325"/>
+ <entry term="ga1" name="ga1" wikipedia="ga1" id="CM.entpspathway.326"/>
+ <entry term="ga1ga1" name="ga1ga1" id="CM.entpspathway.327"/>
+ <entry term="ga2" name="ga2" wikipedia="ga2" id="CM.entpspathway.328"/>
+ <entry term="ga2ga2" name="ga2ga2" id="CM.entpspathway.329"/>
+ <entry term="gamma-bisabolene synthase " name="gamma-bisabolene synthase " id="CM.entpspathway.330"/>
+ <entry term="gamma-terpinene synthase" name="gamma-terpinene synthase" id="CM.entpspathway.331"/>
+ <entry term="gap" name="gap" wikipedia="gap" id="CM.entpspathway.332"/>
+ <entry term="gas" name="gas" id="CM.entpspathway.333"/>
+ <entry term="gas1" name="gas1" id="CM.entpspathway.334"/>
+ <entry term="gas2" name="gas2" id="CM.entpspathway.335"/>
+ <entry term="gas3" name="gas3" id="CM.entpspathway.336"/>
+ <entry term="gdp" name="gdp" wikipedia="gdp" id="CM.entpspathway.337"/>
+ <entry term="gds" name="gds" wikipedia="gds" id="CM.entpspathway.338"/>
+ <entry term="geosmin synthase" name="geosmin synthase" wikipedia="geosmin synthase" id="CM.entpspathway.339"/>
+ <entry term="geraniol synthase" name="geraniol synthase" id="CM.entpspathway.340"/>
+ <entry term="geraniol-8-hydroxylase" name="geraniol-8-hydroxylase" id="CM.entpspathway.341"/>
+ <entry term="geranyl diphosphate" name="geranyl diphosphate" wikipedia="geranyl diphosphate" id="CM.entpspathway.342"/>
+ <entry term="geranyl diphosphate synthase" name="geranyl diphosphate synthase" id="CM.entpspathway.343"/>
+ <entry term="geranyl-diphosphate cyclase" name="geranyl-diphosphate cyclase" id="CM.entpspathway.344"/>
+ <entry term="geranylfarnesyl diphosphate" name="geranylfarnesyl diphosphate" wikipedia="geranylfarnesyl diphosphate" id="CM.entpspathway.345"/>
+ <entry term="geranylgeranyl reductase" name="geranylgeranyl reductase" id="CM.entpspathway.346"/>
+ <entry term="geranyllinalool synthase" name="geranyllinalool synthase" id="CM.entpspathway.347"/>
+ <entry term="gerds" name="gerds" id="CM.entpspathway.348"/>
+ <entry term="germacradienol synthase " name="germacradienol synthase " id="CM.entpspathway.349"/>
+ <entry term="germacrene a synthase" name="germacrene a synthase" id="CM.entpspathway.350"/>
+ <entry term="germacrene a synthase 2" name="germacrene a synthase 2" id="CM.entpspathway.351"/>
+ <entry term="germacrene c synthase" name="germacrene c synthase" id="CM.entpspathway.352"/>
+ <entry term="germacrene c synthase os" name="germacrene c synthase os" id="CM.entpspathway.353"/>
+ <entry term="germacrene c synthase-like" name="germacrene c synthase-like" id="CM.entpspathway.354"/>
+ <entry term="germacrene-d synthase" name="germacrene-d synthase" id="CM.entpspathway.355"/>
+ <entry term="germacrene-d synthase'length" name="germacrene-d synthase'length" id="CM.entpspathway.356"/>
+ <entry term="germacrene-d synthase-like" name="germacrene-d synthase-like" id="CM.entpspathway.357"/>
+ <entry term="gers" name="gers" wikipedia="gers" id="CM.entpspathway.358"/>
+ <entry term="ges" name="ges" wikipedia="ges" id="CM.entpspathway.359"/>
+ <entry term="gfdps" name="gfdps" id="CM.entpspathway.360"/>
+ <entry term="gfpps" name="gfpps" id="CM.entpspathway.361"/>
+ <entry term="ggbas1" name="ggbas1" id="CM.entpspathway.362"/>
+ <entry term="ggcas1" name="ggcas1" id="CM.entpspathway.363"/>
+ <entry term="ggdp" name="ggdp" id="CM.entpspathway.364"/>
+ <entry term="ggpp" name="ggpp" id="CM.entpspathway.365"/>
+ <entry term="ggpp synthases " name="ggpp synthases " id="CM.entpspathway.366"/>
+ <entry term="ggpps" name="ggpps" id="CM.entpspathway.367"/>
+ <entry term="ggps " name="ggps " id="CM.entpspathway.368"/>
+ <entry term="ghtps1" name="ghtps1" id="CM.entpspathway.369"/>
+ <entry term="ghtps2" name="ghtps2" id="CM.entpspathway.370"/>
+ <entry term="ghtps3" name="ghtps3" id="CM.entpspathway.371"/>
+ <entry term="ghtps4" name="ghtps4" id="CM.entpspathway.372"/>
+ <entry term="ghtps5" name="ghtps5" id="CM.entpspathway.373"/>
+ <entry term="glyceraldehyde-3-phosphate " name="glyceraldehyde-3-phosphate " wikipedia="glyceraldehyde-3-phosphate " id="CM.entpspathway.374"/>
+ <entry term="gmnes" name="gmnes" id="CM.entpspathway.375"/>
+ <entry term="gpp" name="gpp" id="CM.entpspathway.376"/>
+ <entry term="gpp synthase " name="gpp synthase " id="CM.entpspathway.377"/>
+ <entry term="gps" name="gps" id="CM.entpspathway.378"/>
+ <entry term="grr" name="grr" wikipedia="grr" id="CM.entpspathway.379"/>
+ <entry term="gse" name="gse" id="CM.entpspathway.380"/>
+ <entry term="gss" name="gss" id="CM.entpspathway.381"/>
+ <entry term="hctps1" name="hctps1" id="CM.entpspathway.382"/>
+ <entry term="hctps2" name="hctps2" id="CM.entpspathway.383"/>
+ <entry term="hctps3" name="hctps3" id="CM.entpspathway.384"/>
+ <entry term="hctps4" name="hctps4" id="CM.entpspathway.385"/>
+ <entry term="hctps5" name="hctps5" id="CM.entpspathway.386"/>
+ <entry term="hctps6" name="hctps6" id="CM.entpspathway.387"/>
+ <entry term="hdr" name="hdr" wikipedia="hdr" id="CM.entpspathway.388"/>
+ <entry term="hdr " name="hdr " wikipedia="hdr " id="CM.entpspathway.389"/>
+ <entry term="hds" name="hds" wikipedia="hds" id="CM.entpspathway.390"/>
+ <entry term="hds " name="hds " wikipedia="hds " id="CM.entpspathway.391"/>
+ <entry term="hmbpp" name="hmbpp" wikipedia="hmbpp" id="CM.entpspathway.392"/>
+ <entry term="hmelos" name="hmelos" id="CM.entpspathway.393"/>
+ <entry term="hmg-coa" name="hmg-coa" id="CM.entpspathway.394"/>
+ <entry term="hmgr" name="hmgr" id="CM.entpspathway.395"/>
+ <entry term="hmgr " name="hmgr " id="CM.entpspathway.396"/>
+ <entry term="hmgs" name="hmgs" id="CM.entpspathway.397"/>
+ <entry term="hmgs " name="hmgs " id="CM.entpspathway.398"/>
+ <entry term="ipk" name="ipk" id="CM.entpspathway.399"/>
+ <entry term="ipp" name="ipp" wikipedia="ipp" id="CM.entpspathway.400"/>
+ <entry term="ippi" name="ippi" id="CM.entpspathway.401"/>
+ <entry term="ips" name="ips" wikipedia="ips" id="CM.entpspathway.402"/>
+ <entry term="ipsd " name="ipsd " id="CM.entpspathway.403"/>
+ <entry term="isopentenyl diphosphate" name="isopentenyl diphosphate" wikipedia="isopentenyl diphosphate" id="CM.entpspathway.404"/>
+ <entry term="isopentenyl diphosphate/ dimethylallyl diphosphate isomerase" name="isopentenyl diphosphate/ dimethylallyl diphosphate isomerase" id="CM.entpspathway.405"/>
+ <entry term="isopentenyl phosphate kinase" name="isopentenyl phosphate kinase" id="CM.entpspathway.406"/>
+ <entry term="isopimaradiene synthase" name="isopimaradiene synthase" id="CM.entpspathway.407"/>
+ <entry term="isoprene synthase" name="isoprene synthase" id="CM.entpspathway.408"/>
+ <entry term="isoprene synthase " name="isoprene synthase " id="CM.entpspathway.409"/>
+ <entry term="ispe" name="ispe" id="CM.entpspathway.410"/>
+ <entry term="ispf" name="ispf" id="CM.entpspathway.411"/>
+ <entry term="ispg" name="ispg" id="CM.entpspathway.412"/>
+ <entry term="isph" name="isph" id="CM.entpspathway.413"/>
+ <entry term="isps" name="isps" id="CM.entpspathway.414"/>
+ <entry term="kaurene synthase" name="kaurene synthase" id="CM.entpspathway.415"/>
+ <entry term="kaurene synthase3" name="kaurene synthase3" id="CM.entpspathway.416"/>
+ <entry term="kaurene synthase4" name="kaurene synthase4" id="CM.entpspathway.417"/>
+ <entry term="kaurene synthase6" name="kaurene synthase6" id="CM.entpspathway.418"/>
+ <entry term="kolavenyl diphosphate synthase tps5" name="kolavenyl diphosphate synthase tps5" id="CM.entpspathway.419"/>
+ <entry term="ks1" name="ks1" id="CM.entpspathway.420"/>
+ <entry term="ks10" name="ks10" id="CM.entpspathway.421"/>
+ <entry term="ks11" name="ks11" id="CM.entpspathway.422"/>
+ <entry term="ks2" name="ks2" id="CM.entpspathway.423"/>
+ <entry term="ks5" name="ks5" id="CM.entpspathway.424"/>
+ <entry term="ksa" name="ksa" id="CM.entpspathway.425"/>
+ <entry term="ksa_0" name="ksa_0" id="CM.entpspathway.426"/>
+ <entry term="ksa_1" name="ksa_1" id="CM.entpspathway.427"/>
+ <entry term="ksb" name="ksb" id="CM.entpspathway.428"/>
+ <entry term="ksl2" name="ksl2" id="CM.entpspathway.429"/>
+ <entry term="ksl3" name="ksl3" id="CM.entpspathway.430"/>
+ <entry term="ksl4" name="ksl4" id="CM.entpspathway.431"/>
+ <entry term="ksl5" name="ksl5" id="CM.entpspathway.432"/>
+ <entry term="ksl5ksl5" name="ksl5ksl5" id="CM.entpspathway.433"/>
+ <entry term="ksl6" name="ksl6" id="CM.entpspathway.434"/>
+ <entry term="ksl7" name="ksl7" id="CM.entpspathway.435"/>
+ <entry term="ksl7ksl7" name="ksl7ksl7" id="CM.entpspathway.436"/>
+ <entry term="ksl8" name="ksl8" id="CM.entpspathway.437"/>
+ <entry term="lalims" name="lalims" id="CM.entpspathway.438"/>
+ <entry term="lalins" name="lalins" id="CM.entpspathway.439"/>
+ <entry term="las1" name="las1" id="CM.entpspathway.440"/>
+ <entry term="lavandulyl" name="lavandulyl" id="CM.entpspathway.441"/>
+ <entry term="lavandulyl diphosphate" name="lavandulyl diphosphate" id="CM.entpspathway.442"/>
+ <entry term="lemts1" name="lemts1" id="CM.entpspathway.443"/>
+ <entry term="lemts2" name="lemts2" id="CM.entpspathway.444"/>
+ <entry term="lemts3" name="lemts3" id="CM.entpspathway.445"/>
+ <entry term="lemts4" name="lemts4" id="CM.entpspathway.446"/>
+ <entry term="lemts5" name="lemts5" id="CM.entpspathway.447"/>
+ <entry term="levopimaradiene synthase" name="levopimaradiene synthase" id="CM.entpspathway.448"/>
+ <entry term="limonene synthase" name="limonene synthase" wikipedia="limonene synthase" id="CM.entpspathway.449"/>
+ <entry term="linalool synthase" name="linalool synthase" wikipedia="linalool synthase" id="CM.entpspathway.450"/>
+ <entry term="linalool synthase'length" name="linalool synthase'length" id="CM.entpspathway.451"/>
+ <entry term="lis" name="lis" wikipedia="lis" id="CM.entpspathway.452"/>
+ <entry term="llos" name="llos" id="CM.entpspathway.453"/>
+ <entry term="llos1" name="llos1" id="CM.entpspathway.454"/>
+ <entry term="llos5" name="llos5" id="CM.entpspathway.455"/>
+ <entry term="lotps1" name="lotps1" id="CM.entpspathway.456"/>
+ <entry term="lotps2" name="lotps2" id="CM.entpspathway.457"/>
+ <entry term="lotps3" name="lotps3" id="CM.entpspathway.458"/>
+ <entry term="lotps4" name="lotps4" id="CM.entpspathway.459"/>
+ <entry term="lotps5" name="lotps5" id="CM.entpspathway.460"/>
+ <entry term="lotps6" name="lotps6" id="CM.entpspathway.461"/>
+ <entry term="lotps7" name="lotps7" id="CM.entpspathway.462"/>
+ <entry term="lotps8" name="lotps8" id="CM.entpspathway.463"/>
+ <entry term="lpp" name="lpp" id="CM.entpspathway.464"/>
+ <entry term="lpps" name="lpps" id="CM.entpspathway.465"/>
+ <entry term="lpps " name="lpps " id="CM.entpspathway.466"/>
+ <entry term="lps" name="lps" id="CM.entpspathway.467"/>
+ <entry term="ls" name="ls" wikipedia="ls" id="CM.entpspathway.468"/>
+ <entry term="lss" name="lss" id="CM.entpspathway.469"/>
+ <entry term="lup1" name="lup1" id="CM.entpspathway.470"/>
+ <entry term="lup2" name="lup2" id="CM.entpspathway.471"/>
+ <entry term="lup5" name="lup5" id="CM.entpspathway.472"/>
+ <entry term="mab16.1" name="mab16.1" id="CM.entpspathway.473"/>
+ <entry term="mbr3882" name="mbr3882" id="CM.entpspathway.474"/>
+ <entry term="mcs" name="mcs" wikipedia="mcs" id="CM.entpspathway.475"/>
+ <entry term="mct" name="mct" id="CM.entpspathway.476"/>
+ <entry term="mctps1" name="mctps1" id="CM.entpspathway.477"/>
+ <entry term="mdd" name="mdd" id="CM.entpspathway.478"/>
+ <entry term="mdn11.20" name="mdn11.20" id="CM.entpspathway.479"/>
+ <entry term="mds " name="mds " wikipedia="mds " id="CM.entpspathway.480"/>
+ <entry term="me-cdp" name="me-cdp" id="CM.entpspathway.481"/>
+ <entry term="mecdp " name="mecdp " id="CM.entpspathway.482"/>
+ <entry term="mecpp" name="mecpp" id="CM.entpspathway.483"/>
+ <entry term="mep" name="mep" id="CM.entpspathway.484"/>
+ <entry term="mercene synthase" name="mercene synthase" id="CM.entpspathway.485"/>
+ <entry term="mevalonate" name="mevalonate" wikipedia="mevalonate" id="CM.entpspathway.486"/>
+ <entry term="mevalonate 5-phosphate" name="mevalonate 5-phosphate" id="CM.entpspathway.487"/>
+ <entry term="mevalonate diphosphate decarboxylase" name="mevalonate diphosphate decarboxylase" id="CM.entpspathway.488"/>
+ <entry term="mevalonate diphosphate decarboxylase " name="mevalonate diphosphate decarboxylase " id="CM.entpspathway.489"/>
+ <entry term="mevalonate-5-phosphate" name="mevalonate-5-phosphate" id="CM.entpspathway.490"/>
+ <entry term="mevalonate-diphosphate" name="mevalonate-diphosphate" id="CM.entpspathway.491"/>
+ <entry term="mfo20.1" name="mfo20.1" id="CM.entpspathway.492"/>
+ <entry term="microbial terpene synthase-like protein 13 (smmtpsl13)" name="microbial terpene synthase-like protein 13 (smmtpsl13)" id="CM.entpspathway.493"/>
+ <entry term="microbial terpene synthase-like protein 30 (smmtpsl30)" name="microbial terpene synthase-like protein 30 (smmtpsl30)" id="CM.entpspathway.494"/>
+ <entry term="mie1.2" name="mie1.2" id="CM.entpspathway.495"/>
+ <entry term="mie1.4mie1.4" name="mie1.4mie1.4" id="CM.entpspathway.496"/>
+ <entry term="miltiradiene synthase" name="miltiradiene synthase" id="CM.entpspathway.497"/>
+ <entry term="miltiradiene synthase ksl2" name="miltiradiene synthase ksl2" id="CM.entpspathway.498"/>
+ <entry term="mjl12.5" name="mjl12.5" id="CM.entpspathway.499"/>
+ <entry term="mk" name="mk" wikipedia="mk" id="CM.entpspathway.500"/>
+ <entry term="mktps1" name="mktps1" id="CM.entpspathway.501"/>
+ <entry term="mktps2" name="mktps2" id="CM.entpspathway.502"/>
+ <entry term="mktps3" name="mktps3" id="CM.entpspathway.503"/>
+ <entry term="mktps4" name="mktps4" id="CM.entpspathway.504"/>
+ <entry term="mktps5" name="mktps5" id="CM.entpspathway.505"/>
+ <entry term="moa2.12" name="moa2.12" id="CM.entpspathway.506"/>
+ <entry term="monofunctional isopimaradiene synthase" name="monofunctional isopimaradiene synthase" id="CM.entpspathway.507"/>
+ <entry term="monoterpene synthase" name="monoterpene synthase" id="CM.entpspathway.508"/>
+ <entry term="monoterpene synthase 2" name="monoterpene synthase 2" id="CM.entpspathway.509"/>
+ <entry term="monoterpene synthase-like protein" name="monoterpene synthase-like protein" id="CM.entpspathway.510"/>
+ <entry term="monotps" name="monotps" id="CM.entpspathway.511"/>
+ <entry term="monotps1" name="monotps1" id="CM.entpspathway.512"/>
+ <entry term="monotps2" name="monotps2" id="CM.entpspathway.513"/>
+ <entry term="monotps3" name="monotps3" id="CM.entpspathway.514"/>
+ <entry term="monotps4" name="monotps4" id="CM.entpspathway.515"/>
+ <entry term="monotps5" name="monotps5" id="CM.entpspathway.516"/>
+ <entry term="mpdc" name="mpdc" id="CM.entpspathway.517"/>
+ <entry term="mpdc " name="mpdc " id="CM.entpspathway.518"/>
+ <entry term="mrn1" name="mrn1" id="CM.entpspathway.519"/>
+ <entry term="mrtps1" name="mrtps1" id="CM.entpspathway.520"/>
+ <entry term="mrtps2" name="mrtps2" id="CM.entpspathway.521"/>
+ <entry term="mrtps3" name="mrtps3" id="CM.entpspathway.522"/>
+ <entry term="mrtps4" name="mrtps4" id="CM.entpspathway.523"/>
+ <entry term="mrtps5" name="mrtps5" id="CM.entpspathway.524"/>
+ <entry term="mstps1" name="mstps1" id="CM.entpspathway.525"/>
+ <entry term="mstps2" name="mstps2" id="CM.entpspathway.526"/>
+ <entry term="mstps3" name="mstps3" id="CM.entpspathway.527"/>
+ <entry term="mstps4" name="mstps4" id="CM.entpspathway.528"/>
+ <entry term="mstps5" name="mstps5" id="CM.entpspathway.529"/>
+ <entry term="mtebos" name="mtebos" id="CM.entpspathway.530"/>
+ <entry term="mtps" name="mtps" id="CM.entpspathway.531"/>
+ <entry term="mts" name="mts" wikipedia="mts" id="CM.entpspathway.532"/>
+ <entry term="mts1" name="mts1" id="CM.entpspathway.533"/>
+ <entry term="mttps1" name="mttps1" id="CM.entpspathway.534"/>
+ <entry term="mttps2" name="mttps2" id="CM.entpspathway.535"/>
+ <entry term="mttps3" name="mttps3" id="CM.entpspathway.536"/>
+ <entry term="mttps4" name="mttps4" id="CM.entpspathway.537"/>
+ <entry term="mttps5" name="mttps5" id="CM.entpspathway.538"/>
+ <entry term="mttps6" name="mttps6" id="CM.entpspathway.539"/>
+ <entry term="muo10.2" name="muo10.2" id="CM.entpspathway.540"/>
+ <entry term="mvap" name="mvap" id="CM.entpspathway.541"/>
+ <entry term="mvd " name="mvd " wikipedia="mvd " id="CM.entpspathway.542"/>
+ <entry term="mxe2.1" name="mxe2.1" id="CM.entpspathway.543"/>
+ <entry term="mxo21.3" name="mxo21.3" id="CM.entpspathway.544"/>
+ <entry term="myrcene synthase" name="myrcene synthase" id="CM.entpspathway.545"/>
+ <entry term="myrcene synthase protein" name="myrcene synthase protein" id="CM.entpspathway.546"/>
+ <entry term="myrs" name="myrs" id="CM.entpspathway.547"/>
+ <entry term="ndps1" name="ndps1" id="CM.entpspathway.548"/>
+ <entry term="ndps1 " name="ndps1 " id="CM.entpspathway.549"/>
+ <entry term="nerolidol synthase" name="nerolidol synthase" id="CM.entpspathway.550"/>
+ <entry term="neryl diphosphate " name="neryl diphosphate " id="CM.entpspathway.551"/>
+ <entry term="neryldiphosphate" name="neryldiphosphate" id="CM.entpspathway.552"/>
+ <entry term="nerylneryl diphosphate " name="nerylneryl diphosphate " id="CM.entpspathway.553"/>
+ <entry term="nerylneryl diphosphate synthase" name="nerylneryl diphosphate synthase" id="CM.entpspathway.554"/>
+ <entry term="nerylneryl diphosphate synthase " name="nerylneryl diphosphate synthase " id="CM.entpspathway.555"/>
+ <entry term="nes" name="nes" wikipedia="nes" id="CM.entpspathway.556"/>
+ <entry term="nes1" name="nes1" id="CM.entpspathway.557"/>
+ <entry term="nndps " name="nndps " id="CM.entpspathway.558"/>
+ <entry term="nnpp" name="nnpp" id="CM.entpspathway.559"/>
+ <entry term="nnpp " name="nnpp " id="CM.entpspathway.560"/>
+ <entry term="npp" name="npp" id="CM.entpspathway.561"/>
+ <entry term="npp synthase" name="npp synthase" id="CM.entpspathway.562"/>
+ <entry term="nudx1" name="nudx1" id="CM.entpspathway.563"/>
+ <entry term="o-methyltransferase" name="o-methyltransferase" wikipedia="o-methyltransferase" id="CM.entpspathway.564"/>
+ <entry term="ocimene synthase" name="ocimene synthase" id="CM.entpspathway.565"/>
+ <entry term="oftps1" name="oftps1" id="CM.entpspathway.566"/>
+ <entry term="oftps2" name="oftps2" id="CM.entpspathway.567"/>
+ <entry term="oftps3" name="oftps3" id="CM.entpspathway.568"/>
+ <entry term="oftps4" name="oftps4" id="CM.entpspathway.569"/>
+ <entry term="oftps5" name="oftps5" id="CM.entpspathway.570"/>
+ <entry term="oligoprenyl diphosphate" name="oligoprenyl diphosphate" id="CM.entpspathway.571"/>
+ <entry term="omt" name="omt" id="CM.entpspathway.572"/>
+ <entry term="opp" name="opp" wikipedia="opp" id="CM.entpspathway.573"/>
+ <entry term="opp synthase" name="opp synthase" id="CM.entpspathway.574"/>
+ <entry term="ops" name="ops" wikipedia="ops" id="CM.entpspathway.575"/>
+ <entry term="ostps1" name="ostps1" id="CM.entpspathway.576"/>
+ <entry term="ostps10" name="ostps10" id="CM.entpspathway.577"/>
+ <entry term="ostps11" name="ostps11" id="CM.entpspathway.578"/>
+ <entry term="ostps12" name="ostps12" id="CM.entpspathway.579"/>
+ <entry term="ostps13" name="ostps13" id="CM.entpspathway.580"/>
+ <entry term="ostps14" name="ostps14" id="CM.entpspathway.581"/>
+ <entry term="ostps15" name="ostps15" id="CM.entpspathway.582"/>
+ <entry term="ostps16" name="ostps16" id="CM.entpspathway.583"/>
+ <entry term="ostps17" name="ostps17" id="CM.entpspathway.584"/>
+ <entry term="ostps18" name="ostps18" id="CM.entpspathway.585"/>
+ <entry term="ostps19" name="ostps19" id="CM.entpspathway.586"/>
+ <entry term="ostps2" name="ostps2" id="CM.entpspathway.587"/>
+ <entry term="ostps20" name="ostps20" id="CM.entpspathway.588"/>
+ <entry term="ostps21" name="ostps21" id="CM.entpspathway.589"/>
+ <entry term="ostps22" name="ostps22" id="CM.entpspathway.590"/>
+ <entry term="ostps23" name="ostps23" id="CM.entpspathway.591"/>
+ <entry term="ostps24" name="ostps24" id="CM.entpspathway.592"/>
+ <entry term="ostps25" name="ostps25" id="CM.entpspathway.593"/>
+ <entry term="ostps26" name="ostps26" id="CM.entpspathway.594"/>
+ <entry term="ostps27" name="ostps27" id="CM.entpspathway.595"/>
+ <entry term="ostps28" name="ostps28" id="CM.entpspathway.596"/>
+ <entry term="ostps29" name="ostps29" id="CM.entpspathway.597"/>
+ <entry term="ostps3" name="ostps3" id="CM.entpspathway.598"/>
+ <entry term="ostps30" name="ostps30" id="CM.entpspathway.599"/>
+ <entry term="ostps31" name="ostps31" id="CM.entpspathway.600"/>
+ <entry term="ostps32" name="ostps32" id="CM.entpspathway.601"/>
+ <entry term="ostps33" name="ostps33" id="CM.entpspathway.602"/>
+ <entry term="ostps34" name="ostps34" id="CM.entpspathway.603"/>
+ <entry term="ostps35" name="ostps35" id="CM.entpspathway.604"/>
+ <entry term="ostps4" name="ostps4" id="CM.entpspathway.605"/>
+ <entry term="ostps5" name="ostps5" id="CM.entpspathway.606"/>
+ <entry term="ostps6" name="ostps6" id="CM.entpspathway.607"/>
+ <entry term="ostps7" name="ostps7" id="CM.entpspathway.608"/>
+ <entry term="ostps8" name="ostps8" id="CM.entpspathway.609"/>
+ <entry term="ostps9" name="ostps9" id="CM.entpspathway.610"/>
+ <entry term="oxidosqualene" name="oxidosqualene" id="CM.entpspathway.611"/>
+ <entry term="pancps" name="pancps" id="CM.entpspathway.612"/>
+ <entry term="panks" name="panks" id="CM.entpspathway.613"/>
+ <entry term="patchoulol synthase" name="patchoulol synthase" id="CM.entpspathway.614"/>
+ <entry term="pbtps1" name="pbtps1" id="CM.entpspathway.615"/>
+ <entry term="pbtps2" name="pbtps2" id="CM.entpspathway.616"/>
+ <entry term="pbtps3" name="pbtps3" id="CM.entpspathway.617"/>
+ <entry term="pbtps4" name="pbtps4" id="CM.entpspathway.618"/>
+ <entry term="pbtps5" name="pbtps5" id="CM.entpspathway.619"/>
+ <entry term="peas" name="peas" id="CM.entpspathway.620"/>
+ <entry term="pen1" name="pen1" id="CM.entpspathway.621"/>
+ <entry term="pen2" name="pen2" wikipedia="pen2" id="CM.entpspathway.622"/>
+ <entry term="pen3" name="pen3" id="CM.entpspathway.623"/>
+ <entry term="pen6" name="pen6" id="CM.entpspathway.624"/>
+ <entry term="pen7" name="pen7" id="CM.entpspathway.625"/>
+ <entry term="peregrinol diphosphate synthase " name="peregrinol diphosphate synthase " id="CM.entpspathway.626"/>
+ <entry term="peregrinol diphosphate synthase tps1" name="peregrinol diphosphate synthase tps1" id="CM.entpspathway.627"/>
+ <entry term="phytoene synthase" name="phytoene synthase" id="CM.entpspathway.628"/>
+ <entry term="pinene synthase" name="pinene synthase" id="CM.entpspathway.629"/>
+ <entry term="pks1" name="pks1" id="CM.entpspathway.630"/>
+ <entry term="pltps1" name="pltps1" id="CM.entpspathway.631"/>
+ <entry term="pltps2" name="pltps2" id="CM.entpspathway.632"/>
+ <entry term="pltps3" name="pltps3" id="CM.entpspathway.633"/>
+ <entry term="pltps4" name="pltps4" id="CM.entpspathway.634"/>
+ <entry term="pltps5" name="pltps5" id="CM.entpspathway.635"/>
+ <entry term="pmk" name="pmk" id="CM.entpspathway.636"/>
+ <entry term="pntps1" name="pntps1" id="CM.entpspathway.637"/>
+ <entry term="pntps2" name="pntps2" id="CM.entpspathway.638"/>
+ <entry term="pntps3" name="pntps3" id="CM.entpspathway.639"/>
+ <entry term="pntps4" name="pntps4" id="CM.entpspathway.640"/>
+ <entry term="pntps5" name="pntps5" id="CM.entpspathway.641"/>
+ <entry term="pny2" name="pny2" id="CM.entpspathway.642"/>
+ <entry term="polyprenyl di(pyro)phosphate synthase " name="polyprenyl di(pyro)phosphate synthase " id="CM.entpspathway.643"/>
+ <entry term="ppase" name="ppase" id="CM.entpspathway.644"/>
+ <entry term="ppcps/ks" name="ppcps/ks" id="CM.entpspathway.645"/>
+ <entry term="ppp" name="ppp" wikipedia="ppp" id="CM.entpspathway.646"/>
+ <entry term="pps" name="pps" wikipedia="pps" id="CM.entpspathway.647"/>
+ <entry term="pps " name="pps " wikipedia="pps " id="CM.entpspathway.648"/>
+ <entry term="pptps1" name="pptps1" id="CM.entpspathway.649"/>
+ <entry term="pptps2" name="pptps2" id="CM.entpspathway.650"/>
+ <entry term="pptps3" name="pptps3" id="CM.entpspathway.651"/>
+ <entry term="pptps4" name="pptps4" id="CM.entpspathway.652"/>
+ <entry term="pptps5" name="pptps5" id="CM.entpspathway.653"/>
+ <entry term="premnaspirodiene oxygenase" name="premnaspirodiene oxygenase" id="CM.entpspathway.654"/>
+ <entry term="prenyltransferase" name="prenyltransferase" wikipedia="prenyltransferase" id="CM.entpspathway.655"/>
+ <entry term="prenytransferase" name="prenytransferase" id="CM.entpspathway.656"/>
+ <entry term="protein expression of terpenoids 1" name="protein expression of terpenoids 1" id="CM.entpspathway.657"/>
+ <entry term="pseudolaratriene synthase" name="pseudolaratriene synthase" id="CM.entpspathway.658"/>
+ <entry term="pstps1" name="pstps1" id="CM.entpspathway.659"/>
+ <entry term="pstps2" name="pstps2" id="CM.entpspathway.660"/>
+ <entry term="pstps3" name="pstps3" id="CM.entpspathway.661"/>
+ <entry term="pstps4" name="pstps4" id="CM.entpspathway.662"/>
+ <entry term="pstps5" name="pstps5" id="CM.entpspathway.663"/>
+ <entry term="pt" name="pt" wikipedia="pt" id="CM.entpspathway.664"/>
+ <entry term="ptase" name="ptase" id="CM.entpspathway.665"/>
+ <entry term="pttps1" name="pttps1" id="CM.entpspathway.666"/>
+ <entry term="pttps10" name="pttps10" id="CM.entpspathway.667"/>
+ <entry term="pttps11" name="pttps11" id="CM.entpspathway.668"/>
+ <entry term="pttps12" name="pttps12" id="CM.entpspathway.669"/>
+ <entry term="pttps13" name="pttps13" id="CM.entpspathway.670"/>
+ <entry term="pttps14" name="pttps14" id="CM.entpspathway.671"/>
+ <entry term="pttps15" name="pttps15" id="CM.entpspathway.672"/>
+ <entry term="pttps16" name="pttps16" id="CM.entpspathway.673"/>
+ <entry term="pttps17" name="pttps17" id="CM.entpspathway.674"/>
+ <entry term="pttps18" name="pttps18" id="CM.entpspathway.675"/>
+ <entry term="pttps19" name="pttps19" id="CM.entpspathway.676"/>
+ <entry term="pttps2" name="pttps2" id="CM.entpspathway.677"/>
+ <entry term="pttps20" name="pttps20" id="CM.entpspathway.678"/>
+ <entry term="pttps21" name="pttps21" id="CM.entpspathway.679"/>
+ <entry term="pttps22" name="pttps22" id="CM.entpspathway.680"/>
+ <entry term="pttps23" name="pttps23" id="CM.entpspathway.681"/>
+ <entry term="pttps24" name="pttps24" id="CM.entpspathway.682"/>
+ <entry term="pttps25" name="pttps25" id="CM.entpspathway.683"/>
+ <entry term="pttps26" name="pttps26" id="CM.entpspathway.684"/>
+ <entry term="pttps27" name="pttps27" id="CM.entpspathway.685"/>
+ <entry term="pttps28" name="pttps28" id="CM.entpspathway.686"/>
+ <entry term="pttps29" name="pttps29" id="CM.entpspathway.687"/>
+ <entry term="pttps3" name="pttps3" id="CM.entpspathway.688"/>
+ <entry term="pttps30" name="pttps30" id="CM.entpspathway.689"/>
+ <entry term="pttps31" name="pttps31" id="CM.entpspathway.690"/>
+ <entry term="pttps32" name="pttps32" id="CM.entpspathway.691"/>
+ <entry term="pttps33" name="pttps33" id="CM.entpspathway.692"/>
+ <entry term="pttps34" name="pttps34" id="CM.entpspathway.693"/>
+ <entry term="pttps35" name="pttps35" id="CM.entpspathway.694"/>
+ <entry term="pttps4" name="pttps4" id="CM.entpspathway.695"/>
+ <entry term="pttps5" name="pttps5" id="CM.entpspathway.696"/>
+ <entry term="pttps6" name="pttps6" id="CM.entpspathway.697"/>
+ <entry term="pttps7" name="pttps7" id="CM.entpspathway.698"/>
+ <entry term="pttps8" name="pttps8" id="CM.entpspathway.699"/>
+ <entry term="pttps9" name="pttps9" id="CM.entpspathway.700"/>
+ <entry term="pup8" name="pup8" id="CM.entpspathway.701"/>
+ <entry term="pvs1" name="pvs1" id="CM.entpspathway.702"/>
+ <entry term="pyrophosphatase; " name="pyrophosphatase; " wikipedia="pyrophosphatase; " id="CM.entpspathway.703"/>
+ <entry term="pyruvate" name="pyruvate" wikipedia="pyruvate" id="CM.entpspathway.704"/>
+ <entry term="pys" name="pys" wikipedia="pys" id="CM.entpspathway.705"/>
+ <entry term="r-linalool synthase" name="r-linalool synthase" id="CM.entpspathway.706"/>
+ <entry term="rttps1" name="rttps1" id="CM.entpspathway.707"/>
+ <entry term="rttps2" name="rttps2" id="CM.entpspathway.708"/>
+ <entry term="rttps3" name="rttps3" id="CM.entpspathway.709"/>
+ <entry term="rttps4" name="rttps4" id="CM.entpspathway.710"/>
+ <entry term="rttps5" name="rttps5" id="CM.entpspathway.711"/>
+ <entry term="s-(+)-linalool synthase" name="s-(+)-linalool synthase" id="CM.entpspathway.712"/>
+ <entry term="s-(+)-linalool synthase chloroplastic" name="s-(+)-linalool synthase chloroplastic" id="CM.entpspathway.713"/>
+ <entry term="s-+-linalool synthase" name="s-+-linalool synthase" id="CM.entpspathway.714"/>
+ <entry term="s-linalool synthase" name="s-linalool synthase" id="CM.entpspathway.715"/>
+ <entry term="s-linalool synthase " name="s-linalool synthase " id="CM.entpspathway.716"/>
+ <entry term="s-linalool synthase-like" name="s-linalool synthase-like" id="CM.entpspathway.717"/>
+ <entry term="sabinene synthase" name="sabinene synthase" id="CM.entpspathway.718"/>
+ <entry term="santalene and bergamotene synthase" name="santalene and bergamotene synthase" id="CM.entpspathway.719"/>
+ <entry term="sbs" name="sbs" wikipedia="sbs" id="CM.entpspathway.720"/>
+ <entry term="sbtps1" name="sbtps1" id="CM.entpspathway.721"/>
+ <entry term="sbtps2" name="sbtps2" id="CM.entpspathway.722"/>
+ <entry term="sbtps3" name="sbtps3" id="CM.entpspathway.723"/>
+ <entry term="sbtps4" name="sbtps4" id="CM.entpspathway.724"/>
+ <entry term="sbtps5" name="sbtps5" id="CM.entpspathway.725"/>
+ <entry term="sclareol synthase" name="sclareol synthase" id="CM.entpspathway.726"/>
+ <entry term="selinene synthase os" name="selinene synthase os" id="CM.entpspathway.727"/>
+ <entry term="sesquiterpene cyclase" name="sesquiterpene cyclase" wikipedia="sesquiterpene cyclase" id="CM.entpspathway.728"/>
+ <entry term="sesquiterpene cyclase1" name="sesquiterpene cyclase1" id="CM.entpspathway.729"/>
+ <entry term="sesquiterpene synthase" name="sesquiterpene synthase" id="CM.entpspathway.730"/>
+ <entry term="sesquiterpene synthase 1" name="sesquiterpene synthase 1" id="CM.entpspathway.731"/>
+ <entry term="sesquiterpene synthase 1'length" name="sesquiterpene synthase 1'length" id="CM.entpspathway.732"/>
+ <entry term="sesquithujene synthase" name="sesquithujene synthase" id="CM.entpspathway.733"/>
+ <entry term="sesquithujene synthase " name="sesquithujene synthase " id="CM.entpspathway.734"/>
+ <entry term="sesquithujene synthase a" name="sesquithujene synthase a" id="CM.entpspathway.735"/>
+ <entry term="sesquithujene synthase b" name="sesquithujene synthase b" id="CM.entpspathway.736"/>
+ <entry term="sesterterpene synthase " name="sesterterpene synthase " id="CM.entpspathway.737"/>
+ <entry term="slcpt" name="slcpt" id="CM.entpspathway.738"/>
+ <entry term="sleot1" name="sleot1" id="CM.entpspathway.739"/>
+ <entry term="sltps1" name="sltps1" id="CM.entpspathway.740"/>
+ <entry term="sltps10" name="sltps10" id="CM.entpspathway.741"/>
+ <entry term="sltps11" name="sltps11" id="CM.entpspathway.742"/>
+ <entry term="sltps12" name="sltps12" id="CM.entpspathway.743"/>
+ <entry term="sltps13" name="sltps13" id="CM.entpspathway.744"/>
+ <entry term="sltps14" name="sltps14" id="CM.entpspathway.745"/>
+ <entry term="sltps15" name="sltps15" id="CM.entpspathway.746"/>
+ <entry term="sltps16" name="sltps16" id="CM.entpspathway.747"/>
+ <entry term="sltps17" name="sltps17" id="CM.entpspathway.748"/>
+ <entry term="sltps18" name="sltps18" id="CM.entpspathway.749"/>
+ <entry term="sltps19" name="sltps19" id="CM.entpspathway.750"/>
+ <entry term="sltps2" name="sltps2" id="CM.entpspathway.751"/>
+ <entry term="sltps20" name="sltps20" id="CM.entpspathway.752"/>
+ <entry term="sltps21" name="sltps21" id="CM.entpspathway.753"/>
+ <entry term="sltps22" name="sltps22" id="CM.entpspathway.754"/>
+ <entry term="sltps23" name="sltps23" id="CM.entpspathway.755"/>
+ <entry term="sltps24" name="sltps24" id="CM.entpspathway.756"/>
+ <entry term="sltps25" name="sltps25" id="CM.entpspathway.757"/>
+ <entry term="sltps26" name="sltps26" id="CM.entpspathway.758"/>
+ <entry term="sltps27" name="sltps27" id="CM.entpspathway.759"/>
+ <entry term="sltps28" name="sltps28" id="CM.entpspathway.760"/>
+ <entry term="sltps29" name="sltps29" id="CM.entpspathway.761"/>
+ <entry term="sltps3" name="sltps3" id="CM.entpspathway.762"/>
+ <entry term="sltps30" name="sltps30" id="CM.entpspathway.763"/>
+ <entry term="sltps31" name="sltps31" id="CM.entpspathway.764"/>
+ <entry term="sltps32" name="sltps32" id="CM.entpspathway.765"/>
+ <entry term="sltps33" name="sltps33" id="CM.entpspathway.766"/>
+ <entry term="sltps34" name="sltps34" id="CM.entpspathway.767"/>
+ <entry term="sltps35" name="sltps35" id="CM.entpspathway.768"/>
+ <entry term="sltps36" name="sltps36" id="CM.entpspathway.769"/>
+ <entry term="sltps37" name="sltps37" id="CM.entpspathway.770"/>
+ <entry term="sltps38" name="sltps38" id="CM.entpspathway.771"/>
+ <entry term="sltps39" name="sltps39" id="CM.entpspathway.772"/>
+ <entry term="sltps4" name="sltps4" id="CM.entpspathway.773"/>
+ <entry term="sltps40" name="sltps40" id="CM.entpspathway.774"/>
+ <entry term="sltps41" name="sltps41" id="CM.entpspathway.775"/>
+ <entry term="sltps42" name="sltps42" id="CM.entpspathway.776"/>
+ <entry term="sltps43" name="sltps43" id="CM.entpspathway.777"/>
+ <entry term="sltps44" name="sltps44" id="CM.entpspathway.778"/>
+ <entry term="sltps45" name="sltps45" id="CM.entpspathway.779"/>
+ <entry term="sltps46" name="sltps46" id="CM.entpspathway.780"/>
+ <entry term="sltps47" name="sltps47" id="CM.entpspathway.781"/>
+ <entry term="sltps48" name="sltps48" id="CM.entpspathway.782"/>
+ <entry term="sltps49" name="sltps49" id="CM.entpspathway.783"/>
+ <entry term="sltps5" name="sltps5" id="CM.entpspathway.784"/>
+ <entry term="sltps50" name="sltps50" id="CM.entpspathway.785"/>
+ <entry term="sltps51" name="sltps51" id="CM.entpspathway.786"/>
+ <entry term="sltps6" name="sltps6" id="CM.entpspathway.787"/>
+ <entry term="sltps7" name="sltps7" id="CM.entpspathway.788"/>
+ <entry term="sltps8" name="sltps8" id="CM.entpspathway.789"/>
+ <entry term="sltps9" name="sltps9" id="CM.entpspathway.790"/>
+ <entry term="smstps1" name="smstps1" id="CM.entpspathway.791"/>
+ <entry term="smstps2" name="smstps2" id="CM.entpspathway.792"/>
+ <entry term="smstps3" name="smstps3" id="CM.entpspathway.793"/>
+ <entry term="smstps4" name="smstps4" id="CM.entpspathway.794"/>
+ <entry term="smstps5" name="smstps5" id="CM.entpspathway.795"/>
+ <entry term="solanesyl diphosphate synthase" name="solanesyl diphosphate synthase" wikipedia="solanesyl diphosphate synthase" id="CM.entpspathway.796"/>
+ <entry term="spp" name="spp" wikipedia="spp" id="CM.entpspathway.797"/>
+ <entry term="sps" name="sps" wikipedia="sps" id="CM.entpspathway.798"/>
+ <entry term="sqe" name="sqe" id="CM.entpspathway.799"/>
+ <entry term="sqe1" name="sqe1" id="CM.entpspathway.800"/>
+ <entry term="sqs" name="sqs" id="CM.entpspathway.801"/>
+ <entry term="sqs1" name="sqs1" id="CM.entpspathway.802"/>
+ <entry term="sqs7" name="sqs7" id="CM.entpspathway.803"/>
+ <entry term="squalence" name="squalence" id="CM.entpspathway.804"/>
+ <entry term="squalene" name="squalene" wikipedia="squalene" id="CM.entpspathway.805"/>
+ <entry term="squalene synthase " name="squalene synthase " wikipedia="squalene synthase " id="CM.entpspathway.806"/>
+ <entry term="srtps" name="srtps" id="CM.entpspathway.807"/>
+ <entry term="ss" name="ss" wikipedia="ss" id="CM.entpspathway.808"/>
+ <entry term="sstle1" name="sstle1" id="CM.entpspathway.809"/>
+ <entry term="sstle1_0" name="sstle1_0" id="CM.entpspathway.810"/>
+ <entry term="stemar-13-ene synthase" name="stemar-13-ene synthase" id="CM.entpspathway.811"/>
+ <entry term="stemar-13-ene synthase " name="stemar-13-ene synthase " id="CM.entpspathway.812"/>
+ <entry term="stemod-13(17)-ene synthase (fragment)" name="stemod-13(17)-ene synthase (fragment)" id="CM.entpspathway.813"/>
+ <entry term="stps" name="stps" id="CM.entpspathway.814"/>
+ <entry term="stps1" name="stps1" id="CM.entpspathway.815"/>
+ <entry term="stps2" name="stps2" id="CM.entpspathway.816"/>
+ <entry term="stps3" name="stps3" id="CM.entpspathway.817"/>
+ <entry term="sts" name="sts" id="CM.entpspathway.818"/>
+ <entry term="syn-copalyl diphosphate synthase" name="syn-copalyl diphosphate synthase" id="CM.entpspathway.819"/>
+ <entry term="syn-copalyl diphosphate synthase-like" name="syn-copalyl diphosphate synthase-like" id="CM.entpspathway.820"/>
+ <entry term="syn-copalyl-diphosphate synthase" name="syn-copalyl-diphosphate synthase" id="CM.entpspathway.821"/>
+ <entry term="syn-copalyl-diphosphate synthase " name="syn-copalyl-diphosphate synthase " id="CM.entpspathway.822"/>
+ <entry term="syn-cpp synthase" name="syn-cpp synthase" id="CM.entpspathway.823"/>
+ <entry term="syn-stemar-13-ene synthase" name="syn-stemar-13-ene synthase" id="CM.entpspathway.824"/>
+ <entry term="tacps1" name="tacps1" id="CM.entpspathway.825"/>
+ <entry term="taksl1" name="taksl1" id="CM.entpspathway.826"/>
+ <entry term="tasy" name="tasy" wikipedia="tasy" id="CM.entpspathway.827"/>
+ <entry term="terpene cyclase" name="terpene cyclase" id="CM.entpspathway.828"/>
+ <entry term="terpene synthase" name="terpene synthase" id="CM.entpspathway.829"/>
+ <entry term="terpene synthase 02" name="terpene synthase 02" id="CM.entpspathway.830"/>
+ <entry term="terpene synthase 03" name="terpene synthase 03" id="CM.entpspathway.831"/>
+ <entry term="terpene synthase 1" name="terpene synthase 1" id="CM.entpspathway.832"/>
+ <entry term="terpene synthase 10" name="terpene synthase 10" id="CM.entpspathway.833"/>
+ <entry term="terpene synthase 10 (fragment)" name="terpene synthase 10 (fragment)" id="CM.entpspathway.834"/>
+ <entry term="terpene synthase 10-like" name="terpene synthase 10-like" id="CM.entpspathway.835"/>
+ <entry term="terpene synthase 10-like protein" name="terpene synthase 10-like protein" id="CM.entpspathway.836"/>
+ <entry term="terpene synthase 14" name="terpene synthase 14" id="CM.entpspathway.837"/>
+ <entry term="terpene synthase 2" name="terpene synthase 2" id="CM.entpspathway.838"/>
+ <entry term="terpene synthase 21" name="terpene synthase 21" id="CM.entpspathway.839"/>
+ <entry term="terpene synthase 3" name="terpene synthase 3" id="CM.entpspathway.840"/>
+ <entry term="terpene synthase 4" name="terpene synthase 4" id="CM.entpspathway.841"/>
+ <entry term="terpene synthase 6" name="terpene synthase 6" id="CM.entpspathway.842"/>
+ <entry term="terpene synthase 7" name="terpene synthase 7" id="CM.entpspathway.843"/>
+ <entry term="terpene synthase 8" name="terpene synthase 8" id="CM.entpspathway.844"/>
+ <entry term="terpene synthase 9" name="terpene synthase 9" id="CM.entpspathway.845"/>
+ <entry term="terpene synthase family" name="terpene synthase family" id="CM.entpspathway.846"/>
+ <entry term="terpene synthase like-10" name="terpene synthase like-10" id="CM.entpspathway.847"/>
+ <entry term="terpene synthase like-11" name="terpene synthase like-11" id="CM.entpspathway.848"/>
+ <entry term="terpene synthase like-12" name="terpene synthase like-12" id="CM.entpspathway.849"/>
+ <entry term="terpene synthase like-13" name="terpene synthase like-13" id="CM.entpspathway.850"/>
+ <entry term="terpene synthase like-14" name="terpene synthase like-14" id="CM.entpspathway.851"/>
+ <entry term="terpene synthase like-15" name="terpene synthase like-15" id="CM.entpspathway.852"/>
+ <entry term="terpene synthase like-16" name="terpene synthase like-16" id="CM.entpspathway.853"/>
+ <entry term="terpene synthase like-17" name="terpene synthase like-17" id="CM.entpspathway.854"/>
+ <entry term="terpene synthase like-18" name="terpene synthase like-18" id="CM.entpspathway.855"/>
+ <entry term="terpene synthase like-19" name="terpene synthase like-19" id="CM.entpspathway.856"/>
+ <entry term="terpene synthase like-2" name="terpene synthase like-2" id="CM.entpspathway.857"/>
+ <entry term="terpene synthase like-20" name="terpene synthase like-20" id="CM.entpspathway.858"/>
+ <entry term="terpene synthase like-21" name="terpene synthase like-21" id="CM.entpspathway.859"/>
+ <entry term="terpene synthase like-22" name="terpene synthase like-22" id="CM.entpspathway.860"/>
+ <entry term="terpene synthase like-23" name="terpene synthase like-23" id="CM.entpspathway.861"/>
+ <entry term="terpene synthase like-24" name="terpene synthase like-24" id="CM.entpspathway.862"/>
+ <entry term="terpene synthase like-25" name="terpene synthase like-25" id="CM.entpspathway.863"/>
+ <entry term="terpene synthase like-26" name="terpene synthase like-26" id="CM.entpspathway.864"/>
+ <entry term="terpene synthase like-27" name="terpene synthase like-27" id="CM.entpspathway.865"/>
+ <entry term="terpene synthase like-28" name="terpene synthase like-28" id="CM.entpspathway.866"/>
+ <entry term="terpene synthase like-29" name="terpene synthase like-29" id="CM.entpspathway.867"/>
+ <entry term="terpene synthase like-3" name="terpene synthase like-3" id="CM.entpspathway.868"/>
+ <entry term="terpene synthase like-30" name="terpene synthase like-30" id="CM.entpspathway.869"/>
+ <entry term="terpene synthase like-4" name="terpene synthase like-4" id="CM.entpspathway.870"/>
+ <entry term="terpene synthase like-6" name="terpene synthase like-6" id="CM.entpspathway.871"/>
+ <entry term="terpene synthase like-7" name="terpene synthase like-7" id="CM.entpspathway.872"/>
+ <entry term="terpene synthase like-8" name="terpene synthase like-8" id="CM.entpspathway.873"/>
+ <entry term="terpene synthase like-9" name="terpene synthase like-9" id="CM.entpspathway.874"/>
+ <entry term="terpene synthase tps1" name="terpene synthase tps1" id="CM.entpspathway.875"/>
+ <entry term="terpene synthase tps10" name="terpene synthase tps10" id="CM.entpspathway.876"/>
+ <entry term="terpene synthase tps11" name="terpene synthase tps11" id="CM.entpspathway.877"/>
+ <entry term="terpene synthase tps12" name="terpene synthase tps12" id="CM.entpspathway.878"/>
+ <entry term="terpene synthase tps13" name="terpene synthase tps13" id="CM.entpspathway.879"/>
+ <entry term="terpene synthase tps14" name="terpene synthase tps14" id="CM.entpspathway.880"/>
+ <entry term="terpene synthase tps15" name="terpene synthase tps15" id="CM.entpspathway.881"/>
+ <entry term="terpene synthase tps16" name="terpene synthase tps16" id="CM.entpspathway.882"/>
+ <entry term="terpene synthase tps17" name="terpene synthase tps17" id="CM.entpspathway.883"/>
+ <entry term="terpene synthase tps18" name="terpene synthase tps18" id="CM.entpspathway.884"/>
+ <entry term="terpene synthase tps19" name="terpene synthase tps19" id="CM.entpspathway.885"/>
+ <entry term="terpene synthase tps2" name="terpene synthase tps2" id="CM.entpspathway.886"/>
+ <entry term="terpene synthase tps20" name="terpene synthase tps20" id="CM.entpspathway.887"/>
+ <entry term="terpene synthase tps21" name="terpene synthase tps21" id="CM.entpspathway.888"/>
+ <entry term="terpene synthase tps22" name="terpene synthase tps22" id="CM.entpspathway.889"/>
+ <entry term="terpene synthase tps23" name="terpene synthase tps23" id="CM.entpspathway.890"/>
+ <entry term="terpene synthase tps24" name="terpene synthase tps24" id="CM.entpspathway.891"/>
+ <entry term="terpene synthase tps25" name="terpene synthase tps25" id="CM.entpspathway.892"/>
+ <entry term="terpene synthase tps26" name="terpene synthase tps26" id="CM.entpspathway.893"/>
+ <entry term="terpene synthase tps27" name="terpene synthase tps27" id="CM.entpspathway.894"/>
+ <entry term="terpene synthase tps28" name="terpene synthase tps28" id="CM.entpspathway.895"/>
+ <entry term="terpene synthase tps29" name="terpene synthase tps29" id="CM.entpspathway.896"/>
+ <entry term="terpene synthase tps3" name="terpene synthase tps3" id="CM.entpspathway.897"/>
+ <entry term="terpene synthase tps30" name="terpene synthase tps30" id="CM.entpspathway.898"/>
+ <entry term="terpene synthase tps31" name="terpene synthase tps31" id="CM.entpspathway.899"/>
+ <entry term="terpene synthase tps32" name="terpene synthase tps32" id="CM.entpspathway.900"/>
+ <entry term="terpene synthase tps33" name="terpene synthase tps33" id="CM.entpspathway.901"/>
+ <entry term="terpene synthase tps34" name="terpene synthase tps34" id="CM.entpspathway.902"/>
+ <entry term="terpene synthase tps35" name="terpene synthase tps35" id="CM.entpspathway.903"/>
+ <entry term="terpene synthase tps36" name="terpene synthase tps36" id="CM.entpspathway.904"/>
+ <entry term="terpene synthase tps4" name="terpene synthase tps4" id="CM.entpspathway.905"/>
+ <entry term="terpene synthase tps5" name="terpene synthase tps5" id="CM.entpspathway.906"/>
+ <entry term="terpene synthase tps6" name="terpene synthase tps6" id="CM.entpspathway.907"/>
+ <entry term="terpene synthase tps7" name="terpene synthase tps7" id="CM.entpspathway.908"/>
+ <entry term="terpene synthase tps8" name="terpene synthase tps8" id="CM.entpspathway.909"/>
+ <entry term="terpene synthase tps9" name="terpene synthase tps9" id="CM.entpspathway.910"/>
+ <entry term="terpene synthase-like sequence-1" name="terpene synthase-like sequence-1" id="CM.entpspathway.911"/>
+ <entry term="terpene synthase1" name="terpene synthase1" id="CM.entpspathway.912"/>
+ <entry term="terpene synthase10" name="terpene synthase10" id="CM.entpspathway.913"/>
+ <entry term="terpene synthase26" name="terpene synthase26" id="CM.entpspathway.914"/>
+ <entry term="terpene synthase4" name="terpene synthase4" id="CM.entpspathway.915"/>
+ <entry term="terpene synthase5" name="terpene synthase5" id="CM.entpspathway.916"/>
+ <entry term="terpene synthase6" name="terpene synthase6" id="CM.entpspathway.917"/>
+ <entry term="terpene synthase8" name="terpene synthase8" id="CM.entpspathway.918"/>
+ <entry term="terpene synthase9" name="terpene synthase9" id="CM.entpspathway.919"/>
+ <entry term="terpene_synth domain-containing protein" name="terpene_synth domain-containing protein" id="CM.entpspathway.920"/>
+ <entry term="terpene_synth_c domain-containing protein" name="terpene_synth_c domain-containing protein" id="CM.entpspathway.921"/>
+ <entry term="terpenoid synthase 20" name="terpenoid synthase 20" id="CM.entpspathway.922"/>
+ <entry term="terpinolene synthase" name="terpinolene synthase" id="CM.entpspathway.923"/>
+ <entry term="thas1" name="thas1" id="CM.entpspathway.924"/>
+ <entry term="torcps" name="torcps" id="CM.entpspathway.925"/>
+ <entry term="tox" name="tox" wikipedia="tox" id="CM.entpspathway.926"/>
+ <entry term="tpc1" name="tpc1" id="CM.entpspathway.927"/>
+ <entry term="tps" name="tps" wikipedia="tps" id="CM.entpspathway.928"/>
+ <entry term="tps-3car1" name="tps-3car1" id="CM.entpspathway.929"/>
+ <entry term="tps-3car2" name="tps-3car2" id="CM.entpspathway.930"/>
+ <entry term="tps-3car3" name="tps-3car3" id="CM.entpspathway.931"/>
+ <entry term="tps-cin" name="tps-cin" id="CM.entpspathway.932"/>
+ <entry term="tps-cin1" name="tps-cin1" id="CM.entpspathway.933"/>
+ <entry term="tps-cin2" name="tps-cin2" id="CM.entpspathway.934"/>
+ <entry term="tps-cinat3g2582" name="tps-cinat3g2582" id="CM.entpspathway.935"/>
+ <entry term="tps-cintps-cin" name="tps-cintps-cin" id="CM.entpspathway.936"/>
+ <entry term="tps-iso" name="tps-iso" id="CM.entpspathway.937"/>
+ <entry term="tps-las" name="tps-las" id="CM.entpspathway.938"/>
+ <entry term="tps-las1" name="tps-las1" id="CM.entpspathway.939"/>
+ <entry term="tps-las2" name="tps-las2" id="CM.entpspathway.940"/>
+ <entry term="tps-lon" name="tps-lon" id="CM.entpspathway.941"/>
+ <entry term="tps-miso1" name="tps-miso1" id="CM.entpspathway.942"/>
+ <entry term="tps-mpim1" name="tps-mpim1" id="CM.entpspathway.943"/>
+ <entry term="tps-sab" name="tps-sab" id="CM.entpspathway.944"/>
+ <entry term="tps01" name="tps01" id="CM.entpspathway.945"/>
+ <entry term="tps02" name="tps02" id="CM.entpspathway.946"/>
+ <entry term="tps03" name="tps03" id="CM.entpspathway.947"/>
+ <entry term="tps04" name="tps04" id="CM.entpspathway.948"/>
+ <entry term="tps05" name="tps05" id="CM.entpspathway.949"/>
+ <entry term="tps06" name="tps06" id="CM.entpspathway.950"/>
+ <entry term="tps07" name="tps07" id="CM.entpspathway.951"/>
+ <entry term="tps08" name="tps08" id="CM.entpspathway.952"/>
+ <entry term="tps09" name="tps09" id="CM.entpspathway.953"/>
+ <entry term="tps1" name="tps1" id="CM.entpspathway.954"/>
+ <entry term="tps10" name="tps10" id="CM.entpspathway.955"/>
+ <entry term="tps100" name="tps100" id="CM.entpspathway.956"/>
+ <entry term="tps101" name="tps101" id="CM.entpspathway.957"/>
+ <entry term="tps102" name="tps102" id="CM.entpspathway.958"/>
+ <entry term="tps103" name="tps103" id="CM.entpspathway.959"/>
+ <entry term="tps104" name="tps104" id="CM.entpspathway.960"/>
+ <entry term="tps105" name="tps105" id="CM.entpspathway.961"/>
+ <entry term="tps106" name="tps106" id="CM.entpspathway.962"/>
+ <entry term="tps107" name="tps107" id="CM.entpspathway.963"/>
+ <entry term="tps108" name="tps108" id="CM.entpspathway.964"/>
+ <entry term="tps109" name="tps109" id="CM.entpspathway.965"/>
+ <entry term="tps11" name="tps11" id="CM.entpspathway.966"/>
+ <entry term="tps110" name="tps110" id="CM.entpspathway.967"/>
+ <entry term="tps111" name="tps111" id="CM.entpspathway.968"/>
+ <entry term="tps112" name="tps112" id="CM.entpspathway.969"/>
+ <entry term="tps113" name="tps113" id="CM.entpspathway.970"/>
+ <entry term="tps114" name="tps114" id="CM.entpspathway.971"/>
+ <entry term="tps115" name="tps115" id="CM.entpspathway.972"/>
+ <entry term="tps116" name="tps116" id="CM.entpspathway.973"/>
+ <entry term="tps117" name="tps117" id="CM.entpspathway.974"/>
+ <entry term="tps118" name="tps118" id="CM.entpspathway.975"/>
+ <entry term="tps119" name="tps119" id="CM.entpspathway.976"/>
+ <entry term="tps12" name="tps12" id="CM.entpspathway.977"/>
+ <entry term="tps120" name="tps120" id="CM.entpspathway.978"/>
+ <entry term="tps121" name="tps121" id="CM.entpspathway.979"/>
+ <entry term="tps122" name="tps122" id="CM.entpspathway.980"/>
+ <entry term="tps123" name="tps123" id="CM.entpspathway.981"/>
+ <entry term="tps124" name="tps124" id="CM.entpspathway.982"/>
+ <entry term="tps125" name="tps125" id="CM.entpspathway.983"/>
+ <entry term="tps126" name="tps126" id="CM.entpspathway.984"/>
+ <entry term="tps127" name="tps127" id="CM.entpspathway.985"/>
+ <entry term="tps128" name="tps128" id="CM.entpspathway.986"/>
+ <entry term="tps129" name="tps129" id="CM.entpspathway.987"/>
+ <entry term="tps13" name="tps13" id="CM.entpspathway.988"/>
+ <entry term="tps130" name="tps130" id="CM.entpspathway.989"/>
+ <entry term="tps131" name="tps131" id="CM.entpspathway.990"/>
+ <entry term="tps132" name="tps132" id="CM.entpspathway.991"/>
+ <entry term="tps133" name="tps133" id="CM.entpspathway.992"/>
+ <entry term="tps134" name="tps134" id="CM.entpspathway.993"/>
+ <entry term="tps135" name="tps135" id="CM.entpspathway.994"/>
+ <entry term="tps136" name="tps136" id="CM.entpspathway.995"/>
+ <entry term="tps137" name="tps137" id="CM.entpspathway.996"/>
+ <entry term="tps138" name="tps138" id="CM.entpspathway.997"/>
+ <entry term="tps139" name="tps139" id="CM.entpspathway.998"/>
+ <entry term="tps14" name="tps14" id="CM.entpspathway.999"/>
+ <entry term="tps140" name="tps140" id="CM.entpspathway.1000"/>
+ <entry term="tps141" name="tps141" id="CM.entpspathway.1001"/>
+ <entry term="tps142" name="tps142" id="CM.entpspathway.1002"/>
+ <entry term="tps143" name="tps143" id="CM.entpspathway.1003"/>
+ <entry term="tps144" name="tps144" id="CM.entpspathway.1004"/>
+ <entry term="tps145" name="tps145" id="CM.entpspathway.1005"/>
+ <entry term="tps146" name="tps146" id="CM.entpspathway.1006"/>
+ <entry term="tps147" name="tps147" id="CM.entpspathway.1007"/>
+ <entry term="tps148" name="tps148" id="CM.entpspathway.1008"/>
+ <entry term="tps149" name="tps149" id="CM.entpspathway.1009"/>
+ <entry term="tps15" name="tps15" id="CM.entpspathway.1010"/>
+ <entry term="tps150" name="tps150" id="CM.entpspathway.1011"/>
+ <entry term="tps151" name="tps151" id="CM.entpspathway.1012"/>
+ <entry term="tps16" name="tps16" id="CM.entpspathway.1013"/>
+ <entry term="tps17" name="tps17" id="CM.entpspathway.1014"/>
+ <entry term="tps18" name="tps18" id="CM.entpspathway.1015"/>
+ <entry term="tps19" name="tps19" id="CM.entpspathway.1016"/>
+ <entry term="tps1a" name="tps1a" id="CM.entpspathway.1017"/>
+ <entry term="tps1b" name="tps1b" id="CM.entpspathway.1018"/>
+ <entry term="tps1c" name="tps1c" id="CM.entpspathway.1019"/>
+ <entry term="tps1e" name="tps1e" id="CM.entpspathway.1020"/>
+ <entry term="tps1f" name="tps1f" id="CM.entpspathway.1021"/>
+ <entry term="tps2" name="tps2" id="CM.entpspathway.1022"/>
+ <entry term="tps20" name="tps20" id="CM.entpspathway.1023"/>
+ <entry term="tps21" name="tps21" id="CM.entpspathway.1024"/>
+ <entry term="tps22" name="tps22" id="CM.entpspathway.1025"/>
+ <entry term="tps23" name="tps23" id="CM.entpspathway.1026"/>
+ <entry term="tps24" name="tps24" id="CM.entpspathway.1027"/>
+ <entry term="tps25" name="tps25" id="CM.entpspathway.1028"/>
+ <entry term="tps26" name="tps26" id="CM.entpspathway.1029"/>
+ <entry term="tps27" name="tps27" id="CM.entpspathway.1030"/>
+ <entry term="tps28" name="tps28" id="CM.entpspathway.1031"/>
+ <entry term="tps29" name="tps29" id="CM.entpspathway.1032"/>
+ <entry term="tps3" name="tps3" id="CM.entpspathway.1033"/>
+ <entry term="tps30" name="tps30" id="CM.entpspathway.1034"/>
+ <entry term="tps31" name="tps31" id="CM.entpspathway.1035"/>
+ <entry term="tps32" name="tps32" id="CM.entpspathway.1036"/>
+ <entry term="tps32_1" name="tps32_1" id="CM.entpspathway.1037"/>
+ <entry term="tps32_2" name="tps32_2" id="CM.entpspathway.1038"/>
+ <entry term="tps33" name="tps33" id="CM.entpspathway.1039"/>
+ <entry term="tps34" name="tps34" id="CM.entpspathway.1040"/>
+ <entry term="tps35" name="tps35" id="CM.entpspathway.1041"/>
+ <entry term="tps36" name="tps36" id="CM.entpspathway.1042"/>
+ <entry term="tps37" name="tps37" id="CM.entpspathway.1043"/>
+ <entry term="tps38" name="tps38" id="CM.entpspathway.1044"/>
+ <entry term="tps39" name="tps39" id="CM.entpspathway.1045"/>
+ <entry term="tps3_0" name="tps3_0" id="CM.entpspathway.1046"/>
+ <entry term="tps3_1" name="tps3_1" id="CM.entpspathway.1047"/>
+ <entry term="tps3_2" name="tps3_2" id="CM.entpspathway.1048"/>
+ <entry term="tps3_3" name="tps3_3" id="CM.entpspathway.1049"/>
+ <entry term="tps3_4" name="tps3_4" id="CM.entpspathway.1050"/>
+ <entry term="tps3_5" name="tps3_5" id="CM.entpspathway.1051"/>
+ <entry term="tps4" name="tps4" id="CM.entpspathway.1052"/>
+ <entry term="tps40" name="tps40" id="CM.entpspathway.1053"/>
+ <entry term="tps41" name="tps41" id="CM.entpspathway.1054"/>
+ <entry term="tps42" name="tps42" id="CM.entpspathway.1055"/>
+ <entry term="tps43" name="tps43" id="CM.entpspathway.1056"/>
+ <entry term="tps44" name="tps44" id="CM.entpspathway.1057"/>
+ <entry term="tps45" name="tps45" id="CM.entpspathway.1058"/>
+ <entry term="tps46" name="tps46" id="CM.entpspathway.1059"/>
+ <entry term="tps47" name="tps47" id="CM.entpspathway.1060"/>
+ <entry term="tps48" name="tps48" id="CM.entpspathway.1061"/>
+ <entry term="tps49" name="tps49" id="CM.entpspathway.1062"/>
+ <entry term="tps5" name="tps5" id="CM.entpspathway.1063"/>
+ <entry term="tps50" name="tps50" id="CM.entpspathway.1064"/>
+ <entry term="tps51" name="tps51" id="CM.entpspathway.1065"/>
+ <entry term="tps52" name="tps52" id="CM.entpspathway.1066"/>
+ <entry term="tps53" name="tps53" id="CM.entpspathway.1067"/>
+ <entry term="tps54" name="tps54" id="CM.entpspathway.1068"/>
+ <entry term="tps55" name="tps55" id="CM.entpspathway.1069"/>
+ <entry term="tps56" name="tps56" id="CM.entpspathway.1070"/>
+ <entry term="tps57" name="tps57" id="CM.entpspathway.1071"/>
+ <entry term="tps58" name="tps58" id="CM.entpspathway.1072"/>
+ <entry term="tps59" name="tps59" id="CM.entpspathway.1073"/>
+ <entry term="tps6" name="tps6" id="CM.entpspathway.1074"/>
+ <entry term="tps60" name="tps60" id="CM.entpspathway.1075"/>
+ <entry term="tps61" name="tps61" id="CM.entpspathway.1076"/>
+ <entry term="tps62" name="tps62" id="CM.entpspathway.1077"/>
+ <entry term="tps63" name="tps63" id="CM.entpspathway.1078"/>
+ <entry term="tps64" name="tps64" id="CM.entpspathway.1079"/>
+ <entry term="tps65" name="tps65" id="CM.entpspathway.1080"/>
+ <entry term="tps66" name="tps66" id="CM.entpspathway.1081"/>
+ <entry term="tps67" name="tps67" id="CM.entpspathway.1082"/>
+ <entry term="tps68" name="tps68" id="CM.entpspathway.1083"/>
+ <entry term="tps69" name="tps69" id="CM.entpspathway.1084"/>
+ <entry term="tps7" name="tps7" id="CM.entpspathway.1085"/>
+ <entry term="tps70" name="tps70" id="CM.entpspathway.1086"/>
+ <entry term="tps71" name="tps71" id="CM.entpspathway.1087"/>
+ <entry term="tps72" name="tps72" id="CM.entpspathway.1088"/>
+ <entry term="tps73" name="tps73" id="CM.entpspathway.1089"/>
+ <entry term="tps74" name="tps74" id="CM.entpspathway.1090"/>
+ <entry term="tps75" name="tps75" id="CM.entpspathway.1091"/>
+ <entry term="tps76" name="tps76" id="CM.entpspathway.1092"/>
+ <entry term="tps77" name="tps77" id="CM.entpspathway.1093"/>
+ <entry term="tps78" name="tps78" id="CM.entpspathway.1094"/>
+ <entry term="tps79" name="tps79" id="CM.entpspathway.1095"/>
+ <entry term="tps7_1" name="tps7_1" id="CM.entpspathway.1096"/>
+ <entry term="tps8" name="tps8" id="CM.entpspathway.1097"/>
+ <entry term="tps80" name="tps80" id="CM.entpspathway.1098"/>
+ <entry term="tps81" name="tps81" id="CM.entpspathway.1099"/>
+ <entry term="tps82" name="tps82" id="CM.entpspathway.1100"/>
+ <entry term="tps83" name="tps83" id="CM.entpspathway.1101"/>
+ <entry term="tps84" name="tps84" id="CM.entpspathway.1102"/>
+ <entry term="tps85" name="tps85" id="CM.entpspathway.1103"/>
+ <entry term="tps86" name="tps86" id="CM.entpspathway.1104"/>
+ <entry term="tps87" name="tps87" id="CM.entpspathway.1105"/>
+ <entry term="tps88" name="tps88" id="CM.entpspathway.1106"/>
+ <entry term="tps89" name="tps89" id="CM.entpspathway.1107"/>
+ <entry term="tps9" name="tps9" id="CM.entpspathway.1108"/>
+ <entry term="tps90" name="tps90" id="CM.entpspathway.1109"/>
+ <entry term="tps91" name="tps91" id="CM.entpspathway.1110"/>
+ <entry term="tps92" name="tps92" id="CM.entpspathway.1111"/>
+ <entry term="tps93" name="tps93" id="CM.entpspathway.1112"/>
+ <entry term="tps94" name="tps94" id="CM.entpspathway.1113"/>
+ <entry term="tps95" name="tps95" id="CM.entpspathway.1114"/>
+ <entry term="tps96" name="tps96" id="CM.entpspathway.1115"/>
+ <entry term="tps97" name="tps97" id="CM.entpspathway.1116"/>
+ <entry term="tps98" name="tps98" id="CM.entpspathway.1117"/>
+ <entry term="tps99" name="tps99" id="CM.entpspathway.1118"/>
+ <entry term="tpsga2" name="tpsga2" id="CM.entpspathway.1119"/>
+ <entry term="trans,trans-farnesyl diphosphate" name="trans,trans-farnesyl diphosphate" wikipedia="trans,trans-farnesyl diphosphate" id="CM.entpspathway.1120"/>
+ <entry term="trans-alpha-bergamotene synthase" name="trans-alpha-bergamotene synthase" id="CM.entpspathway.1121"/>
+ <entry term="trans-fpp synthases" name="trans-fpp synthases" id="CM.entpspathway.1122"/>
+ <entry term="trans-ocimene synthase" name="trans-ocimene synthase" id="CM.entpspathway.1123"/>
+ <entry term="tricyclene synthase" name="tricyclene synthase" id="CM.entpspathway.1124"/>
+ <entry term="tricyclene synthase " name="tricyclene synthase " id="CM.entpspathway.1125"/>
+ <entry term="txs" name="txs" id="CM.entpspathway.1126"/>
+ <entry term="umi3" name="umi3" id="CM.entpspathway.1127"/>
+ <entry term="uv-induced sesquiterpene cyclase" name="uv-induced sesquiterpene cyclase" id="CM.entpspathway.1128"/>
+ <entry term="valencene synthase" name="valencene synthase" id="CM.entpspathway.1129"/>
+ <entry term="valencene synthase os" name="valencene synthase os" id="CM.entpspathway.1130"/>
+ <entry term="valencene synthase-like" name="valencene synthase-like" id="CM.entpspathway.1131"/>
+ <entry term="vetispiradiene synthase" name="vetispiradiene synthase" id="CM.entpspathway.1132"/>
+ <entry term="vetispiradiene synthase 1 (fragment) os" name="vetispiradiene synthase 1 (fragment) os" id="CM.entpspathway.1133"/>
+ <entry term="vetispiradiene synthase 1 os" name="vetispiradiene synthase 1 os" id="CM.entpspathway.1134"/>
+ <entry term="vetispiradiene synthase 1-like" name="vetispiradiene synthase 1-like" id="CM.entpspathway.1135"/>
+ <entry term="viridiflorene synthase" name="viridiflorene synthase" id="CM.entpspathway.1136"/>
+ <entry term="viridiflorene synthase " name="viridiflorene synthase " id="CM.entpspathway.1137"/>
+ <entry term="viridiflorene synthase-like" name="viridiflorene synthase-like" id="CM.entpspathway.1138"/>
+ <entry term="votps1" name="votps1" id="CM.entpspathway.1139"/>
+ <entry term="vvguas" name="vvguas" id="CM.entpspathway.1140"/>
+ <entry term="vvpnseint" name="vvpnseint" id="CM.entpspathway.1141"/>
+ <entry term="z,z-fpp" name="z,z-fpp" id="CM.entpspathway.1142"/>
+ <entry term="zmtps10" name="zmtps10" id="CM.entpspathway.1143"/>
+ <entry term="zsd1" name="zsd1" id="CM.entpspathway.1144"/>
+ <entry term="zss1" name="zss1" id="CM.entpspathway.1145"/>
+ <entry term="zss2" name="zss2" id="CM.entpspathway.1146"/>
+ <entry term="zw1" name="zw1" id="CM.entpspathway.1147"/>
+</dictionary>
