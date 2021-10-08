@@ -1,0 +1,584 @@
+GENUS,SPECIES,TPS NAME,GENE ID,FUNCTIONAL ANNOTATION,TPS CLASSIFICATION,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),At1g31950 F5M6.5,AT1G31950.3,Terpenoid cyclases/Protein prenyltransferases superfamily protein,PRENYL TRANSFERASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),At1g31950 F5M6.5,AT1G31950.2,Terpenoid cyclases/Protein prenyltransferases superfamily protein,PRENYL TRANSFERASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),At1g48820 F11I4.2 F11I4_2,AT1G48820.1,"Terpene cyclase, putative (Terpenoid cyclases/Protein prenyltransferases superfamily protein)",PRENYL TRANSFERASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),At1g66020 F15E12.3 F15E12_3,AT1G66020.2,Terpenoid cyclases/Protein prenyltransferases superfamily protein,PRENYL TRANSFERASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),At2g23230 T20D16.14 T20D16_14,,Terpenoid cyclases/Protein prenyltransferases superfamily protein,PRENYL TRANSFERASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),At3g14540,AT3G14540.2,Terpenoid cyclases/Protein prenyltransferases superfamily protein,PRENYL TRANSFERASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),At3g29410,AT3G29410.2,Terpenoid cyclases/Protein prenyltransferases superfamily protein,PRENYL TRANSFERASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),At4g20230 F1C12.150 F1C12_150,AT4G20230.2,Terpenoid synthase superfamily protein,,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),BS TPS11 At5g44630 K15C23.7,AT5G44630.1,Alpha-barbatene synthase (AtBS) (EC 4.2.3.69) (Beta-chamigrene synthase) (EC 4.2.3.78) (Terpeneoid synthase 11) (AtTPS11) (Thujopsene synthase) (EC 4.2.3.79),SESQUITERPENE SYNTHASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),GA1 ABC33 CPS CPS1 TPSGA1 At4g02780 T5J8.9,AT4G02780.1,"Ent-copalyl diphosphate synthase, chloroplastic (AtCPS) (Ent-CDP synthase) (EC 5.5.1.13) (Ent-kaurene synthase A) (KSA) (Protein GA REQUIRING 1)",DITERPENE SYNTHASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),GA2 KS KS1 TPSGA2 At1g79460 T8K14.12,AT1G79460.1,"Ent-kaur-16-ene synthase, chloroplastic (EC 4.2.3.19) (Ent-kaurene synthase) (AtKS) (Ent-kaurene synthase B) (KSB) (Protein GA REQUIRING 2)",DITERPENE SYNTHASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),GES LIS TPS04 TPS4 At1g61120 F11P17.15,AT1G61120.1,"(E,E)-geranyllinalool synthase (AtGES) (EC 4.2.3.144) (Terpenoid synthase 4) (AtTPS04)",DITERPENE SYNTHASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS01 TC1 TS1 At4g15870 dl3975c FCAALL.405,AT4G15870.1,Terpenoid synthase 1 (AtTPS01) (EC 4.2.3.-),,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS02 terpene synthase 02 At4g16730 Dl4390W FCAALL.15,AT4G16730.2,Terpene synthase 02,MONOTERPENE SYNTHASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS03 At4g16740 dl4395w FCAALL.18,AT4G16740.1,"Tricyclene synthase, chloroplastic (EC 4.2.3.105) ((E)-beta-ocimene synthase) (EC 4.2.3.106) ((E,E)-alpha-farnesene synthase) (EC 4.2.3.46) (Terpenoid synthase 3) (AtTPS03)",MONOTERPENE SYNTHASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS03 ATTPS03 terpene synthase 03 At4g16740 Dl4395W FCAALL.18,"AT4G16740.3, AT4G16740.4",Terpene synthase 03,MONOTERPENE SYNTHASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS05 At2g23230 T20D16.14,,Putative terpenoid synthase 5 (AtTPS05) (EC 4.2.3.-),,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS06 At1g70080 F20P5.19,AT1G70080.1,"Dolabella-3,7-dien-18-ol synthase TPS06 (EC 4.2.3.167) (Terpenoid synthase 6) (AtTPS06)",,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS07 At4g20200 F1C12.120,AT4G20200.1,Putative terpenoid synthase 7 (AtTPS07) (EC 4.2.3.-),,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS08 At4g20210 F1C12.130,AT4G20210.1,Terpenoid synthase 8 (AtTPS08) (EC 4.2.3.195),,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS09 At4g20230 F1C12.150,AT4G20230.1,Terpenoid synthase 9 (AtTPS09) (EC 4.2.3.-),,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS10 At2g24210 F27D4.12,AT2G24210.1,"Tricyclene synthase, chloroplastic (EC 4.2.3.105) ((E)-beta-ocimene synthase 0e23) (EC 4.2.3.106) (Myrcene synthase 1) (EC 4.2.3.15) (Terpenoid synthase 10) (AtTPS10)",MONOTERPENE SYNTHASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS12 At4g13280 T9E8.20,AT4G13280.2,(Z)-gamma-bisabolene synthase 1 (EC 4.2.3.40) (Terpenoid synthase 12) (AtTPS12),SESQUITERPENE SYNTHASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS13 At4g13300 T9E8.40,AT4G13300.1,(Z)-gamma-bisabolene synthase 2 (EC 4.2.3.40) (Terpenoid synthase 13) (AtTPS13),SESQUITERPENE SYNTHASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS14 At1g61680 T13M11.3,AT1G61680.1,"S-(+)-linalool synthase, chloroplastic (EC 4.2.3.25) (Terpenoid synthase 14) (AtTPS14)",MONOTERPENE SYNTHASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS14 ATTPS14 TERPENE SYNTHASE 14 terpene synthase 14 At1g61680 T13M11.3 T13M11_3,AT1G61680.2,Terpene synthase 14,,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS15 At3g29190 MXO21.3,AT3G29190.1,Terpenoid synthase 15 (AtTPS15) (EC 4.2.3.-),,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS16 At3g29110 MXE2.1,AT3G29110.1,Putative terpenoid synthase 16 (AtTPS16) (EC 4.2.3.-),,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS17 At3g14490 MOA2.12,AT3G14490.1,Terpenoid synthase 17 (AtTPS17) (EC 4.2.3.-),,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS18 At3g14520 MIE1.2,AT3G14520.1,Terpenoid synthase 18 (AtTPS18) (EC 4.2.3.-),,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS19 At3g14540 MIE1.4,AT3G14540.1,Terpenoid synthase 19 (AtTPS19) (EC 4.2.3.-),,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS20 At5g48110 MDN11.20,"AT5G48110.1,","Inactive terpenoid synthase 20, chloroplastic (AtTPS20)",MONOTERPENE SYNTHASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS21 PUP8 At5g23960 MZF18.16,AT5G23960.1,Alpha-humulene/(-)-(E)-beta-caryophyllene synthase (EC 4.2.3.-) (Terpenoid synthase 21) (AtTPS21),SESQUITERPENE SYNTHASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS22 At1g33750 F14M2.13,AT1G33750.1,Terpenoid synthase 22 (AtTPS22) (EC 4.2.3.-),,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS23 TPS-CIN2 At3g25830 K9I22.3,AT3G25830.1,"1,8-cineole synthase 2, chloroplastic (AtTPS-CIN2) (EC 4.2.3.108) (Limonene cyclase) (Terpenoid synthase 23) (AtTPS23)",MONOTERPENE SYNTHASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS24 At3g25810 K13N2.7,AT3G25810.1,"Beta-myrcene/(E)-beta-ocimene synthase 2, chloroplastic (EC 4.2.3.15) (Terpenoid synthase 24) (AtTPS24)",MONOTERPENE SYNTHASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS25 At3g29410 MUO10.2,AT3G29410.1,Terpenoid synthase 25 (AtTPS25) (EC 4.2.3.-),,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS26 At1g66020 F15E12.3,AT1G66020.1,Terpenoid synthase 26 (AtTPS26) (EC 4.2.3.-),,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS27 TPS-CIN1 At3g25820 K13N2.19,AT3G25820.1,"1,8-cineole synthase 1, chloroplastic (AtTPS-CIN1) (EC 4.2.3.108) (Limonene cyclase) (Terpenoid synthase 27) (AtTPS27)",MONOTERPENE SYNTHASE,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS28 At1g48800 F11I4_3,AT1G48800.1,Terpenoid synthase 28 (AtTPS28) (EC 4.2.3.-),,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS29 At1g31950 F5M6.5 T12O21.14,AT1G31950.1,Terpenoid synthase 29 (AtTPS29) (EC 4.2.3.-),,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS30 At3g32030 T8O3.12,AT3G32030.1,Terpenoid synthase 30 (AtTPS30) (EC 4.2.3.-),,
+Arabidopsis,Arabidopsis thaliana (Mouse-ear cress),TPS-CIN 8-cineole 8-cineole'' ATTPS-CIN At3g25820,At3g25820,"Terpene synthase-like sequence-1,8-cineole",,
+Malus,M. domestica,TPS02,MDP0000199152,(1 of 1) K14173 - alpha-farnesene synthase (AFS1),monoterpene,TPS02
+Malus,M. domestica,TPS03,MDP0000152278,(1 of 12) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,"ATTPS03, TPS03"
+Malus,M. domestica,TPS04,MDP0000192374,"(1 of 4) K17982 - geranyllinalool synthase (TPS04, GES)",diterpene,"GES,TPS04,TPS4"
+Malus,M. domestica,TPS4,MDP0000192151,"(1 of 4) K17982 - geranyllinalool synthase (TPS04, GES)",diterpene,"Terpene synthase 4, TPS4"
+Malus,M. domestica,TPS14,MDP0000245233,(1 of 6) K15086 - (3S)-linalool synthase (TPS14),monoterpene,"LIS, TPS14"
+Malus,M. domestica,TPS14,MDP0000281986,"(1 of 17) 4.2.3.48 - (3S,6E)-nerolidol synthase / Nerolidol synthase",monoterpene,"ATTPS14,TPS14"
+Malus,M. domestica,TPS21,MDP0000205617,(1 of 13) 4.2.3.119 - (-)-alpha-pinene synthase / (-)-alpha-pinene/(-)-camphene synthase,sesquiterpene,TPS21
+Malus,M. domestica,MdTPS5-GD,MDP0000161084,(1 of 6) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,MdTPS5-GD
+Malus,M. domestica,MdTPS8-GD,MDP0000225361,(1 of 21) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,MdTPS8-GD
+Malus,M. domestica,MdTPS9-GD,MDP0000233869,(1 of 21) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,MdTPS9-GD
+Malus,M. domestica,MdTPS10-GD,MDP0000236236,(1 of 23) 4.2.3.75 - (-)-germacrene D synthase,sesquiterpene,MdTPS10-GD
+Malus,M. domestica,MdTPS11-GD,MDP0000248152,(1 of 21) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,MdTPS11-GD
+Malus,M. domestica,MdTPS12-GD,MDP0000265187,(1 of 21) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,"ATTS1, MdTPS12-GD, TERPENE SYNTHASE 1, TS1"
+Malus,M. domestica,MdTPS13-GD,MDP0000274847,(1 of 6) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,MdTPS13-GD
+Malus,M. domestica,MdTPS14-GD,MDP0000274848,(1 of 13) 4.2.3.119 - (-)-alpha-pinene synthase / (-)-alpha-pinene/(-)-camphene synthase,sesquiterpene,MdTPS14-GD
+Malus,M. domestica,MdTPS15-GD,MDP0000276976,(1 of 13) 4.2.3.119 - (-)-alpha-pinene synthase / (-)-alpha-pinene/(-)-camphene synthase,sesquiterpene,MdTPS15-GD
+Malus,M. domestica,MdTPS16-GD,MDP0000295452,(1 of 6) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,MdTPS16-GD
+Malus,M. domestica,MdTPS17-GD,MDP0000317119,(1 of 13) 4.2.3.119 - (-)-alpha-pinene synthase / (-)-alpha-pinene/(-)-camphene synthase,sesquiterpene,MdTPS17-GD
+Malus,M. domestica,MdTPS18-GD,MDP0000580210,(1 of 21) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,MdTPS18-GD
+Malus,M. domestica,MdTPS18-GD,MDP0000598846,(1 of 9) 4.2.3.105 - Tricyclene synthase,sesquiterpene,MdTPS18-GD
+Malus,M. domestica,MdTPS19-GD,MDP0000670935,(1 of 21) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,MdTPS19-GD
+Malus,M. domestica,MdTPS1-GD,MDP0000120176,(1 of 6) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,"TPS21, MdTPS1-GD"
+Malus,M. domestica,MdTPS20-GD,MDP0000702120,(1 of 13) 4.2.3.119 - (-)-alpha-pinene synthase / (-)-alpha-pinene/(-)-camphene synthase,sesquiterpene,MdTPS20-GD
+Malus,M. domestica,MdTPS21-GD,MDP0000746466,(1 of 21) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,MdTPS21-GD
+Malus,M. domestica,MdTPS22-GD,MDP0000885704,(1 of 21) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,"ATTPS-CIN,TPS-CIN, MdTPS22-GD"
+Malus,M. domestica,MdTPS23-GD,MDP0000919962,(1 of 13) 4.2.3.119 - (-)-alpha-pinene synthase / (-)-alpha-pinene/(-)-camphene synthase,sesquiterpene,"TPS21, MdTPS23-GD"
+Malus,M. domestica,MdTPS26-GD,MDP0000297049,(1 of 12) 4.2.3.106 - (E)-beta-ocimene synthase / Beta-ocimene synthase,monoterpene,MdTPS26-GD
+Malus,M. domestica,MdTPS27-GD,MDP0000318427,(1 of 4) K04121 - ent-kaurene synthase (E4.2.3.19),diterpene,MdTPS27-GD
+Malus,M. domestica,MdTPS27-GD,MDP0000322688,(1 of 1) 4.2.3.27 - Isoprene synthase / ISPS,monoterpene,MdTPS27-GD
+Malus,M. domestica,MdTPS28-GD,MDP0000400627,(1 of 12) 4.2.3.106 - (E)-beta-ocimene synthase / Beta-ocimene synthase,monoterpene,MdTPS28-GD
+Malus,M. domestica,MdTPS29-GD,MDP0000894066,(1 of 12) 4.2.3.106 - (E)-beta-ocimene synthase / Beta-ocimene synthase,sesquiterpene,MdTPS29-GD
+Malus,M. domestica,MdTPS30-GD,MDP0000147908,(1 of 4) K04120 - ent-copalyl diphosphate synthase (E5.5.1.13),diterpene,MdTPS30-GD
+Malus,M. domestica,MdTPS33-GD,MDP0000305417,(1 of 4) K04120 - ent-copalyl diphosphate synthase (E5.5.1.13),diterpene,MdTPS33-GD
+Malus,M. domestica,MdTPS36-GD,MDP0000185520,(1 of 12) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,MdTPS36-GD
+Malus,M. domestica,MdTPS37-GD,MDP0000289229,(1 of 12) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,MdTPS37-GD
+Malus,M. domestica,MdTPS38-GD,MDP0000321353,"(1 of 4) K17982 - geranyllinalool synthase (TPS04, GES)",diterpene,MdTPS38-GD
+Malus,M. domestica,MdTPS41-GD,MDP0000194565,(1 of 12) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,MdTPS41-GD
+Malus,M. domestica,MdTPS42-GD,MDP0000227442,(1 of 4) K04121 - ent-kaurene synthase (E4.2.3.19),diterpene,"KS, MdTPS42-GD"
+Malus,M. domestica,MdTPS43-GD,MDP0000290705,(1 of 12) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,MdTPS43-GD
+Malus,M. domestica,MdTPS45-GD,MDP0000441513,(1 of 4) K04121 - ent-kaurene synthase (E4.2.3.19),diterpene,MdTPS45-GD
+Malus,M. domestica,MdTPS46-GD,MDP0000828007,(1 of 4) K04121 - ent-kaurene synthase (E4.2.3.19),diterpene,MdTPS46-GD
+Malus,M. domestica,MdTPS48-GD,MDP0000267906,,,MdTPS48-GD
+Malus,M. domestica,MdTPS49-GD,MDP0000293842,(1 of 1) 4.2.3.25 - S-linalool synthase / LIS,monoterpene,MdTPS49-GD
+Malus,M. domestica,MdTPS50-GD,MDP0000298903,(1 of 6) K15086 - (3S)-linalool synthase (TPS14),monoterpene,MdTPS50-GD
+Malus,M. domestica,MdTPS51-GD,MDP0000308115,"(1 of 17) 4.2.3.48 - (3S,6E)-nerolidol synthase / Nerolidol synthase",monoterpene,MdTPS51-GD
+Malus,M. domestica,MdTPS52-GD,MDP0000398063,(1 of 6) K15086 - (3S)-linalool synthase (TPS14),monoterpene,MdTPS52-GD
+Malus,M. domestica,MdTPS53-GD,MDP0000561715,"(1 of 17) 4.2.3.48 - (3S,6E)-nerolidol synthase / Nerolidol synthase",monoterpene,MdTPS53-GD
+Malus,M. domestica,MdTPS54-GD,MDP0000562538,(1 of 6) K15086 - (3S)-linalool synthase (TPS14),monoterpene,MdTPS54-GD
+Malus,M. domestica,MdTPS55-GD,MDP0000685346,"(1 of 17) 4.2.3.48 - (3S,6E)-nerolidol synthase / Nerolidol synthase",monoterpene,MdTPS55-GD
+Malus,M. domestica,Terpenoid cyclases/Protein prenyltransferases,MDP0000500542,(1 of 21) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,Terpenoid cyclases/Protein prenyltransferases
+Malus,M. domestica,,MDP0000121746,(1 of 13) 4.2.3.119 - (-)-alpha-pinene synthase / (-)-alpha-pinene/(-)-camphene synthase,sesquiterpene,"Terpene synthase, Terpenoid synthase"
+Malus,M. domestica,,MDP0000127896,(1 of 13) 4.2.3.119 - (-)-alpha-pinene synthase / (-)-alpha-pinene/(-)-camphene synthase,sesquiterpene,"Terpene synthase like, Terpenoid synthase"
+Malus,M. domestica,,MDP0000130635,(1 of 13) 4.2.3.119 - (-)-alpha-pinene synthase / (-)-alpha-pinene/(-)-camphene synthase,sesquiterpene,"alpha-humulene/beta-caryophyllene synthase, Terpene synthase like, Terpenoid synthase"
+Malus,M. domestica,,MDP0000131051,(1 of 10) 5.5.1.13 - Ent-copalyl diphosphate synthase / Ent-kaurene synthetase A,diterpene,"Terpene synthase like, Terpenoid cylases/protein prenyltransferase alpha-alpha toroid"
+Malus,M. domestica,,MDP0000136959,(1 of 9) 4.2.3.105 - Tricyclene synthase,monoterpene,"Terpene synthase like, Terpenoid cylases/protein prenyltransferase alpha-alpha toroid"
+Malus,M. domestica,,MDP0000138294,(1 of 10) 5.5.1.13 - Ent-copalyl diphosphate synthase / Ent-kaurene synthetase A,diterpene,"Terpene synthase like, Terpenoid cylases/protein prenyltransferase alpha-alpha toroid"
+Malus,M. domestica,,MDP0000154813,(1 of 9) 4.2.3.105 - Tricyclene synthase,monoterpene,"1,8-cineole synthase, Terpene synthase like, Terpenoid cylases/protein prenyltransferase alpha-alpha toroid"
+Malus,M. domestica,,MDP0000162573,"(1 of 4) K17982 - geranyllinalool synthase (TPS04, GES)",diterpene,"Terpene synthase like, Terpenoid cylases/protein prenyltransferase alpha-alpha toroid"
+Malus,M. domestica,,MDP0000166538,(1 of 21) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,"Terpene synthase like, Terpenoid cylases/protein prenyltransferase alpha-alpha toroid"
+Malus,M. domestica,,MDP0000168577,"(1 of 5) PTHR31739:SF3 - ENT-KAUR-16-ENE SYNTHASE, CHLOROPLASTIC",diterpene,"Terpene synthase like, Terpenoid cylases/protein prenyltransferase alpha-alpha toroid"
+Malus,M. domestica,,MDP0000182333,(1 of 12) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,"Terpene synthase, Terpenoid synthase"
+Malus,M. domestica,,MDP0000190430,(1 of 12) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,"Terpene synthase, Terpenoid synthase"
+Malus,M. domestica,,MDP0000198179,(1 of 10) 5.5.1.13 - Ent-copalyl diphosphate synthase / Ent-kaurene synthetase A,diterpene,"ABC33, ARABIDOPSIS THALIANA ENT-COPALYL DIPHOSPHATE SYNTHETASE 1, ATCPS1, CPP SYNTHASE, CPS, CPS1, ENT-COPALYL DIPHOSPHATE SYNTHETASE 1, GA REQUIRING 1, GA1"
+Malus,M. domestica,,MDP0000201302,"(1 of 17) 4.2.3.48 - (3S,6E)-nerolidol synthase / Nerolidol synthase",monoterpene,"Terpene synthase, Terpenoid synthase"
+Malus,M. domestica,,MDP0000203143,(1 of 6) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,(-)-E-beta-caryophyllene synthase activity
+Malus,M. domestica,,MDP0000218642,(1 of 13) 4.2.3.119 - (-)-alpha-pinene synthase / (-)-alpha-pinene/(-)-camphene synthase,sesquiterpene,"Terpene synthase, Terpenoid synthase"
+Malus,M. domestica,,MDP0000227868,(1 of 9) 4.2.3.105 - Tricyclene synthase,monoterpene,
+Malus,M. domestica,,MDP0000253576,"(1 of 17) 4.2.3.48 - (3S,6E)-nerolidol synthase / Nerolidol synthase",monoterpene,
+Malus,M. domestica,,MDP0000256604,(1 of 4) K04120 - ent-copalyl diphosphate synthase (E5.5.1.13),diterpene,
+Malus,M. domestica,,MDP0000262508,(1 of 9) 4.2.3.105 - Tricyclene synthase,sesquiterpene,
+Malus,M. domestica,,MDP0000268880,(1 of 21) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Malus,M. domestica,,MDP0000275314,(1 of 6) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Malus,M. domestica,,MDP0000293841,"(1 of 17) 4.2.3.48 - (3S,6E)-nerolidol synthase / Nerolidol synthase",monoterpene,
+Malus,M. domestica,,MDP0000309477,(1 of 13) 4.2.3.119 - (-)-alpha-pinene synthase / (-)-alpha-pinene/(-)-camphene synthase,sesquiterpene,
+Malus,M. domestica,,MDP0000311361,(1 of 13) 4.2.3.119 - (-)-alpha-pinene synthase / (-)-alpha-pinene/(-)-camphene synthase,sesquiterpene,
+Malus,M. domestica,,MDP0000316067,(1 of 13) 4.2.3.119 - (-)-alpha-pinene synthase / (-)-alpha-pinene/(-)-camphene synthase,sesquiterpene,
+Malus,M. domestica,,MDP0000470357,(1 of 9) 4.2.3.105 - Tricyclene synthase,sesquiterpene,
+Malus,M. domestica,,MDP0000470358,(1 of 9) 4.2.3.105 - Tricyclene synthase,monoterpene,
+Malus,M. domestica,,MDP0000497279,"(1 of 17) 4.2.3.48 - (3S,6E)-nerolidol synthase / Nerolidol synthase",sesquiterpene,
+Malus,M. domestica,,MDP0000522972,(1 of 21) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Malus,M. domestica,,MDP0000543394,(1 of 4) K04120 - ent-copalyl diphosphate synthase (E5.5.1.13),diterpene,
+Malus,M. domestica,,MDP0000562091,(1 of 1) 4.2.1.133 - Copal-8-ol diphosphate hydratase,diterpene,
+Malus,M. domestica,,MDP0000605270,(1 of 21) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Malus,M. domestica,,MDP0000651689,(1 of 6) K15086 - (3S)-linalool synthase (TPS14),monoterpene,
+Malus,M. domestica,,MDP0000700416,(1 of 9) 4.2.3.105 - Tricyclene synthase,sesquiterpene,
+Malus,M. domestica,,MDP0000720799,(1 of 21) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Malus,M. domestica,,MDP0000726012,(1 of 6) K15086 - (3S)-linalool synthase (TPS14),monoterpene,
+Malus,M. domestica,,MDP0000726014,"(1 of 17) 4.2.3.48 - (3S,6E)-nerolidol synthase / Nerolidol synthase",sesquiterpene,
+Malus,M. domestica,,MDP0000735507,(1 of 21) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Malus,M. domestica,,MDP0000788134,"(1 of 17) 4.2.3.48 - (3S,6E)-nerolidol synthase / Nerolidol synthase",monoterpene,
+Malus,M. domestica,,MDP0000797223,"(1 of 17) 4.2.3.48 - (3S,6E)-nerolidol synthase / Nerolidol synthase",monoterpene,
+Malus,M. domestica,,MDP0000846375,(1 of 1) 4.2.3.110 - (+)-sabinene synthase,sesquiterpene,
+Malus,M. domestica,,MDP0000916065,(1 of 10) 5.5.1.13 - Ent-copalyl diphosphate synthase / Ent-kaurene synthetase A,diterpene,
+Eucalyptus,E. grandis,EgranTPS001,Eucgr.B01314,(1 of 36) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS002,Eucgr.B01315,(1 of 47) 4.2.3.75 - (-)-germacrene D synthase,sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS003,Eucgr.B01942,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS005,Eucgr.C02467,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS006,Eucgr.C02474,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS007,Eucgr.C02554,(1 of 1) 4.2.3.77 - (+)-germacrene D synthase,sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS009,Eucgr.C04198,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,,Eucgr.D00666,(1 of 1) 4.2.3.144 - Geranyllinalool synthase,diterpene,
+Eucalyptus,E. grandis,,Eucgr.D00668,"(1 of 6) K17982 - geranyllinalool synthase (TPS04, GES)",diterpene,
+Eucalyptus,E. grandis,,Eucgr.D00671,"(1 of 7) PTHR31739:SF7 - (E,E)-GERANYLLINALOOL SYNTHASE",diterpene,
+Eucalyptus,E. grandis,,Eucgr.D00677,"(1 of 6) K17982 - geranyllinalool synthase (TPS04, GES)",diterpene,
+Eucalyptus,E. grandis,,Eucgr.D00678,"(1 of 6) K17982 - geranyllinalool synthase (TPS04, GES)",diterpene,
+Eucalyptus,E. grandis,,Eucgr.D00679,"(1 of 6) K17982 - geranyllinalool synthase (TPS04, GES)",diterpene,
+Eucalyptus,E. grandis,,Eucgr.D00680,"(1 of 6) K17982 - geranyllinalool synthase (TPS04, GES)",diterpene,
+Eucalyptus,E. grandis,,Eucgr.D00859,(1 of 17) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,
+Eucalyptus,E. grandis,,Eucgr.D00861,(1 of 17) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,
+Eucalyptus,E. grandis,,Eucgr.D00862,(1 of 17) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,
+Eucalyptus,E. grandis,,Eucgr.D00863,(1 of 17) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,
+Eucalyptus,E. grandis,,Eucgr.D00864,(1 of 17) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,
+Eucalyptus,E. grandis,,Eucgr.D00865,(1 of 17) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,
+Eucalyptus,E. grandis,,Eucgr.D00868,(1 of 17) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,
+Eucalyptus,E. grandis,,Eucgr.D00869,(1 of 17) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,
+Eucalyptus,E. grandis,,Eucgr.D00870,(1 of 17) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,
+Eucalyptus,E. grandis,,Eucgr.D00871,(1 of 17) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,
+Eucalyptus,E. grandis,,Eucgr.D00872,(1 of 17) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,
+Eucalyptus,E. grandis,,Eucgr.D00874,(1 of 17) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,
+Eucalyptus,E. grandis,,Eucgr.D01100,(1 of 36) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Eucalyptus,E. grandis,,Eucgr.D01102,(1 of 1) 4.2.3.119 - (-)-alpha-pinene synthase / (-)-alpha-pinene/(-)-camphene synthase,sesquiterpene,
+Eucalyptus,E. grandis,,Eucgr.D01103,(1 of 36) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Eucalyptus,E. grandis,,Eucgr.D01104,(1 of 36) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Eucalyptus,E. grandis,,Eucgr.D01105,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,,Eucgr.D01106,(1 of 36) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Eucalyptus,E. grandis,,Eucgr.D01114,(1 of 36) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS016,Eucgr.E00404,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS017,Eucgr.E00414,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS018,Eucgr.E00415,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,,Eucgr.E00416,(1 of 47) 4.2.3.75 - (-)-germacrene D synthase,sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS019,Eucgr.E00419,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS020,Eucgr.E02670,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,,Eucgr.E03062,(1 of 7) 4.2.3.25 - S-linalool synthase / LIS,monoterpene,
+Eucalyptus,E. grandis,EgranTPS021,Eucgr.E03115,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS022,Eucgr.E03311,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,,Eucgr.E03562,(1 of 5) K15086 - (3S)-linalool synthase (TPS14),monoterpene,
+Eucalyptus,E. grandis,,Eucgr.E03563,(1 of 7) 4.2.3.25 - S-linalool synthase / LIS,monoterpene,
+Eucalyptus,E. grandis,,Eucgr.E03566,(1 of 5) K15086 - (3S)-linalool synthase (TPS14),monoterpene,
+Eucalyptus,E. grandis,,Eucgr.E03569,(1 of 7) 4.2.3.25 - S-linalool synthase / LIS,monoterpene,
+Eucalyptus,E. grandis,,Eucgr.E03570,(1 of 7) 4.2.3.25 - S-linalool synthase / LIS,monoterpene,
+Eucalyptus,E. grandis,,Eucgr.E03571,"(1 of 10) 4.2.3.48 - (3S,6E)-nerolidol synthase / Nerolidol synthase",monoterpene,
+Eucalyptus,E. grandis,,Eucgr.E03572,(1 of 5) K15086 - (3S)-linalool synthase (TPS14),monoterpene,
+Eucalyptus,E. grandis,,Eucgr.E03574,"(1 of 10) 4.2.3.48 - (3S,6E)-nerolidol synthase / Nerolidol synthase",monoterpene,
+Eucalyptus,E. grandis,,Eucgr.E03598,"(1 of 10) 4.2.3.48 - (3S,6E)-nerolidol synthase / Nerolidol synthase",monoterpene,
+Eucalyptus,E. grandis,,Eucgr.E03602,"(1 of 10) 4.2.3.48 - (3S,6E)-nerolidol synthase / Nerolidol synthase",monoterpene,
+Eucalyptus,E. grandis,,Eucgr.E03603,"(1 of 10) 4.2.3.48 - (3S,6E)-nerolidol synthase / Nerolidol synthase",monoterpene,
+Eucalyptus,E. grandis,,Eucgr.E03605,(1 of 5) K15086 - (3S)-linalool synthase (TPS14),monoterpene,
+Eucalyptus,E. grandis,,Eucgr.E03606,(1 of 7) 4.2.3.25 - S-linalool synthase / LIS,sesquiterpene,
+Eucalyptus,E. grandis,,Eucgr.E03610,(1 of 7) 4.2.3.25 - S-linalool synthase / LIS,monoterpene,
+Eucalyptus,E. grandis,EgranTPS024,Eucgr.F03396,(1 of 36) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS025,Eucgr.F03398,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS026,Eucgr.F03400,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,,Eucgr.F03402,(1 of 36) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Eucalyptus,E. grandis,,Eucgr.F03403,(1 of 36) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS028,Eucgr.F03404,(1 of 36) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS029,Eucgr.F03408,(1 of 50) PTHR31225:SF15 - ALPHA-HUMULENE/(-)-(E)-BETA-CARYOPHYLLENE SYNTHASE,sesquiterpene,
+Eucalyptus,E. grandis,,Eucgr.F03409,(1 of 47) 4.2.3.75 - (-)-germacrene D synthase,sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS032,Eucgr.F03412,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS033,Eucgr.F03413,(1 of 36) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS093,Eucgr.F03855,(1 of 1) K04121 - ent-kaurene synthase (E4.2.3.19),diterpene,
+Eucalyptus,E. grandis,EgranTPS034,Eucgr.G01636,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS090,Eucgr.H01472,(1 of 1) 5.5.1.13 - Ent-copalyl diphosphate synthase / Ent-kaurene synthetase A,diterpene,
+Eucalyptus,E. grandis,EgranTPS035,Eucgr.H04797,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS036,Eucgr.H04977,(1 of 36) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS037,Eucgr.H04978,(1 of 36) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS038,Eucgr.J01451,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS040,Eucgr.J01453,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS041,Eucgr.K03518,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS042,Eucgr.L01631,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS043,Eucgr.L01686,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS087,Eucgr.L01753,(1 of 17) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,
+Eucalyptus,E. grandis,EgranTPS044,Eucgr.L02082,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS088,Eucgr.L02212,(1 of 17) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,
+Eucalyptus,E. grandis,,Eucgr.L02261,"(1 of 10) 4.2.3.48 - (3S,6E)-nerolidol synthase / Nerolidol synthase",monoterpene,
+Eucalyptus,E. grandis,,Eucgr.L02296,(1 of 17) 4.2.3.46 - Alpha-farnesene synthase / AFS1,monoterpene,
+Eucalyptus,E. grandis,EgranTPS045,Eucgr.L02298,(1 of 36) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS046,Eucgr.L02418,(1 of 36) 4.2.3.22 - Germacradienol synthase / Germacradienol/germacrene-D synthase,sesquiterpene,
+Eucalyptus,E. grandis,,Eucgr.L02447,(1 of 47) 4.2.3.75 - (-)-germacrene D synthase,sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS048,Eucgr.L02618,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS049,Eucgr.L02971,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS113,Eucgr.L03091,(1 of 5) K15086 - (3S)-linalool synthase (TPS14),monoterpene,
+Eucalyptus,E. grandis,EgranTPS050,Eucgr.L03151,(1 of 47) 4.2.3.75 - (-)-germacrene D synthase,sesquiterpene,
+Eucalyptus,E. grandis,EgranTPS051,Eucgr.L03307,(1 of 27) K15803 - (-)-germacrene D synthase (GERD),sesquiterpene,
+Eucalyptus,E. grandis,,Eucgr.L03538,(1 of 47) 4.2.3.75 - (-)-germacrene D synthase,sesquiterpene,
+Citrus,sinensis,TPS03,Cs5g23510.1,magnesium ion binding,sesquiterpene synthase,
+Citrus,sinensis,TPS04,Cs3g04360.1,"produces a precursor to TMTT, a volatile plant defense C16-homoterpene",sesquiterpene synthase,
+Citrus,sinensis,TPS07,Cs4g12120.2,Secondary metabolite biosynthesis,sesquiterpene synthase,
+Citrus,sinensis,TPS11,Cs4g12460.1,affect the production of D-limonene in Newhall navel orange,sesquiterpene synthase,
+Citrus,sinensis,TPS16,Cs7g17670.1,Secondary metabolite biosynthesis.,sesquiterpene synthase,
+Citrus,sinensis,TPS21,Cs8g14120.1,generation of volatile compounds,sesquiterpene synthase,
+Citrus,sinensis,TPS24,orange1.1t02008.1,monoterpene biosynthesis,sesquiterpene synthase,
+Citrus,sinensis,TPS25,Cs4g12350.1,terpene biosynthesis,sesquiterpene synthase,
+Citrus,sinensis,TPS26,Cs4g12400.1,terpene biosynthesis in roots,Monoterpene synthase,
+Citrus,sinensis,TPS33,Cs4g12090.1,magnesium ion binding,sesquiterpene synthase,
+Citrus,sinensis,,Cs3g16210.33,,,
+Citrus,sinensis,,Cs3g16210.32,,,
+Citrus,sinensis,,Cs3g16210.31,,,
+Citrus,sinensis,,Cs3g16210.30,,,
+Citrus,sinensis,,Cs3g16210.29,,,
+Citrus,sinensis,,Cs3g16210.28,,,
+Citrus,sinensis,,Cs3g16210.27,,,
+Citrus,sinensis,,Cs3g16210.26,,,
+Citrus,sinensis,,Cs3g16210.25,,,
+Citrus,sinensis,,Cs3g16210.24,,,
+Citrus,sinensis,,Cs3g16210.23,,,
+Citrus,sinensis,,Cs3g16210.22,,,
+Citrus,sinensis,,Cs3g16210.21,,,
+Citrus,sinensis,,Cs3g16210.20,,,
+Citrus,sinensis,,Cs3g16210.19,,,
+Citrus,sinensis,,Cs3g16210.18,,,
+Citrus,sinensis,,Cs3g16210.17,,,
+Citrus,sinensis,,Cs3g16210.16,,,
+Citrus,sinensis,,Cs3g16210.15,,,
+Citrus,sinensis,,Cs3g16210.14,,,
+Citrus,sinensis,,Cs3g16210.13,,,
+Citrus,sinensis,,Cs3g16210.12,,,
+Citrus,sinensis,,Cs3g16210.11,,,
+Citrus,sinensis,,Cs3g16210.10,,,
+Citrus,sinensis,,Cs3g16210.9,,,
+Citrus,sinensis,,Cs3g16210.8,,,
+Citrus,sinensis,,Cs3g16210.7,,,
+Citrus,sinensis,,Cs3g16210.6,,,
+Citrus,sinensis,,Cs3g16210.5,,,
+Citrus,sinensis,,Cs3g16210.4,,,
+Citrus,sinensis,,Cs3g16210.3,,,
+Citrus,sinensis,,Cs3g16210.2,,,
+Citrus,sinensis,,Cs3g16210.1,,,
+Citrus,sinensis,,Cs3g16210.0,,,
+Citrus,sinensis,,Cs3g16210.1,,,
+Chenopodium,Chenopodium quinoa early-release,Terpenoid synthase 1,TPS01,AUR62034002,,
+Chenopodium,Chenopodium quinoa early-release,"Tricyclene synthase TPS4, chloroplastic",TPS4,AUR62011623,,
+Chenopodium,Chenopodium quinoa early-release,Probable terpene synthase 6,TPS6,AUR62034218,,
+Chenopodium,Chenopodium quinoa early-release,Alpha-farnesene synthase,TPS7,AUR62012575,,
+Chenopodium,Chenopodium quinoa early-release,Alpha-farnesene synthase,TPS7,AUR62014625,,
+Chenopodium,Chenopodium quinoa early-release,Probable terpene synthase 13,TPS13,AUR62012569,,
+Chenopodium,Chenopodium quinoa early-release,Probable terpene synthase 13,TPS13,AUR62044185,,
+Chenopodium,Chenopodium quinoa early-release,Alpha-humulene/(-)-(E)-beta-caryophyllene synthase,TPS21,AUR62034207,SESQUITERPENE SYNTHASE,
+Chenopodium,Chenopodium quinoa early-release,Viridiflorene synthase,TPS32,AUR62006347,SESQUITERPENE SYNTHASE,
+Helianthus,Helianthus annuus (Common sunflower),Putative alpha-isocomene synthase,TPS2,"HanXRQChr05g0130221,",SESQUITERPENE SYNTHASE,
+Helianthus,Helianthus annuus (Common sunflower),Putative (E)-beta-ocimene synthase protein,TPS4,"HanXRQChr09g0256781,",MONOTERPENE SYNTHASE,
+Helianthus,Helianthus annuus (Common sunflower),Putative (-)-germacrene D synthase,TPS5,"HanXRQChr04g0113261,",SESQUITERPENE SYNTHASE,
+Helianthus,Helianthus annuus (Common sunflower),Putative terpene synthase 10,TPS10,"HanXRQChr03g0072621,",,
+Helianthus,Helianthus annuus (Common sunflower),Putative terpene synthase 11,TPS11,"HanXRQChr09g0238831,",,
+Populus,Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa),Terpene synthase,TPS14,"Potri.019G045100.1.p,",,
+Ricinus,Ricinus communis (Castor bean),Alpha-copaene synthase (EC 4.2.3.133) ((+)-delta-cadinene synthase) (EC 4.2.3.13) (Terpene synthase 1) (RcSeTPS1),TPS1,"28166.m001038,",SESQUITERPENE SYNTHASE,
+Ricinus,Ricinus communis (Castor bean),Probable terpene synthase 2 (RcSeTPS2) (EC 4.2.3.-),TPS2,"29840.m000603,",,
+Ricinus,Ricinus communis (Castor bean),Probable terpene synthase 3 (RcSeTPS3) (EC 4.2.3.-),TPS3,"29910.m000951,",MONOTERPENE SYNTHASE,
+Ricinus,Ricinus communis (Castor bean),Probable terpene synthase 4 (RcSeTPS4) (EC 4.2.3.-),TPS4,"30169.m006289,",,
+Ricinus,Ricinus communis (Castor bean),Terpene synthase 5 (RcSeTPS5) (EC 4.2.3.-),TPS5,,,
+Ricinus,Ricinus communis (Castor bean),Probable terpene synthase 6 (RcSeTPS6) (EC 4.2.3.-),TPS6,"30169.m006314,",,
+Ricinus,Ricinus communis (Castor bean),"Alpha-farnesene synthase (EC 4.2.3.46) ((E,E)-alpha-farnesene synthase) (Terpene synthase 7) (RcSeTPS7)",TPS7,,SESQUITERPENE SYNTHASE,
+Ricinus,Ricinus communis (Castor bean),Probable terpene synthase 8 (RcSeTPS8) (EC 4.2.3.-),TPS8,"29827.m002614,",,
+Ricinus,Ricinus communis (Castor bean),Probable terpene synthase 9 (RcSeTPS9) (EC 4.2.3.-),TPS9,"30156.m001703,",,
+Ricinus,Ricinus communis (Castor bean),Terpene synthase 10 (RcSeTPS10) (EC 4.2.3.-),TPS10,"29771.m000073,",,
+Ricinus,Ricinus communis (Castor bean),Probable terpene synthase 11 (RcSeTPS11) (EC 4.2.3.-),TPS11,"30225.m001714,",,
+Ricinus,Ricinus communis (Castor bean),Probable terpene synthase 12 (RcSeTPS12) (EC 4.2.3.-),TPS12,"27688.m000060,",,
+Ricinus,Ricinus communis (Castor bean),Probable terpene synthase 13 (RcSeTPS13) (EC 4.2.3.-),TPS13,"29842.m003696,",,
+Sorghum,Sorghum bicolor (Sorghum) (Sorghum vulgare),Beta-sesquiphellandrene synthase (SbTPS2) (EC 4.2.3.123),TPS2,SbRio.07G058400.1.p,SESQUITERPENE SYNTHASE,
+Gossypium,G. hirsutum,GhTPS1,CotAD_07116,sesquiterpene synthase,,
+Gossypium,G. hirsutum,GhTPS4,CotAD_13220,monoterpene synthase,,
+Gossypium,G. hirsutum,GhTPS5,CotAD_21597,monoterpene synthase,,
+Gossypium,G. hirsutum,GhTPS6,CotAD_72197,monoterpene synthase,,
+Gossypium,G. hirsutum,GhTPS8,CotAD_13217,monoterpene synthase,,
+Gossypium,G. hirsutum,GhTPS9,CotAD_08166,monoterpene synthase,,
+Gossypium,G. hirsutum,GhTPS10,CotAD_24487,delta-cadinene synthase,,
+Gossypium,G. hirsutum,GhTPS12,CotAD_60712,monoterpene synthase,,
+Gossypium,G. hirsutum,GhTPS13,CotAD_00777,monoterpene synthase,,
+Gossypium,G. hirsutum,GhTPS14,CotAD_22209,diterpene synthase,,
+Gossypium,G. hirsutum,GhTPS15,CotAD_22208,diterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_06052,delta-cadinene synthase,,
+Gossypium,G. hirsutum,,CotAD_06053,delta-cadinene synthase,,
+Gossypium,G. hirsutum,,CotAD_11862,delta-cadinene synthase,,
+Gossypium,G. hirsutum,,CotAD_11864,delta-cadinene synthase,,
+Gossypium,G. hirsutum,,CotAD_11865,delta-cadinene synthase,,
+Gossypium,G. hirsutum,,CotAD_24288,delta-cadinene synthase,,
+Gossypium,G. hirsutum,,CotAD_24289,delta-cadinene synthase,,
+Gossypium,G. hirsutum,,CotAD_24291,delta-cadinene synthase,,
+Gossypium,G. hirsutum,,CotAD_24292,delta-cadinene synthase,,
+Gossypium,G. hirsutum,,CotAD_24297,delta-cadinene synthase,,
+Gossypium,G. hirsutum,,CotAD_27823,delta-cadinene synthase,,
+Gossypium,G. hirsutum,,CotAD_27837,delta-cadinene synthase,,
+Gossypium,G. hirsutum,,CotAD_27847,delta-cadinene synthase,,
+Gossypium,G. hirsutum,,CotAD_27848,delta-cadinene synthase,,
+Gossypium,G. hirsutum,,CotAD_47306,delta-cadinene synthase,,
+Gossypium,G. hirsutum,,CotAD_47307,delta-cadinene synthase,,
+Gossypium,G. hirsutum,,CotAD_63353,delta-cadinene synthase,,
+Gossypium,G. hirsutum,,CotAD_00922,sesquiterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_15195,sesquiterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_23211,sesquiterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_23220,sesquiterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_70975,sesquiterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_13215,monoterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_20929,monoterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_21594,monoterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_21603,monoterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_24371,monoterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_41941,monoterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_54157,monoterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_57454,monoterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_60562,monoterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_71406,monoterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_29874,diterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_37766,diterpene synthase,,
+Gossypium,G. hirsutum,,CotAD_29089,diterpene synthase,,
+Gossypium,G. raimondii,GhTPS2,Gorai.006G009100,monoterpene synthase,,
+Gossypium,G. raimondii,GhTPS3,Gorai.007G316200,sesquiterpene synthase,,
+Gossypium,G. raimondii,GhTPS7,Gorai.011G019200,monoterpene synthase,,
+Gossypium,G. raimondii,GhTPS11,Gorai.007G314900,sesquiterpene synthase,,
+Gossypium,G. raimondii,,Gorai.002G234600,delta-cadinene synthase,,
+Gossypium,G. raimondii,,Gorai.009G427900,delta-cadinene synthase,,
+Gossypium,G. raimondii,,Gorai.009G428000,delta-cadinene synthase,,
+Gossypium,G. raimondii,,Gorai.009G428200,delta-cadinene synthase,,
+Gossypium,G. raimondii,,Gorai.009G428300,delta-cadinene synthase,,
+Gossypium,G. raimondii,,Gorai.009G428400,delta-cadinene synthase,,
+Gossypium,G. raimondii,,Gorai.009G428500,delta-cadinene synthase,,
+Gossypium,G. raimondii,,Gorai.009G428600,delta-cadinene synthase,,
+Gossypium,G. raimondii,,Gorai.009G428700,delta-cadinene synthase,,
+Gossypium,G. raimondii,,Gorai.013G164900,delta-cadinene synthase,,
+Gossypium,G. raimondii,,Gorai.007G315100,sesquiterpene synthase,,
+Gossypium,G. raimondii,,Gorai.007G315500,sesquiterpene synthase,,
+Gossypium,G. raimondii,,Gorai.002G106500,sesquiterpene synthase,,
+Gossypium,G. raimondii,,Gorai.011G005600,sesquiterpene synthase,,
+Gossypium,G. raimondii,,Gorai.011G005900,sesquiterpene synthase,,
+Gossypium,G. raimondii,,Gorai.011G005500,sesquiterpene synthase,,
+Gossypium,G. raimondii,,Gorai.007G315300,sesquiterpene synthase,,
+Gossypium,G. raimondii,,Gorai.002G080300,sesquiterpene synthase,,
+Gossypium,G. raimondii,,Gorai.007G315900,sesquiterpene synthase,,
+Gossypium,G. raimondii,,Gorai.007G316800,sesquiterpene synthase,,
+Gossypium,G. raimondii,,Gorai.007G316500,sesquiterpene synthase,,
+Gossypium,G. raimondii,,Gorai.007G316700,sesquiterpene synthase,,
+Gossypium,G. raimondii,,Gorai.012G132700,monoterpene synthase,,
+Gossypium,G. raimondii,,Gorai.012G132800,monoterpene synthase,,
+Gossypium,G. raimondii,,Gorai.006G035400,monoterpene synthase,,
+Gossypium,G. raimondii,,Gorai.006G035700,monoterpene synthase,,
+Gossypium,G. raimondii,,Gorai.009G391200,monoterpene synthase,,
+Gossypium,G. raimondii,,Gorai.006G036100,monoterpene synthase,,
+Gossypium,G. raimondii,,Gorai.006G035800,monoterpene synthase,,
+Gossypium,G. raimondii,,Gorai.009G363000,monoterpene synthase,,
+Gossypium,G. raimondii,,Gorai.009G363300,monoterpene synthase,,
+Gossypium,G. raimondii,,Gorai.011G019700,monoterpene synthase,,
+Gossypium,G. raimondii,,Gorai.009G170900,diterpene synthase,,
+Gossypium,G. raimondii,,Gorai.009G170800,diterpene synthase,,
+Gossypium,G. raimondii,,Gorai.007G137400,diterpene synthase,,
+Gossypium,G. raimondii,,Gorai.004G079500,diterpene synthase,,
+Gossypium,G. raimondii,,Gorai.002G110600,diterpene synthase,,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS1,Solyc01g105860.2,"(R)-limonene synthase IPR005630 Terpene synthase, metal-binding domainLength=218",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS2,Solyc01g105910.1,D-limonene synthase IPR001906 Terpene synthase-likeLength=131,,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS3,Solyc01g105870.2,"(E)-beta-ocimene synthase IPR005630 Terpene synthase, metal-binding domainLength=607",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS4 Beta-phellandrene synthase,Solyc01g105880.2,Monoterpenoid synthase 2 MTS2Length=590,,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS5,Solyc01g105890.2,Monoterpene synthase 1 MTS1Length=609,,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS6,Solyc01g105900.2,"(E)-beta-ocimene synthase IPR005630 Terpene synthase, metal-binding domainLength=535",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS7 101247865,Solyc01g105920.2,"(E)-beta-ocimene synthase IPR005630 Terpene synthase, metal-binding domainLength=592",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS8,Solyc01g105960.2,(E)-beta-ocimene synthase IPR001906 Terpene synthase-likeLength=354,,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS12,Solyc06g059930.2,sesquiterpene synthase 1 sstle1Length=548,,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS14,Solyc09g092470.2,"Alpha-humulene_(-)-(E)-beta-caryophyllene synthase IPR005630 Terpene synthase, metal-binding domainLength=568",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS15,Solyc07g051940.2,"Alpha-humulene_(-)-(E)-beta-caryophyllene synthase IPR005630 Terpene synthase, metal-binding domainLength=497",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS16,Solyc07g008690.2,"Alpha-humulene_(-)-(E)-beta-caryophyllene synthase IPR005630 Terpene synthase, metal-binding domainLength=405",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS16,Solyc07g008680.2,Germacrene-D synthase IPR001906 Terpene synthase-likeLength=129,,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS17,Solyc01g105850.2,(E)-beta-ocimene synthase IPR001906 Terpene synthase-likeLength=278,,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS17,Solyc06g059910.2,"Alpha-humulene_(-)-(E)-beta-caryophyllene synthase IPR005630 Terpene synthase, metal-binding domainLength=342",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS18,Solyc08g005720.2,"Ent-kaurene synthase-like protein 1 IPR005630 Terpene synthase, metal-binding domainLength=756",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS19/20,Solyc12g006570.1,"Germacrene-D synthase IPR005630 Terpene synthase, metal-binding domainLength=554",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS21,Solyc06g060010.2,"Alpha-humulene_(-)-(E)-beta-caryophyllene synthase IPR005630 Terpene synthase, metal-binding domainLength=555",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS21,Solyc08g005640.2,"Ent-kaurene synthase-like protein 1 IPR005630 Terpene synthase, metal-binding domainLength=667",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS22,Solyc01g105950.2,"(R)-limonene synthase IPR005630 Terpene synthase, metal-binding domainLength=152",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS22,Solyc01g105940.2,"Limonene synthase IPR005630 Terpene synthase, metal-binding domainLength=105",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS22,Solyc01g105930.1,D-limonene synthase IPR001906 Terpene synthase-likeLength=101,,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS24,Solyc07g066670.2,"Ent-kaurene synthase IPR005630 Terpene synthase, metal-binding domainLength=819",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS25,Solyc02g079890.1,"Beta-ocimene synthase IPR005630 Terpene synthase, metal-binding domainLength=547",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS26,Solyc02g079900.1,"(E E)-alpha-farnesene synthase IPR005630 Terpene synthase,",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS27,Solyc00g154480.1,"Cellulose synthase-like protein E1 IPR005630 Terpene synthase, metal-binding domainLength=521",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS27,Solyc02g079910.1,Limonene synthase IPR001906 Terpene synthase-likeLength=165,,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS28,Solyc04g054380.1,"Alpha-humulene_(-)-(E)-beta-caryophyllene synthase IPR005630 Terpene synthase, metal-binding domainLength=554",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS29,Solyc12g019240.1,Germacrene-D synthase IPR001906 Terpene synthase-likeLength=235,,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS30,Solyc01g101220.1,"Sesquiterpene synthase 1 IPR005630 Terpene synthase, metal-binding domainLength=168",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS31,Solyc01g101170.2,"Alpha-humulene_(-)-(E)-beta-caryophyllene synthase IPR005630 Terpene synthase, metal-binding domainLength=555",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS32,Solyc01g101180.2,"Alpha-humulene_(-)-(E)-beta-caryophyllene synthase IPR005630 Terpene synthase, metal-binding domainLength=548",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS33,Solyc01g101190.2,"Alpha-humulene_(-)-(E)-beta-caryophyllene synthase IPR005630 Terpene synthase, metal-binding domainLength=552",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS35,Solyc01g101210.2,"Alpha-humulene_(-)-(E)-beta-caryophyllene synthase IPR005630 Terpene synthase, metal-binding domainLength=556",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS36,Solyc06g060180.1,"Alpha-humulene_(-)-(E)-beta-caryophyllene synthase IPR005630 Terpene synthase, metal-binding domainLength=587",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS37,Solyc10g005410.2,"Linalool synthase IPR005630 Terpene synthase, metal-binding domainLength=629",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS38,Solyc02g079840.1,"(E)-beta-ocimene synthase IPR005630 Terpene synthase, metal-binding domainLength=538",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS39,Solyc10g005390.2,"Linalool synthase IPR005630 Terpene synthase, metal-binding domainLength=563",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS40,Solyc06g084240.1,copalyl diphosphate synthase cps1Length=800,,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS41,Solyc08g005710.2,Ent-copalyl diphosphate synthase (Fragment) IPR001906 Terpene synthase-likeLength=668,,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS42,Solyc10g005420.1,"Limonene synthase IPR005630 Terpene synthase, metal-binding domainLength=82",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS43,Solyc05g026590.1,Beta-ocimene synthase IPR001906 Terpene synthase-likeLength=287,,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS46,Solyc03g006550.2,"(-)-ent-kaurene synthase IPR005630 Terpene synthase, metal-binding domainLength=821",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS47,Solyc03g007730.1,"Beta-ocimene synthase IPR005630 Terpene synthase, metal-binding domainLength=562",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS48,Solyc04g051620.1,"Alpha-humulene_(-)-(E)-beta-caryophyllene synthase IPR005630 Terpene synthase, metal-binding domainLength=565",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS51,Solyc07g052120.2,"(-)-germacrene D synthase IPR005630 Terpene synthase, metal-binding domainLength=216",,
+Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),TPS52,Solyc07g052140.2,"(-)-germacrene D synthase IPR005630 Terpene synthase, metal-binding domainLength=216",,
+Zea,Zea mays (Maize),TPS1 csu186 eks1 KS2.1 GRMZM2G049538 ZEAMMB73_Zm00001d002351,"Zm00001d002351_P001,","Acyclic sesquiterpene synthase ((3R,6E)-nerolidol synthase) (EC 4.2.3.49) ((R)-linalool synthase) (EC 4.2.3.26) (Beta-farnesene synthase) (EC 4.2.3.47) (Ent-kaurene synthase 2.1) (ZmKS2.1) (EC 4.2.3.19) (Farnesyl diphosphatase) (EC 3.1.7.6) (Geraniol synthase) (EC 3.1.7.11) (Terpene synthase 1) (ZmTPS1)","GRMZM2G049538 ZEAMMB73_Zm00001d002351, TPS1GRMZM2G49538 ZEAMMB73_Zm1d2351, TPS1, csu186 eks1 KS2.1",SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),TPS2 ZEAMMB73_Zm00001d015053,"Zm00001d015053_P001, GRMZM2G046615_P01","Terpene synthase 2, chloroplastic ((3S,6E)-nerolidol synthase) (EC 4.2.3.48) ((E,E)-geranyllinalool synthase) (EC 4.2.3.144) (S-(+)-linalool synthase) (EC 4.2.3.25)","ZEAMMB73_Zm00001d015053, TPS2",MONOTERPENE SYNTHASE
+Zea,Zea mays (Maize),TPS3 ZEAMMB73_Zm00001d015054,"Zm00001d015054_P001, GRMZM2G064406_P01","Probable terpene synthase 3, chloroplastic (EC 4.2.3.-)","ZEAMMB73_Zm00001d015054, TPS3",MONOTERPENE SYNTHASE
+Zea,Zea mays (Maize),"ZEAMMB73_Zm00001d024478,TPS4","Zm00001d024478_P001,",Terpene synthase4,ZEAMMB73_Zm00001d024478,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),TPS4 ZEAMMB73_Zm00001d024478,Zm00001d024478,7-epi-sesquithujene synthase (EC 4.2.3.101) ((E)-alpha-bergamotene synthase) (EC 4.2.3.81) (Beta-bisabolene synthase) (EC 4.2.3.55) (Beta-curcumene synthase) (EC 4.2.3.-) (Beta-farnesene synthase) (EC 4.2.3.47) (Gamma-curcumene synthase) (EC 4.2.3.94) (Sesquisabinene A synthase) (EC 4.2.3.-) (Terpene synthase 4) (tps4-B73),"ZEAMMB73_Zm00001d024478, TPS4",SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),TPS4,Zm00001d024478,Inactive 7-epi-sesquithujene synthase (Terpene synthase 4) (tps4-Del1),TPS4,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),"ZEAMMB73_Zm00001d024481,TPS5","Zm00001d024481_P002,",Terpene synthase5,ZEAMMB73_Zm00001d024481,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),TPS5A,Zm00001d024481,Sesquithujene synthase A (EC 4.2.3.102) ((S)-beta-bisabolene synthase) (EC 4.2.3.55) ((Z)-alpha-bergamotene synthase) (EC 4.2.3.54) (Beta-curcumene synthase) (EC 4.2.3.-) (Beta-farnesene synthase) (EC 4.2.3.47) (Gamma-curcumene synthase) (EC 4.2.3.94) (Sesquisabinene B synthase) (EC 4.2.3.-) (Terpene synthase 5) (tps5-Del1),TPS5A,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),TPS5B,Zm00001d024481,Inactive sesquithujene synthase B (Terpene synthase 5) (tps5-Del2),TPS5B,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),TPS5 ZEAMMB73_Zm00001d024481,Zm00001d024481,Inactive sesquithujene synthase (Terpene synthase 5) (tps5-B73),"ZEAMMB73_Zm00001d024481, TPS5",SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),TPS6 UMI2 ZEAMMB73_Zm00001d024207,"Zm00001d024207_P002,",(S)-beta-macrocarpene synthase (EC 5.5.1.17) (Alpha-terpinolene synthase) (EC 4.2.3.113) (Beta-bisabolene synthase) (EC 4.2.3.55) (Beta-myrcene synthase) (EC 4.2.3.15) (Limonene synthase) (EC 4.2.3.16) (Linalool synthase) (EC 4.2.3.25) (Terpene synthase 6),"ZEAMMB73_Zm00001d024207, TPS6ZEAMMB73_Zm1d2427, TPS6TPS6, UMI2",SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),TPS7 ZEAMMB73_Zm00001d032230,"ZmPHJ40.01G314000.1.p, AC217050.4_FGP007",Tau-cadinol synthase (EC 4.2.3.173) (Terpene synthase 7) (ZmTPS7),"ZEAMMB73_Zm00001d032230, TPS7",
+Zea,Zea mays (Maize),TPS8 ZEAMMB73_Zm00001d029195,"Zm00001d029195_P001, GRMZM2G038153_P01",Alpha-copaene synthase (EC 4.2.3.133) ((+)-germacrene D synthase) (EC 4.2.3.77) (Beta-caryophyllene synthase) (EC 4.2.3.57) (Delta-cadinene synthase) (EC 4.2.3.-) (Terpene synthase 8),"ZEAMMB73_Zm00001d029195, TPS8",SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),"TPS8, 732834 ZEAMMB73_Zm00001d029195","Zm00001d029195_P003,",Terpene synthase8,"ZEAMMB73_Zm00001d029195, 732834",
+Zea,Zea mays (Maize),"TPS9, ZEAMMB73_Zm00001d024477","Zm00001d024477_P001,",Terpene synthase9,ZEAMMB73_Zm00001d024477,
+Zea,Zea mays (Maize),"TPS9, ZEAMMB73_Zm00001d024477","Zm00001d024477_P001,","ZmTPS9 protein has a glycosyltransferase domain, bifunctional synthase-phosphatase enzyme, affect starch content",ZEAMMB73_Zm00001d024477,
+Zea,Zea mays (Maize),TPS10,Zm00001d024486,(E)-beta-farnesene synthase (EC 4.2.3.47) ((+)-germacrene D synthase) (EC 4.2.3.77) ((E)-alpha-bergamotene synthase) (EC 4.2.3.81) (Alpha-copaene synthase) (EC 4.2.3.133) (Alpha-muurolene synthase) (EC 4.2.3.125) (Beta-bisabolene synthase) (EC 4.2.3.55) (Beta-caryophyllene synthase) (EC 4.2.3.57) (Delta-cadinene synthase) (EC 4.2.3.-) (Sesquiphellandrene synthase) (EC 4.2.3.123) (Sesquisabinene A synthase) (EC 4.2.3.-) (Terpene synthase 10) (Zingiberene synthase) (EC 4.2.3.65),TPS10,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),"ZEAMMB73_Zm00001d024486,TPS10","Zm00001d024486_P001,",Terpene synthase10,ZEAMMB73_Zm00001d024486,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),"TPS11, UMI3 ZEAMMB73_Zm00001d024210","Zm00001d024210_P002,",(S)-beta-macrocarpene synthase (EC 5.5.1.17) (Alpha-terpinolene synthase) (EC 4.2.3.113) (Beta-bisabolene synthase) (EC 4.2.3.55) (Beta-myrcene synthase) (EC 4.2.3.15) (Limonene synthase) (EC 4.2.3.16) (Linalool synthase) (EC 4.2.3.25) (Terpene synthase 11),"ZEAMMB73_Zm00001d024210, TPS11, TPS11ZEAMMB73_Zm1d2421, TPS11TPS11, UMI3",SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),"TPS15, 103629258 ZEAMMB73_Zm00001d035682","Zm00001d035682_P001,",Alpha-humulene/(-)-(E)-beta-caryophyllene synthase (TPS15-B73),"ZEAMMB73_Zm00001d035682, 103629258",SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),EDS TPS17 GRMZM2G010356 ZEAMMB73_Zm00001d004509,"Zm00001d004509_P001,",Eudesmanediol synthase (ZmEDS) (EC 4.2.3.197) (Terpene synthase 17) (Terpene synthase 7),"GRMZM2G010356 ZEAMMB73_Zm00001d004509, EDSGRMZM2G1356 ZEAMMB73_Zm1d459, EDSEDS, TPS17",SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),EDS TPS17 TSGD1_1 Zm00014a_032508,"ZmPHB47.K019800.1.p,",Eudesmanediol synthase (ZmEDS) (EC 4.2.3.197) ((+)-germacrene D synthase) (Terpene synthase 17),"Zm00014a_032508, EDSZm14a_3258, EDSEDS, TPS17 TSGD1_1",SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),TPS21,Zm00001d047440,Beta-selinene synthase (EC 4.2.3.66) (Terpene synthase 21) (ZmTps21),TPS21,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),"ZEAMMB73_Zm00001d047440,TPS 21",Zm00001d047440,Inactive beta selinene synthase (Terpene synthase 21) (Zmtps21),ZEAMMB73_Zm00001d047440,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),TPS23 ZEAMMB73_Zm00001d024234,Zm00001d024234,(E)-beta-caryophyllene synthase (EC 4.2.3.57) (Terpene synthase 23),"ZEAMMB73_Zm00001d024234, TPS23",SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),TPS23 Zm00014a_002860,"ZmPHJ40.10G054500.1.p,",(E)-beta-caryophyllene synthase (EC 4.2.3.57) (Terpene synthase 23),"Zm00014a_002860, TPS23",SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),tps26 ZEAMMB73_Zm00001d037092,"Zm00001d037092_P001, GRMZM2G030583_P03",Monoterpene synthase (Terpene synthase26),"ZEAMMB73_Zm00001d037092, tps26",MONOTERPENE SYNTHASE
+Zea,Zea mays (Maize),TPS26 ZEAMMB73_Zm00001d037092,"Zm00001d037092_P002,","Alpha-terpineol synthase, chloroplastic (EC 4.2.3.111) (4-terpineol synthase) (EC 4.2.3.-) (Alpha-terpinolene synthase) (EC 4.2.3.113) (Beta-myrcene synthase) (EC 4.2.3.15) (Gamma-terpinene synthase) (EC 4.2.3.114) (Limonene synthase) (EC 4.2.3.16) (Terpene synthase 26, chloroplastic)","ZEAMMB73_Zm00001d037092, TPS26",MONOTERPENE SYNTHASE
+Zea,Zea mays (Maize),"ZEAMMB73_Zm00001d037092,TPS 26","Zm00001d037092_P003,",Terpene synthase26,ZEAMMB73_Zm00001d037092,MONOTERPENE SYNTHASE
+Zea,Zea mays (Maize),"ZEAMMB73_Zm00001d037092,TPS 26","Zm00001d037092_P004,",Terpene synthase26,,MONOTERPENE SYNTHASE
+Zea,Zea mays (Maize),103641097 ZEAMMB73_Zm00001d024210,"Zm00001d024210_P001,",Terpene synthase6,"ZEAMMB73_Zm00001d024210, 103641097",SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),103641099 ZEAMMB73_Zm00001d024211,"Zm00001d024211_P002,",Alpha-humulene/(-)-(E)-beta-caryophyllene synthase,"ZEAMMB73_Zm00001d024211, 103641099",SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),103641099 ZEAMMB73_Zm00001d024211,"Zm00001d024211_P001, GRMZM2G028306_P01",Alpha-humulene/(-)-(E)-beta-caryophyllene synthase,"ZEAMMB73_Zm00001d024211, 103641099",SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),103641248 ZEAMMB73_Zm00001d024512,Zm00001d024512,Copalyl diphosphate synthase3,"ZEAMMB73_Zm00001d024512, 103641248",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),103641248 ZEAMMB73_Zm00001d024512,Zm00001d024512,Copalyl diphosphate synthase3,"ZEAMMB73_Zm00001d024512, 103641248",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),103641248 ZEAMMB73_Zm00001d024512,"Zm00001d024512_P007, GRMZM2G068808_P02",Copalyl diphosphate synthase3,"ZEAMMB73_Zm00001d024512, 103641248",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),103641248 ZEAMMB73_Zm00001d024512,"Zm00001d024512_P006,",Copalyl diphosphate synthase3,"ZEAMMB73_Zm00001d024512, 103641248",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),103641248 ZEAMMB73_Zm00001d024512,"Zm00001d024512_P005,",Copalyl diphosphate synthase3,"ZEAMMB73_Zm00001d024512, 103641248",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),103641248 ZEAMMB73_Zm00001d024512,Zm00001d024512,Copalyl diphosphate synthase3,"ZEAMMB73_Zm00001d024512, 103641248",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),103641248 ZEAMMB73_Zm00001d024512,"Zm00001d024512_P003,",Copalyl diphosphate synthase3,"ZEAMMB73_Zm00001d024512, 103641248",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),103641248 ZEAMMB73_Zm00001d024512,"Zm00001d024512_P004,",Copalyl diphosphate synthase3,"ZEAMMB73_Zm00001d024512, 103641248",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),103641248 ZEAMMB73_Zm00001d024512,"Zm00001d024512_P001,",Copalyl diphosphate synthase3,"ZEAMMB73_Zm00001d024512, 103641248",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),103645955 ZEAMMB73_Zm00001d002349,Zm00001d002349,Kaurene synthase3,"ZEAMMB73_Zm00001d002349, 103645955",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),103645955 ZEAMMB73_Zm00001d002349,"Zm00001d002349_P005,",Kaurene synthase3,"ZEAMMB73_Zm00001d002349, 103645955",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),103645955 ZEAMMB73_Zm00001d002349,Zm00001d002349,Kaurene synthase3,"ZEAMMB73_Zm00001d002349, 103645955",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),103645955 ZEAMMB73_Zm00001d002349,"Zm00001d002349_P001,",Kaurene synthase3,"ZEAMMB73_Zm00001d002349, 103645955",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),103645955 ZEAMMB73_Zm00001d002349,"Zm00001d002349_P008,",Kaurene synthase3,"ZEAMMB73_Zm00001d002349, 103645955",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),103645955 ZEAMMB73_Zm00001d002349,"Zm00001d002349_P010,",Kaurene synthase3,"ZEAMMB73_Zm00001d002349, 103645955",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),541974 ZEAMMB73_Zm00001d002351,"Zm00001d002351_P002,",Terpene synthase1,"ZEAMMB73_Zm00001d002351, 541974",
+Zea,Zea mays (Maize),542253 ZEAMMB73_Zm00001d032961,"Zm00001d032961_P005, GRMZM2G081554_P02, GRMZM2G081554_P04",Anther ear1,"ZEAMMB73_Zm00001d032961, 542253",
+Zea,Zea mays (Maize),542253 ZEAMMB73_Zm00001d032961,Zm00001d032961,Anther ear1,"ZEAMMB73_Zm00001d032961, 542253",
+Zea,Zea mays (Maize),542253 ZEAMMB73_Zm00001d032961,"Zm00001d032961_P003,",Anther ear1,"ZEAMMB73_Zm00001d032961, 542253",
+Zea,Zea mays (Maize),542253 ZEAMMB73_Zm00001d032961,"Zm00001d032961_P017,",Anther ear1,"ZEAMMB73_Zm00001d032961, 542253",
+Zea,Zea mays (Maize),542253 ZEAMMB73_Zm00001d032961,"Zm00001d032961_P025,",Anther ear1,"ZEAMMB73_Zm00001d032961, 542253",
+Zea,Zea mays (Maize),542253 ZEAMMB73_Zm00001d032961,"Zm00001d032961_P001,",Anther ear1,"ZEAMMB73_Zm00001d032961, 542253",
+Zea,Zea mays (Maize),542253 ZEAMMB73_Zm00001d032961,Zm00001d032961,Anther ear1,"ZEAMMB73_Zm00001d032961, 542253",
+Zea,Zea mays (Maize),542253 ZEAMMB73_Zm00001d032961,Zm00001d032961,Anther ear1,"ZEAMMB73_Zm00001d032961, 542253",
+Zea,Zea mays (Maize),542253 ZEAMMB73_Zm00001d032961,"Zm00001d032961_P028,",Anther ear1,"ZEAMMB73_Zm00001d032961, 542253",
+Zea,Zea mays (Maize),542253 ZEAMMB73_Zm00001d032961,Zm00001d032961,Anther ear1,"ZEAMMB73_Zm00001d032961, 542253",
+Zea,Zea mays (Maize),542253 ZEAMMB73_Zm00001d032961,"Zm00001d032961_P024,",Anther ear1,"ZEAMMB73_Zm00001d032961, 542253",
+Zea,Zea mays (Maize),542253 ZEAMMB73_Zm00001d032961,,Anther ear1,"ZEAMMB73_Zm00001d032961, 542253",
+Zea,Zea mays (Maize),542253 ZEAMMB73_Zm00001d032961,"Zm00001d032961_P016,",Anther ear1,"ZEAMMB73_Zm00001d032961, 542253",
+Zea,Zea mays (Maize),542253 ZEAMMB73_Zm00001d032961,"Zm00001d032961_P002,",Anther ear1,"ZEAMMB73_Zm00001d032961, 542253",
+Zea,Zea mays (Maize),542253 ZEAMMB73_Zm00001d032961,,Anther ear1,"ZEAMMB73_Zm00001d032961, 542253",
+Zea,Zea mays (Maize),542253 ZEAMMB73_Zm00001d032961,"Zm00001d032961_P022,",Anther ear1,"ZEAMMB73_Zm00001d032961, 542253",
+Zea,Zea mays (Maize),542688 ZEAMMB73_Zm00001d024207,"Zm00001d024207_P001,",Alpha-humulene/(-)-(E)-beta-caryophyllene synthase,"ZEAMMB73_Zm00001d024207, 542688",SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),732834 ZEAMMB73_Zm00001d029195,"Zm00001d029195_P002,",Terpene synthase8,"ZEAMMB73_Zm00001d029195, 732834",SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),AN1 ZEAMMB73_Zm00001d032961,Zm00001d032961,"Ent-copalyl diphosphate synthase AN1, chloroplastic (Ent-CPP synthase) (Ent-CPS) (EC 5.5.1.13) (Ent-kaurene synthase A) (Protein ANTHER EAR 1)","ZEAMMB73_Zm00001d032961, AN1",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),CPPS2 AN2 ZEAMMB73_Zm00001d029648,"Zm00001d029648_P001,","Ent-copalyl diphosphate synthase 2, chloroplastic (Ent-CPP synthase 2) (Ent-CPS 2) (EC 5.5.1.13) (Protein ANTHER EAR 2) (ZmAN2)","ZEAMMB73_Zm00001d029648, CPPS2ZEAMMB73_Zm1d29648, CPPS2CPPS2, AN2",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),CYP71Z16 ZEAMMB73_Zm00001d014136,Zm00001d014136,Dolabradiene monooxygenase (EC 1.14.14.159) (Cytochrome P450 71Z16) (ZmCYP71Z16),"ZEAMMB73_Zm00001d014136, CYP71Z16",
+Zea,Zea mays (Maize),CYP71Z18 ZEAMMB73_Zm00001d014134,Zm00001d014134,Zealexin A1 synthase (EC 1.14.14.160) (Cytochrome P450 71Z18),"ZEAMMB73_Zm00001d014134, CYP71Z18",
+Zea,Zea mays (Maize),CYP92C5 ZEAMMB73_Zm00001d018839,Zm00001d018839,Dimethylnonatriene synthase (EC 1.14.14.59) (Cytochrome P-450 19) (Cytochrome P450 92C5) (Trimethyltridecatetraene synthase) (EC 1.14.14.58),"ZEAMMB73_Zm00001d018839, CYP92C5",
+Zea,Zea mays (Maize),CYP92C6 ZEAMMB73_Zm00001d007918,Zm00001d007918,Trimethyltridecatetraene synthase (EC 1.14.14.58) (Cytochrome P-450 20) (Cytochrome P450 92C6),"ZEAMMB73_Zm00001d007918, CYP92C6",
+Zea,Zea mays (Maize),KSL4 ZEAMMB73_Zm00001d032858,"Zm00001d032858_P001,","Dolabradiene synthase KSL4, chloroplastic (EC 4.2.3.196) (Ent-kaurene synthase-like 4) (ZmKSL4)","ZEAMMB73_Zm00001d032858, KSL4",DITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d004279,"Zm00001d004279_P001,",18-cineole synthase 1 chloroplastic,ZEAMMB73_Zm00001d004279,MONOTERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d004484,"Zm00001d004484_P002,",Alpha-humulene/(-)-(E)-beta-caryophyllene synthase,ZEAMMB73_Zm00001d004484,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d004484,"Zm00001d004484_P001,",Alpha-humulene/(-)-(E)-beta-caryophyllene synthase,ZEAMMB73_Zm00001d004484,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d018611,"Zm00001d018611_P001,",18-cineole synthase 1 chloroplastic,ZEAMMB73_Zm00001d018611,MONOTERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d024208,"Zm00001d024208_P002,",Alpha-humulene/(-)-(E)-beta-caryophyllene synthase,ZEAMMB73_Zm00001d024208,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d024208,"Zm00001d024208_P001,",Alpha-humulene/(-)-(E)-beta-caryophyllene synthase,ZEAMMB73_Zm00001d024208,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d024208,"Zm00001d024208_P003,",Alpha-humulene/(-)-(E)-beta-caryophyllene synthase,ZEAMMB73_Zm00001d024208,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d024208,"Zm00001d024208_P004,",Alpha-humulene/(-)-(E)-beta-caryophyllene synthase,ZEAMMB73_Zm00001d024208,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d024359,"Zm00001d024359_P001,",Alpha-humulene/(-)-(E)-beta-caryophyllene synthase,ZEAMMB73_Zm00001d024359,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d024480,"Zm00001d024480_P001,",Terpene_synth_C domain-containing protein,ZEAMMB73_Zm00001d024480,
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d024514,"Zm00001d024514_P001,",Ent-kaur-16-ene synthase chloroplastic,ZEAMMB73_Zm00001d024514,DITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d024667,"Zm00001d024667_P003,",Germacrene A synthase long form,ZEAMMB73_Zm00001d024667,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d024667,"Zm00001d024667_P002,",Germacrene A synthase long form,ZEAMMB73_Zm00001d024667,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d024669,Zm00001d024669,Alpha-humulene/(-)-(E)-beta-caryophyllene synthase,ZEAMMB73_Zm00001d024669,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d024669,"Zm00001d024669_P001,",Alpha-humulene/(-)-(E)-beta-caryophyllene synthase,ZEAMMB73_Zm00001d024669,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d024669,"Zm00001d024669_P001,",Alpha-humulene/(-)-(E)-beta-caryophyllene synthase,ZEAMMB73_Zm00001d024669,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d026619,Zm00001d026619_P001,Pyruvate kinase,ZEAMMB73_Zm00001d026619,
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d029139,"Zm00001d029139_P001,",Alpha-humulene/(-)-(E)-beta-caryophyllene synthase,ZEAMMB73_Zm00001d029139,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d029523,"Zm00001d029523_P001,",Alpha-humulene/(-)-(E)-beta-caryophyllene synthase,ZEAMMB73_Zm00001d029523,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d041082,"Zm00001d041082_P001,",Kaurene synthase4,ZEAMMB73_Zm00001d041082,DITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d041082,"Zm00001d041082_P002,",Kaurene synthase4,ZEAMMB73_Zm00001d041082,DITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d041082,"Zm00001d041082_P003,",Kaurene synthase4,ZEAMMB73_Zm00001d041082,DITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d045054,"Zm00001d045054_P001,",Sesquiterpene cyclase1,ZEAMMB73_Zm00001d045054,SESQUITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d048867,"Zm00001d048867_P001,",Ent-copalyl diphosphate synthase chloroplastic,ZEAMMB73_Zm00001d048867,DITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d048874,"Zm00001d048874_P001, AC218998.2_FGP011",Ent-copalyl diphosphate synthase chloroplastic,ZEAMMB73_Zm00001d048874,DITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d049957,"Zm00001d049957_P001,",Kaurene synthase6,ZEAMMB73_Zm00001d049957,DITERPENE SYNTHASE
+Zea,Zea mays (Maize),ZEAMMB73_Zm00001d053916,Zm00001d053916,S-(+)-linalool synthase chloroplastic,ZEAMMB73_Zm00001d053916,MONOTERPENE SYNTHASE
+Ocimum,O. sanctum,OsaTPS1,scaffold8511.g82728.t1,Gamma-cadinene synthase,,
+Ocimum,O. sanctum,OsaTPS2,scaffold943.g31068.t1,Germacrene-D synthase,,
+Ocimum,O. sanctum,OsaTPS3,scaffold1616.g42691.t1,Viridiflorene synthase,,
+Ocimum,O. sanctum,OsaTPS4,scaffold1616.g42692.t1,Vetispiradiene synthase 1,,
+Ocimum,O. sanctum,OsaTPS5,scaffold2018.g48302.t1,Selinene synthase,,
+Ocimum,O. sanctum,OsaTPS6,scaffold2410.g52924.t1,Bicyclogermacrene synthase Short=Ovtps4,,
+Ocimum,O. sanctum,OsaTPS7,scaffold2421.g53050.t1,Germacrene A synthase,,
+Ocimum,O. sanctum,OsaTPS8,scaffold2677.g55836.t1,Germacrene A synthase,,
+Ocimum,O. sanctum,OsaTPS9,scaffold5167.g73736.t1,Germacrene A synthase,,
+Ocimum,O. sanctum,OsaTPS10,scaffold6100.g77427.t1,Bicyclogermacrene synthase,,
+Ocimum,O. sanctum,OsaTPS11,scaffold6894.g79659.t1,Gamma-cadinene synthase,,
+Ocimum,O. sanctum,OsaTPS12,scaffold6915.g79717.t1,Selinene synthase,,
+Ocimum,O. sanctum,OsaTPS13,scaffold10009.g84172.t1,Vetispiradiene synthase 1 Short=HVS1,,
+Ocimum,O. sanctum,OsaTPS14,scaffold7925.g81842.t1,Cis-muuroladiene synthase Short=MxpSS1,,
+Ocimum,O. sanctum,OsaTPS15,scaffold3188.g60854.t1,Germacrene A synthase,,
+Ocimum,O. sanctum,OsaTPS16,scaffold2155.g49924.t1,Cis-muuroladiene synthase Short=MxpSS1,,
+Ocimum,O. sanctum,OsaTPS17,scaffold4162.g68216.t1,Selinene synthase,,
+Ocimum,O. sanctum,OsaTPS18,scaffold1965.g47609.t1,Gamma-cadinene synthase,,
+Ocimum,O. sanctum,OsaTPS19,scaffold1614.g42655.t1,"Isoprene synthase, chloroplastic Flags",,
+Ocimum,O. sanctum,OsaTPS20,scaffold5960.g76950.t1,Alpha-farnesene synthase,,
+Ocimum,O. sanctum,OsaTPS21,scaffold793.g27838.t1,Alpha-farnesene synthase,,
+Ocimum,O. sanctum,OsaTPS22,scaffold6103.g77439.t1,(+)-epi-alpha-bisabolol synthase,,
+Ocimum,O. sanctum,OsaTPS23,scaffold5960.g76947.t1,Alpha-zingiberene synthase,,
+Ocimum,O. sanctum,OsaTPS24,scaffold581.g22628.t1,(R)-limonene synthase Short=LaLIMS,,
+Ocimum,O. sanctum,OsaTPS25,scaffold1263.g37014.t1,"1,8-cineole synthase, chloroplastic Short=SCS Flags",,
+Ocimum,O. sanctum,OsaTPS26,scaffold77.g5351.t1,(R)-limonene synthase Short=LaLIMS,,
+Ocimum,O. sanctum,OsaTPS27,scaffold581.g22632.t1,"1,8-cineole synthase, chloroplastic Short=SCS Flags",,
+Ocimum,O. sanctum,OsaTPS28,scaffold1797.g45336.t1,"1,8-cineole synthase, chloroplastic Short=SCS Flags",,
+Ocimum,O. sanctum,OsaTPS29,scaffold3344.g62122.t1,"Beta-myrcene synthase, chloroplastic Flags",,
+Ocimum,O. sanctum,OsaTPS30,scaffold3344.g62123.t1,"Beta-myrcene synthase, chloroplastic Flags",,
+Ocimum,O. sanctum,OsaTPS31,scaffold3957.g66769.t1,"Terpinolene synthase, chloroplastic Flags",,
+Ocimum,O. sanctum,OsaTPS32,scaffold4479.g70152.t1,"Terpinolene synthase, chloroplastic Flags",,
+Ocimum,O. sanctum,OsaTPS33,scaffold6266.g77960.t1,"(-)-endo-fenchol synthase, chloroplastic Flags",,
+Ocimum,O. sanctum,OsaTPS34,scaffold8396.g82581.t1,"(-)-endo-fenchol synthase, chloroplastic Flags",,
+Ocimum,O. sanctum,OsaTPS35,scaffold3784.g65511.t1,"Ent-copalyl diphosphate synthase, chloroplastic Short=Ent-CDP synthase",,
+Ocimum,O. sanctum,OsaTPS36,scaffold3016.g59254.t1,"Ent-copalyl diphosphate synthase, chloroplastic Short=Ent-CDP synthase",,
+Ocimum,O. sanctum,OsaTPS37,scaffold2041.g48588.t1,"Copal-8-ol diphosphate hydratase, chloroplastic",,
+Ocimum,O. sanctum,OsaTPS38,scaffold7905.g81814.t1,"Copal-8-ol diphosphate hydratase, chloroplastic",,
+Ocimum,O. sanctum,OsaTPS39,scaffold3756.g65332.t1,"Copal-8-ol diphosphate hydratase, chloroplastic",,
+Ocimum,O. sanctum,OsaTPS40,scaffold543.g21653.t1,"Ent-kaur-16-ene synthase, chloroplastic",,
+Ocimum,O. sanctum,OsaTPS41,scaffold702.g25723.t1,"Cis-abienol synthase, chloroplastic Short=NtABS Flags",,
+Ocimum,O. sanctum,OsaTPS42,scaffold930.g30815.t1,"(E,E)-geranyllinalool synthase",,
+Ocimum,O. sanctum,OsaTPS43,scaffold558.g22102.t1,"Tricyclene synthase 0e23, chloroplastic Short=Am0e23",,
+Ocimum,O. sanctum,OsaTPS44,scaffold1569.g42016.t1,"(3S,6E)-nerolidol synthase 1 Short=FaNES1",,
+Ocimum,O. sanctum,OsaTPS45,scaffold774.g27420.t1,"Geraniol synthase, chloroplastic Short=ObGES Flags",,
+Ocimum,O. sanctum,OsaTPS46,scaffold774.g27428.t1,"Geraniol synthase, chloroplastic Short=ObGES Flags",,
+Ocimum,O. sanctum,OsaTPS47,scaffold774.g27424.t1,"R-linalool synthase, chloroplastic Flags",,
