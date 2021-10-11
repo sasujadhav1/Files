@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary title="enzyme_names" version="0.0.1">
- <metadata>added version; 2021-10-11; PMR</version> 
+ <metadata>added version; 2021-10-11; PMR</metadata> 
  <entry term="( )-delta-cadinene synthase" name="( )-delta-cadinene synthase" id="CM.entpspathway.0"/>
  <entry term="(+)-alpha-barbatene synthase " name="(+)-alpha-barbatene synthase " id="CM.entpspathway.1"/>
  <entry term="(+)-alpha-pinene synthase" name="(+)-alpha-pinene synthase" id="CM.entpspathway.2"/>
