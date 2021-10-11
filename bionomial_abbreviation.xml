@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dictionary title="bionab">
+<dictionary title="bionomial_abbreviation" version="0.0.1">
+ <metadata>added version; 2021-10-11; PMR</version>
  <entry term="aa" name="aa" wikipedia="aa" id="CM.bionab.0"/>
  <entry term="ab" name="ab" wikipedia="ab" id="CM.bionab.1"/>
  <entry term="ac" name="ac" wikipedia="ac" id="CM.bionab.2"/>
